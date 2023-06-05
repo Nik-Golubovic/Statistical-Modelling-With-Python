@@ -1,0 +1,1034 @@
+Station ID,Name,Category,Latitude,Longitude
+hub_435,Club Absinthe,Night Club,43.256943,-79.867659
+hub_435,Hamilton Club,Night Club,43.255183,-79.869448
+hub_435,The French,Wine Bar,43.257347,-79.867496
+hub_435,Undefined,Bar,43.257392,-79.867642
+hub_435,K Point Karaoke & Bar,Arts and Entertainment,43.258247,-79.868158
+hub_435,LOFT Lounge,Night Club,43.257617,-79.871251
+hub_435,Mighty Mikes Pub & Billiards,Pool Hall,43.254333,-79.865966
+hub_435,Zen Lounge,Lounge,43.253962,-79.867155
+hub_435,Undergound,Night Club,43.256647,-79.864966
+hub_435,Tailgate Charlie's,Sports Bar,43.253962,-79.867155
+hub_436,The Brain,Bar,43.261915,-79.867016
+hub_436,The Green Smoothie Bar,Bar,43.262589,-79.866249
+hub_436,Saint James Espresso Bar & Eatery,Bar,43.260862,-79.866884
+hub_436,Bar Sazerac,Night Club,43.263456,-79.865886
+hub_436,Zyla's Music and Menu,Music Venue,43.264002,-79.86607
+hub_436,L'étranger on James,Arts and Entertainment,43.259535,-79.868144
+hub_436,B Me,Bar,43.259542,-79.868052
+hub_436,Merit Brewing,Bar,43.25949,-79.867997
+hub_436,Happy Hourz Pub,Pub,43.259965,-79.869097
+hub_436,Nobody's Perfect Bar and Grill,Karaoke Bar,43.263367,-79.863413
+hub_527,Undergound,Night Club,43.256647,-79.864966
+hub_527,Merit Brewing,Bar,43.25949,-79.867997
+hub_527,Saint James Espresso Bar & Eatery,Bar,43.260862,-79.866884
+hub_527,B Me,Bar,43.259542,-79.868052
+hub_527,Undefined,Bar,43.257392,-79.867642
+hub_527,L'étranger on James,Arts and Entertainment,43.259535,-79.868144
+hub_527,The French,Wine Bar,43.257347,-79.867496
+hub_527,K Point Karaoke & Bar,Arts and Entertainment,43.258247,-79.868158
+hub_527,Club Absinthe,Night Club,43.256943,-79.867659
+hub_527,The Brain,Bar,43.261915,-79.867016
+hub_530,Il Fiasco Cafe & Wine Bar,Whisky Bar,43.265793,-79.954212
+hub_530,Collins Brewhouse,Pub,43.266392,-79.955149
+hub_530,Side Lounge,Bar,43.266479,-79.954746
+hub_530,Bar Or M,Bar,43.264645,-79.956751
+hub_530,Shawn & Ed Brewing Co,Arts and Entertainment,43.265744,-79.957728
+hub_530,Winchester Arms,Pub,43.266652,-79.958997
+hub_535,The Wee Dram,Pub,43.252487,-79.939
+hub_536,The Wee Dram,Pub,43.252487,-79.939
+hub_537,The Wee Dram,Pub,43.252487,-79.939
+hub_538,The Wee Dram,Pub,43.252487,-79.939
+hub_539,Phoenix Bar & Grill,Bar,43.262878,-79.921158
+hub_539,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_539,Emerson 109,Bar,43.25446,-79.92079
+hub_539,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_540,Phoenix Bar & Grill,Bar,43.262878,-79.921158
+hub_540,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_540,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_540,Emerson 109,Bar,43.25446,-79.92079
+hub_541,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_541,Snooty Fox,Pub,43.261816,-79.905256
+hub_541,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_541,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_541,Phoenix Bar & Grill,Bar,43.262878,-79.921158
+hub_542,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_542,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_542,Phoenix Bar & Grill,Bar,43.262878,-79.921158
+hub_542,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_542,Snooty Fox,Pub,43.261816,-79.905256
+hub_543,Snooty Fox,Pub,43.261816,-79.905256
+hub_543,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_543,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_543,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_543,Phoenix Bar & Grill,Bar,43.262878,-79.921158
+hub_544,Snooty Fox,Pub,43.261816,-79.905256
+hub_544,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_545,Emerson 109,Bar,43.25446,-79.92079
+hub_545,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_545,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_546,Emerson 109,Bar,43.25446,-79.92079
+hub_546,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_546,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_546,Phoenix Bar & Grill,Bar,43.262878,-79.921158
+hub_546,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_547,Snooty Fox,Pub,43.261816,-79.905256
+hub_547,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_548,Emerson 109,Bar,43.25446,-79.92079
+hub_548,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_548,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_548,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_549,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_549,Snooty Fox,Pub,43.261816,-79.905256
+hub_549,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_549,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_550,Snooty Fox,Pub,43.261816,-79.905256
+hub_550,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_551,Snooty Fox,Pub,43.261816,-79.905256
+hub_553,Snooty Fox,Pub,43.261816,-79.905256
+hub_553,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_554,Snooty Fox,Pub,43.261816,-79.905256
+hub_555,Snooty Fox,Pub,43.261816,-79.905256
+hub_555,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_555,Ray's Place,Pub,43.252556,-79.891906
+hub_556,Ray's Place,Pub,43.252556,-79.891906
+hub_557,Ray's Place,Pub,43.252556,-79.891906
+hub_557,West Town Bar & Grill,Bar,43.254502,-79.886256
+hub_558,Ray's Place,Pub,43.252556,-79.891906
+hub_558,West Town Bar & Grill,Bar,43.254502,-79.886256
+hub_558,Mark's Chinese Food & Tavern,Bar,43.260901,-79.883074
+hub_559,Mark's Chinese Food & Tavern,Bar,43.260901,-79.883074
+hub_559,West Town Bar & Grill,Bar,43.254502,-79.886256
+hub_559,Ray's Place,Pub,43.252556,-79.891906
+hub_559,Absinthe Lounge,Bar,43.258547,-79.87878
+hub_559,Viva Night Club,Night Club,43.25826,-79.878871
+hub_559,Moodys,Bar,43.258164,-79.878669
+hub_559,Arcade,Arcade,43.258171,-79.878578
+hub_559,The Strathcona,Wine Bar,43.25959,-79.878308
+hub_559,Side Bar,Lounge,43.258331,-79.877956
+hub_559,Doors Pub & Pizzeria,Pub,43.257353,-79.8783
+hub_560,Mark's Chinese Food & Tavern,Bar,43.260901,-79.883074
+hub_560,Stonewalls,Lounge,43.263101,-79.878485
+hub_560,Tonic Lounge,Night Club,43.262826,-79.877697
+hub_560,The Strathcona,Wine Bar,43.25959,-79.878308
+hub_560,Absinthe Lounge,Bar,43.258547,-79.87878
+hub_560,Viva Night Club,Night Club,43.25826,-79.878871
+hub_560,West Town Bar & Grill,Bar,43.254502,-79.886256
+hub_560,Moodys,Bar,43.258164,-79.878669
+hub_560,Arcade,Arcade,43.258171,-79.878578
+hub_560,Side Bar,Lounge,43.258331,-79.877956
+hub_562,West Town Bar & Grill,Bar,43.254502,-79.886256
+hub_562,Ray's Place,Pub,43.252556,-79.891906
+hub_562,Doors Pub & Pizzeria,Pub,43.257353,-79.8783
+hub_562,Viva Night Club,Night Club,43.25826,-79.878871
+hub_562,Moodys,Bar,43.258164,-79.878669
+hub_562,Arcade,Arcade,43.258171,-79.878578
+hub_562,Absinthe Lounge,Bar,43.258547,-79.87878
+hub_562,Vip Saturdays,Night Club,43.258051,-79.877955
+hub_562,Ten Decades,Bar,43.258051,-79.877955
+hub_562,Bourbon & Brass Speakeasy,Music Venue,43.258051,-79.877955
+hub_563,West Town Bar & Grill,Bar,43.254502,-79.886256
+hub_563,Mark's Chinese Food & Tavern,Bar,43.260901,-79.883074
+hub_563,Viva Night Club,Night Club,43.25826,-79.878871
+hub_563,Absinthe Lounge,Bar,43.258547,-79.87878
+hub_563,Moodys,Bar,43.258164,-79.878669
+hub_563,Arcade,Arcade,43.258171,-79.878578
+hub_563,Doors Pub & Pizzeria,Pub,43.257353,-79.8783
+hub_563,Side Bar,Lounge,43.258331,-79.877956
+hub_563,Vip Saturdays,Night Club,43.258051,-79.877955
+hub_563,Ten Decades,Bar,43.258051,-79.877955
+hub_564,Mark's Chinese Food & Tavern,Bar,43.260901,-79.883074
+hub_564,Stonewalls,Lounge,43.263101,-79.878485
+hub_564,Tonic Lounge,Night Club,43.262826,-79.877697
+hub_564,The Strathcona,Wine Bar,43.25959,-79.878308
+hub_564,Absinthe Lounge,Bar,43.258547,-79.87878
+hub_564,Viva Night Club,Night Club,43.25826,-79.878871
+hub_564,Moodys,Bar,43.258164,-79.878669
+hub_564,Arcade,Arcade,43.258171,-79.878578
+hub_564,Side Bar,Lounge,43.258331,-79.877956
+hub_564,Gown & Gavel,Bar,43.258338,-79.877864
+hub_565,Stonewalls,Lounge,43.263101,-79.878485
+hub_565,Tonic Lounge,Night Club,43.262826,-79.877697
+hub_565,Mark's Chinese Food & Tavern,Bar,43.260901,-79.883074
+hub_565,The Strathcona,Wine Bar,43.25959,-79.878308
+hub_565,Absinthe Lounge,Bar,43.258547,-79.87878
+hub_565,Viva Night Club,Night Club,43.25826,-79.878871
+hub_565,Moodys,Bar,43.258164,-79.878669
+hub_565,Gown & Gavel,Bar,43.258338,-79.877864
+hub_565,Elixir Lounge & Nightclub,Night Club,43.258514,-79.877755
+hub_565,Arcade,Arcade,43.258171,-79.878578
+hub_566,West Town Bar & Grill,Bar,43.254502,-79.886256
+hub_566,Ray's Place,Pub,43.252556,-79.891906
+hub_567,West Town Bar & Grill,Bar,43.254502,-79.886256
+hub_567,Doors Pub & Pizzeria,Pub,43.257353,-79.8783
+hub_567,Arcade,Arcade,43.258171,-79.878578
+hub_567,Moodys,Bar,43.258164,-79.878669
+hub_567,Viva Night Club,Night Club,43.25826,-79.878871
+hub_567,Vip Saturdays,Night Club,43.258051,-79.877955
+hub_567,Ten Decades,Bar,43.258051,-79.877955
+hub_567,Bourbon & Brass Speakeasy,Music Venue,43.258051,-79.877955
+hub_567,Side Bar,Lounge,43.258331,-79.877956
+hub_567,Absinthe Lounge,Bar,43.258547,-79.87878
+hub_568,West Town Bar & Grill,Bar,43.254502,-79.886256
+hub_568,Doors Pub & Pizzeria,Pub,43.257353,-79.8783
+hub_568,Viva Night Club,Night Club,43.25826,-79.878871
+hub_568,Moodys,Bar,43.258164,-79.878669
+hub_568,Arcade,Arcade,43.258171,-79.878578
+hub_568,Vip Saturdays,Night Club,43.258051,-79.877955
+hub_568,Ten Decades,Bar,43.258051,-79.877955
+hub_568,Bourbon & Brass Speakeasy,Music Venue,43.258051,-79.877955
+hub_568,Absinthe Lounge,Bar,43.258547,-79.87878
+hub_568,Side Bar,Lounge,43.258331,-79.877956
+hub_569,Doors Pub & Pizzeria,Pub,43.257353,-79.8783
+hub_569,Vip Saturdays,Night Club,43.258051,-79.877955
+hub_569,Ten Decades,Bar,43.258051,-79.877955
+hub_569,Bourbon & Brass Speakeasy,Music Venue,43.258051,-79.877955
+hub_569,Arcade,Arcade,43.258171,-79.878578
+hub_569,Moodys,Bar,43.258164,-79.878669
+hub_569,Viva Night Club,Night Club,43.25826,-79.878871
+hub_569,Side Bar,Lounge,43.258331,-79.877956
+hub_569,The Standard Lounge,Night Club,43.258204,-79.877424
+hub_569,Sizzle Steak House & Lounge,Lounge,43.258263,-79.877388
+hub_570,Tonic Lounge,Night Club,43.262826,-79.877697
+hub_570,Stonewalls,Lounge,43.263101,-79.878485
+hub_570,The Strathcona,Wine Bar,43.25959,-79.878308
+hub_570,Elixir Lounge & Nightclub,Night Club,43.258514,-79.877755
+hub_570,The Masque Wine Jazz Bar,Jazz and Blues Venue,43.258432,-79.87737
+hub_570,Gown & Gavel,Bar,43.258338,-79.877864
+hub_570,Lazy Flamingo,Bar,43.258432,-79.87737
+hub_570,Absinthe Lounge,Bar,43.258547,-79.87878
+hub_570,Side Bar,Lounge,43.258331,-79.877956
+hub_570,Sizzle Steak House & Lounge,Lounge,43.258263,-79.877388
+hub_571,Stonewalls,Lounge,43.263101,-79.878485
+hub_571,Tonic Lounge,Night Club,43.262826,-79.877697
+hub_571,The Strathcona,Wine Bar,43.25959,-79.878308
+hub_571,Mark's Chinese Food & Tavern,Bar,43.260901,-79.883074
+hub_571,Absinthe Lounge,Bar,43.258547,-79.87878
+hub_571,Elixir Lounge & Nightclub,Night Club,43.258514,-79.877755
+hub_571,The Masque Wine Jazz Bar,Jazz and Blues Venue,43.258432,-79.87737
+hub_571,Gown & Gavel,Bar,43.258338,-79.877864
+hub_571,Lazy Flamingo,Bar,43.258432,-79.87737
+hub_571,Side Bar,Lounge,43.258331,-79.877956
+hub_572,Odds Bar,Sports Bar,43.251849,-79.871341
+hub_572,M Bar,Night Club,43.251849,-79.871341
+hub_572,Mezcal TNT,Bar,43.252188,-79.871305
+hub_572,The Pheasant Plucker,Pub,43.251875,-79.870279
+hub_572,The Ship,Pub,43.252066,-79.869987
+hub_572,The Judge,Bar,43.252249,-79.869786
+hub_572,Cat 'N' Fiddle,Pub,43.251502,-79.868593
+hub_572,Gallagher's Bar and Lounge 69 Augusta S,Arts and Entertainment,43.251655,-79.868063
+hub_572,The Lionshead Pub,Pub,43.252287,-79.867845
+hub_572,Hamilton Club,Night Club,43.255183,-79.869448
+hub_573,Odds Bar,Sports Bar,43.251849,-79.871341
+hub_573,M Bar,Night Club,43.251849,-79.871341
+hub_573,The Pheasant Plucker,Pub,43.251875,-79.870279
+hub_573,Mezcal TNT,Bar,43.252188,-79.871305
+hub_573,The Ship,Pub,43.252066,-79.869987
+hub_573,The Judge,Bar,43.252249,-79.869786
+hub_573,Cat 'N' Fiddle,Pub,43.251502,-79.868593
+hub_573,Gallagher's Bar and Lounge 69 Augusta S,Arts and Entertainment,43.251655,-79.868063
+hub_573,The Lionshead Pub,Pub,43.252287,-79.867845
+hub_573,Liquid Kitty,Night Club,43.253962,-79.867155
+hub_574,M Bar,Night Club,43.251849,-79.871341
+hub_574,Odds Bar,Sports Bar,43.251849,-79.871341
+hub_574,Mezcal TNT,Bar,43.252188,-79.871305
+hub_574,Doors Pub & Pizzeria,Pub,43.257353,-79.8783
+hub_574,The Pheasant Plucker,Pub,43.251875,-79.870279
+hub_574,The Judge,Bar,43.252249,-79.869786
+hub_574,Hamilton Club,Night Club,43.255183,-79.869448
+hub_574,Anchor Bar,Lounge,43.257946,-79.87279
+hub_574,Vip Saturdays,Night Club,43.258051,-79.877955
+hub_574,Ten Decades,Bar,43.258051,-79.877955
+hub_575,Anchor Bar,Lounge,43.257946,-79.87279
+hub_575,The George Hamilton,Bar,43.2582,-79.873853
+hub_575,Yuk Yuk's Comedy Club,Comedy Club,43.258263,-79.873029
+hub_575,Yuk Yuk's Comedy Cabaret,Comedy Club,43.258263,-79.873029
+hub_575,LOFT Lounge,Night Club,43.257617,-79.871251
+hub_575,Doors Pub & Pizzeria,Pub,43.257353,-79.8783
+hub_575,The Standard Lounge,Night Club,43.258204,-79.877424
+hub_575,Sizzle Steak House & Lounge,Lounge,43.258263,-79.877388
+hub_575,The Masque Wine Jazz Bar,Jazz and Blues Venue,43.258432,-79.87737
+hub_575,Lazy Flamingo,Bar,43.258432,-79.87737
+hub_576,The George Hamilton,Bar,43.2582,-79.873853
+hub_576,Yuk Yuk's Comedy Club,Comedy Club,43.258263,-79.873029
+hub_576,Yuk Yuk's Comedy Cabaret,Comedy Club,43.258263,-79.873029
+hub_576,Anchor Bar,Lounge,43.257946,-79.87279
+hub_576,LOFT Lounge,Night Club,43.257617,-79.871251
+hub_576,The Masque Wine Jazz Bar,Jazz and Blues Venue,43.258432,-79.87737
+hub_576,Sizzle Steak House & Lounge,Lounge,43.258263,-79.877388
+hub_576,Lazy Flamingo,Bar,43.258432,-79.87737
+hub_576,The Standard Lounge,Night Club,43.258204,-79.877424
+hub_576,Happy Hourz Pub,Pub,43.259965,-79.869097
+hub_577,Happy Hourz Pub,Pub,43.259965,-79.869097
+hub_577,The Brain,Bar,43.261915,-79.867016
+hub_577,The Green Smoothie Bar,Bar,43.262589,-79.866249
+hub_577,Saint James Espresso Bar & Eatery,Bar,43.260862,-79.866884
+hub_577,Bar Sazerac,Night Club,43.263456,-79.865886
+hub_577,Zyla's Music and Menu,Music Venue,43.264002,-79.86607
+hub_577,Tonic Lounge,Night Club,43.262826,-79.877697
+hub_577,L'étranger on James,Arts and Entertainment,43.259535,-79.868144
+hub_577,B Me,Bar,43.259542,-79.868052
+hub_577,Merit Brewing,Bar,43.25949,-79.867997
+hub_578,This Ain't Hollywood,Arts and Entertainment,43.264986,-79.865634
+hub_578,Zyla's Music and Menu,Music Venue,43.264002,-79.86607
+hub_578,Bar Sazerac,Night Club,43.263456,-79.865886
+hub_578,The Green Smoothie Bar,Bar,43.262589,-79.866249
+hub_578,Nobody's Perfect Bar and Grill,Karaoke Bar,43.263367,-79.863413
+hub_578,Route 66 Diner,Bar,43.272393,-79.862434
+hub_578,The Brain,Bar,43.261915,-79.867016
+hub_578,Hamilton Strip,Night Club,43.263017,-79.862148
+hub_578,Saint James Espresso Bar & Eatery,Bar,43.260862,-79.866884
+hub_578,Happy Hourz Pub,Pub,43.259965,-79.869097
+hub_579,This Ain't Hollywood,Arts and Entertainment,43.264986,-79.865634
+hub_579,Zyla's Music and Menu,Music Venue,43.264002,-79.86607
+hub_579,Bar Sazerac,Night Club,43.263456,-79.865886
+hub_579,Route 66 Diner,Bar,43.272393,-79.862434
+hub_579,The Green Smoothie Bar,Bar,43.262589,-79.866249
+hub_579,Stonewalls,Lounge,43.263101,-79.878485
+hub_579,Tonic Lounge,Night Club,43.262826,-79.877697
+hub_579,The Brain,Bar,43.261915,-79.867016
+hub_579,Nobody's Perfect Bar and Grill,Karaoke Bar,43.263367,-79.863413
+hub_580,Emerson 109,Bar,43.25446,-79.92079
+hub_580,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_581,Hamilton Strip,Night Club,43.263017,-79.862148
+hub_581,Nobody's Perfect Bar and Grill,Karaoke Bar,43.263367,-79.863413
+hub_581,This Ain't Hollywood,Arts and Entertainment,43.264986,-79.865634
+hub_581,Zyla's Music and Menu,Music Venue,43.264002,-79.86607
+hub_581,Bar Sazerac,Night Club,43.263456,-79.865886
+hub_581,The Green Smoothie Bar,Bar,43.262589,-79.866249
+hub_581,The Brain,Bar,43.261915,-79.867016
+hub_581,Route 66 Diner,Bar,43.272393,-79.862434
+hub_581,Saint James Espresso Bar & Eatery,Bar,43.260862,-79.866884
+hub_581,Fragoso Seafood Place,Bar,43.261057,-79.852728
+hub_582,Route 66 Diner,Bar,43.272393,-79.862434
+hub_582,This Ain't Hollywood,Arts and Entertainment,43.264986,-79.865634
+hub_582,Nobody's Perfect Bar and Grill,Karaoke Bar,43.263367,-79.863413
+hub_582,Zyla's Music and Menu,Music Venue,43.264002,-79.86607
+hub_582,Hamilton Strip,Night Club,43.263017,-79.862148
+hub_582,Bar Sazerac,Night Club,43.263456,-79.865886
+hub_582,The Green Smoothie Bar,Bar,43.262589,-79.866249
+hub_583,Route 66 Diner,Bar,43.272393,-79.862434
+hub_585,Route 66 Diner,Bar,43.272393,-79.862434
+hub_586,Cat 'N' Fiddle,Pub,43.251502,-79.868593
+hub_586,Gallagher's Bar and Lounge 69 Augusta S,Arts and Entertainment,43.251655,-79.868063
+hub_586,Corktown Tavern,Pub,43.249707,-79.864303
+hub_586,The Lionshead Pub,Pub,43.252287,-79.867845
+hub_586,The Judge,Bar,43.252249,-79.869786
+hub_586,The Pheasant Plucker,Pub,43.251875,-79.870279
+hub_586,The Ship,Pub,43.252066,-79.869987
+hub_586,Odds Bar,Sports Bar,43.251849,-79.871341
+hub_586,M Bar,Night Club,43.251849,-79.871341
+hub_586,Mezcal TNT,Bar,43.252188,-79.871305
+hub_587,Hamilton Club,Night Club,43.255183,-79.869448
+hub_587,LOFT Lounge,Night Club,43.257617,-79.871251
+hub_587,Anchor Bar,Lounge,43.257946,-79.87279
+hub_587,Yuk Yuk's Comedy Club,Comedy Club,43.258263,-79.873029
+hub_587,Yuk Yuk's Comedy Cabaret,Comedy Club,43.258263,-79.873029
+hub_587,The George Hamilton,Bar,43.2582,-79.873853
+hub_587,Club Absinthe,Night Club,43.256943,-79.867659
+hub_587,The French,Wine Bar,43.257347,-79.867496
+hub_587,Undefined,Bar,43.257392,-79.867642
+hub_587,K Point Karaoke & Bar,Arts and Entertainment,43.258247,-79.868158
+hub_588,Hamilton Strip,Night Club,43.263017,-79.862148
+hub_588,Nobody's Perfect Bar and Grill,Karaoke Bar,43.263367,-79.863413
+hub_588,Fragoso Seafood Place,Bar,43.261057,-79.852728
+hub_588,Bar Sazerac,Night Club,43.263456,-79.865886
+hub_588,Vavo John's Bar,Bar,43.260077,-79.850198
+hub_588,Zyla's Music and Menu,Music Venue,43.264002,-79.86607
+hub_588,The Green Smoothie Bar,Bar,43.262589,-79.866249
+hub_588,This Ain't Hollywood,Arts and Entertainment,43.264986,-79.865634
+hub_588,The Brain,Bar,43.261915,-79.867016
+hub_588,Saint James Espresso Bar & Eatery,Bar,43.260862,-79.866884
+hub_589,Fragoso Seafood Place,Bar,43.261057,-79.852728
+hub_589,Hamilton Strip,Night Club,43.263017,-79.862148
+hub_589,Vavo John's Bar,Bar,43.260077,-79.850198
+hub_589,Nobody's Perfect Bar and Grill,Karaoke Bar,43.263367,-79.863413
+hub_589,Route 66 Diner,Bar,43.272393,-79.862434
+hub_589,This Ain't Hollywood,Arts and Entertainment,43.264986,-79.865634
+hub_589,Zyla's Music and Menu,Music Venue,43.264002,-79.86607
+hub_589,Bar Sazerac,Night Club,43.263456,-79.865886
+hub_589,Galley Pump,Pub,43.262919,-79.84451
+hub_590,Undergound,Night Club,43.256647,-79.864966
+hub_590,Black Forest Inn,Bar,43.254392,-79.861571
+hub_590,Hamilton Strip,Night Club,43.263017,-79.862148
+hub_590,TJ King Karaoke,Amusement Park,43.254514,-79.86289
+hub_590,Nobody's Perfect Bar and Grill,Karaoke Bar,43.263367,-79.863413
+hub_590,Niza Ent,Night Club,43.253717,-79.862338
+hub_590,Sous Bas,Lounge,43.254119,-79.863658
+hub_590,Fragoso Seafood Place,Bar,43.261057,-79.852728
+hub_590,Saint James Espresso Bar & Eatery,Bar,43.260862,-79.866884
+hub_590,Undefined,Bar,43.257392,-79.867642
+hub_591,Black Forest Inn,Bar,43.254392,-79.861571
+hub_591,TJ King Karaoke,Amusement Park,43.254514,-79.86289
+hub_591,Niza Ent,Night Club,43.253717,-79.862338
+hub_591,Sous Bas,Lounge,43.254119,-79.863658
+hub_591,Tea Hut,Bar,43.254244,-79.865672
+hub_591,Undergound,Night Club,43.256647,-79.864966
+hub_591,Mighty Mikes Pub & Billiards,Pool Hall,43.254333,-79.865966
+hub_591,33 Bowen,Music Venue,43.253973,-79.866276
+hub_591,Tailgate Charlie's,Sports Bar,43.253962,-79.867155
+hub_591,Zen Lounge,Lounge,43.253962,-79.867155
+hub_593,Fragoso Seafood Place,Bar,43.261057,-79.852728
+hub_593,Vavo John's Bar,Bar,43.260077,-79.850198
+hub_593,Mosaic - Hamilton,Beer Bar,43.259543,-79.846955
+hub_593,Hamilton Strip,Night Club,43.263017,-79.862148
+hub_593,Nobody's Perfect Bar and Grill,Karaoke Bar,43.263367,-79.863413
+hub_593,Rebel's Rock Irish Pub,Bar,43.252669,-79.852703
+hub_593,Ed's Sports Bar,Lounge,43.252523,-79.850963
+hub_593,E's Sports Bar,Sports Bar,43.252516,-79.851055
+hub_593,Galley Pump,Pub,43.262919,-79.84451
+hub_594,Vavo John's Bar,Bar,43.260077,-79.850198
+hub_594,Fragoso Seafood Place,Bar,43.261057,-79.852728
+hub_594,Rebel's Rock Irish Pub,Bar,43.252669,-79.852703
+hub_594,Mosaic - Hamilton,Beer Bar,43.259543,-79.846955
+hub_594,E's Sports Bar,Sports Bar,43.252516,-79.851055
+hub_594,Ed's Sports Bar,Lounge,43.252523,-79.850963
+hub_594,Carlton Tavern,Karaoke Bar,43.252253,-79.849388
+hub_594,Black Forest Inn,Bar,43.254392,-79.861571
+hub_594,Niza Ent,Night Club,43.253717,-79.862338
+hub_594,TJ King Karaoke,Amusement Park,43.254514,-79.86289
+hub_596,Ideal Vapes,Lounge,43.241421,-79.852798
+hub_596,Stoneroads Bar & Grill,Bar,43.241259,-79.852724
+hub_596,Jax Bar & Grill,Dive Bar,43.249934,-79.848996
+hub_596,E's Sports Bar,Sports Bar,43.252516,-79.851055
+hub_596,Carlton Tavern,Karaoke Bar,43.252253,-79.849388
+hub_596,Ed's Sports Bar,Lounge,43.252523,-79.850963
+hub_596,Rebel's Rock Irish Pub,Bar,43.252669,-79.852703
+hub_597,Jax Bar & Grill,Dive Bar,43.249934,-79.848996
+hub_597,Rebel's Rock Irish Pub,Bar,43.252669,-79.852703
+hub_597,E's Sports Bar,Sports Bar,43.252516,-79.851055
+hub_597,Ed's Sports Bar,Lounge,43.252523,-79.850963
+hub_597,Carlton Tavern,Karaoke Bar,43.252253,-79.849388
+hub_597,Corktown Tavern,Pub,43.249707,-79.864303
+hub_597,Ideal Vapes,Lounge,43.241421,-79.852798
+hub_597,Stoneroads Bar & Grill,Bar,43.241259,-79.852724
+hub_597,Niza Ent,Night Club,43.253717,-79.862338
+hub_597,Black Forest Inn,Bar,43.254392,-79.861571
+hub_598,Niza Ent,Night Club,43.253717,-79.862338
+hub_598,Sous Bas,Lounge,43.254119,-79.863658
+hub_598,Corktown Tavern,Pub,43.249707,-79.864303
+hub_598,Tea Hut,Bar,43.254244,-79.865672
+hub_598,TJ King Karaoke,Amusement Park,43.254514,-79.86289
+hub_598,Black Forest Inn,Bar,43.254392,-79.861571
+hub_598,33 Bowen,Music Venue,43.253973,-79.866276
+hub_598,Mighty Mikes Pub & Billiards,Pool Hall,43.254333,-79.865966
+hub_598,Tailgate Charlie's,Sports Bar,43.253962,-79.867155
+hub_598,Gallagher's Bar and Lounge 69 Augusta S,Arts and Entertainment,43.251655,-79.868063
+hub_599,Corktown Tavern,Pub,43.249707,-79.864303
+hub_599,Gallagher's Bar and Lounge 69 Augusta S,Arts and Entertainment,43.251655,-79.868063
+hub_599,Cat 'N' Fiddle,Pub,43.251502,-79.868593
+hub_599,The Lionshead Pub,Pub,43.252287,-79.867845
+hub_599,Niza Ent,Night Club,43.253717,-79.862338
+hub_599,Sous Bas,Lounge,43.254119,-79.863658
+hub_599,Liquid Kitty,Night Club,43.253962,-79.867155
+hub_599,Tailgate Charlie's,Sports Bar,43.253962,-79.867155
+hub_599,33 Bowen,Music Venue,43.253973,-79.866276
+hub_599,Tea Hut,Bar,43.254244,-79.865672
+hub_601,Corktown Tavern,Pub,43.249707,-79.864303
+hub_601,Niza Ent,Night Club,43.253717,-79.862338
+hub_601,Black Forest Inn,Bar,43.254392,-79.861571
+hub_601,Sous Bas,Lounge,43.254119,-79.863658
+hub_601,TJ King Karaoke,Amusement Park,43.254514,-79.86289
+hub_601,Rebel's Rock Irish Pub,Bar,43.252669,-79.852703
+hub_601,Tea Hut,Bar,43.254244,-79.865672
+hub_601,Gallagher's Bar and Lounge 69 Augusta S,Arts and Entertainment,43.251655,-79.868063
+hub_601,33 Bowen,Music Venue,43.253973,-79.866276
+hub_601,Cat 'N' Fiddle,Pub,43.251502,-79.868593
+hub_602,Rebel's Rock Irish Pub,Bar,43.252669,-79.852703
+hub_602,E's Sports Bar,Sports Bar,43.252516,-79.851055
+hub_602,Ed's Sports Bar,Lounge,43.252523,-79.850963
+hub_602,Black Forest Inn,Bar,43.254392,-79.861571
+hub_602,Niza Ent,Night Club,43.253717,-79.862338
+hub_602,Carlton Tavern,Karaoke Bar,43.252253,-79.849388
+hub_602,TJ King Karaoke,Amusement Park,43.254514,-79.86289
+hub_602,Sous Bas,Lounge,43.254119,-79.863658
+hub_602,Jax Bar & Grill,Dive Bar,43.249934,-79.848996
+hub_602,Tea Hut,Bar,43.254244,-79.865672
+hub_603,Mosaic - Hamilton,Beer Bar,43.259543,-79.846955
+hub_603,Vavo John's Bar,Bar,43.260077,-79.850198
+hub_603,MaiPai Tiki Bar,Tiki Bar,43.257164,-79.837883
+hub_603,Zacks,Bar,43.256738,-79.838321
+hub_603,Sam's,Bar,43.256863,-79.838157
+hub_603,Fragoso Seafood Place,Bar,43.261057,-79.852728
+hub_603,Galley Pump,Pub,43.262919,-79.84451
+hub_603,Carlton Tavern,Karaoke Bar,43.252253,-79.849388
+hub_603,Hamilton Specialty Bar,Lounge,43.261754,-79.835642
+hub_603,Ed's Sports Bar,Lounge,43.252523,-79.850963
+hub_604,Mosaic - Hamilton,Beer Bar,43.259543,-79.846955
+hub_604,Galley Pump,Pub,43.262919,-79.84451
+hub_604,Carlton Tavern,Karaoke Bar,43.252253,-79.849388
+hub_604,Ed's Sports Bar,Lounge,43.252523,-79.850963
+hub_604,E's Sports Bar,Sports Bar,43.252516,-79.851055
+hub_604,Rebel's Rock Irish Pub,Bar,43.252669,-79.852703
+hub_604,Vavo John's Bar,Bar,43.260077,-79.850198
+hub_604,Jax Bar & Grill,Dive Bar,43.249934,-79.848996
+hub_604,Fragoso Seafood Place,Bar,43.261057,-79.852728
+hub_604,Zacks,Bar,43.256738,-79.838321
+hub_605,Carlton Tavern,Karaoke Bar,43.252253,-79.849388
+hub_605,Ed's Sports Bar,Lounge,43.252523,-79.850963
+hub_605,E's Sports Bar,Sports Bar,43.252516,-79.851055
+hub_605,Jax Bar & Grill,Dive Bar,43.249934,-79.848996
+hub_605,Rebel's Rock Irish Pub,Bar,43.252669,-79.852703
+hub_605,Mosaic - Hamilton,Beer Bar,43.259543,-79.846955
+hub_605,Vavo John's Bar,Bar,43.260077,-79.850198
+hub_606,Route 66 Diner,Bar,43.272393,-79.862434
+hub_606,This Ain't Hollywood,Arts and Entertainment,43.264986,-79.865634
+hub_606,Zyla's Music and Menu,Music Venue,43.264002,-79.86607
+hub_606,Bar Sazerac,Night Club,43.263456,-79.865886
+hub_607,The Lionshead Pub,Pub,43.252287,-79.867845
+hub_607,The Judge,Bar,43.252249,-79.869786
+hub_607,Gallagher's Bar and Lounge 69 Augusta S,Arts and Entertainment,43.251655,-79.868063
+hub_607,The Ship,Pub,43.252066,-79.869987
+hub_607,Cat 'N' Fiddle,Pub,43.251502,-79.868593
+hub_607,The Pheasant Plucker,Pub,43.251875,-79.870279
+hub_607,Mezcal TNT,Bar,43.252188,-79.871305
+hub_607,Liquid Kitty,Night Club,43.253962,-79.867155
+hub_607,Tailgate Charlie's,Sports Bar,43.253962,-79.867155
+hub_607,Zen Lounge,Lounge,43.253962,-79.867155
+hub_608,Zyla's Music and Menu,Music Venue,43.264002,-79.86607
+hub_608,Bar Sazerac,Night Club,43.263456,-79.865886
+hub_608,The Green Smoothie Bar,Bar,43.262589,-79.866249
+hub_608,This Ain't Hollywood,Arts and Entertainment,43.264986,-79.865634
+hub_608,Nobody's Perfect Bar and Grill,Karaoke Bar,43.263367,-79.863413
+hub_608,The Brain,Bar,43.261915,-79.867016
+hub_608,Saint James Espresso Bar & Eatery,Bar,43.260862,-79.866884
+hub_608,Hamilton Strip,Night Club,43.263017,-79.862148
+hub_608,L'étranger on James,Arts and Entertainment,43.259535,-79.868144
+hub_608,Happy Hourz Pub,Pub,43.259965,-79.869097
+hub_609,Niza Ent,Night Club,43.253717,-79.862338
+hub_609,Black Forest Inn,Bar,43.254392,-79.861571
+hub_609,TJ King Karaoke,Amusement Park,43.254514,-79.86289
+hub_609,Sous Bas,Lounge,43.254119,-79.863658
+hub_609,Tea Hut,Bar,43.254244,-79.865672
+hub_609,Mighty Mikes Pub & Billiards,Pool Hall,43.254333,-79.865966
+hub_609,33 Bowen,Music Venue,43.253973,-79.866276
+hub_609,Undergound,Night Club,43.256647,-79.864966
+hub_609,Tailgate Charlie's,Sports Bar,43.253962,-79.867155
+hub_609,Zen Lounge,Lounge,43.253962,-79.867155
+hub_610,Zacks,Bar,43.256738,-79.838321
+hub_610,Sam's,Bar,43.256863,-79.838157
+hub_610,MaiPai Tiki Bar,Tiki Bar,43.257164,-79.837883
+hub_610,Galley Pump,Pub,43.262919,-79.84451
+hub_610,The Capitol Bar,Bar,43.251372,-79.835377
+hub_610,Prince Edward Tavern,Dive Bar,43.255851,-79.833118
+hub_610,Bottoms Up,Bar,43.255851,-79.833118
+hub_610,Wingporium | Prince Eddy Sports Bar,Bar,43.255851,-79.833118
+hub_610,Mosaic - Hamilton,Beer Bar,43.259543,-79.846955
+hub_610,Carlton Tavern,Karaoke Bar,43.252253,-79.849388
+hub_611,The Capitol Bar,Bar,43.251372,-79.835377
+hub_611,Zacks,Bar,43.256738,-79.838321
+hub_611,Sam's,Bar,43.256863,-79.838157
+hub_611,MaiPai Tiki Bar,Tiki Bar,43.257164,-79.837883
+hub_611,Prince Edward Tavern,Dive Bar,43.255851,-79.833118
+hub_611,Bottoms Up,Bar,43.255851,-79.833118
+hub_611,Wingporium | Prince Eddy Sports Bar,Bar,43.255851,-79.833118
+hub_611,Hamilton Specialty Bar,Lounge,43.261754,-79.835642
+hub_611,Carlton Tavern,Karaoke Bar,43.252253,-79.849388
+hub_612,Jax Bar & Grill,Dive Bar,43.249934,-79.848996
+hub_612,Carlton Tavern,Karaoke Bar,43.252253,-79.849388
+hub_612,Ed's Sports Bar,Lounge,43.252523,-79.850963
+hub_612,E's Sports Bar,Sports Bar,43.252516,-79.851055
+hub_612,Rebel's Rock Irish Pub,Bar,43.252669,-79.852703
+hub_612,Ideal Vapes,Lounge,43.241421,-79.852798
+hub_612,Stoneroads Bar & Grill,Bar,43.241259,-79.852724
+hub_613,The Capitol Bar,Bar,43.251372,-79.835377
+hub_613,Your Neighbourhood Bar and Grill,Pub,43.238206,-79.842244
+hub_614,Faces Cafe & Bar,Bar,43.243401,-79.822633
+hub_614,Buddys Roadhouse,Bar,43.240965,-79.822316
+hub_614,Osten Beerhall,Beer Bar,43.248569,-79.821601
+hub_614,The Capitol Bar,Bar,43.251372,-79.835377
+hub_622,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_622,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_622,Emerson 109,Bar,43.25446,-79.92079
+hub_622,Phoenix Bar & Grill,Bar,43.262878,-79.921158
+hub_622,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_623,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_623,Phoenix Bar & Grill,Bar,43.262878,-79.921158
+hub_623,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_623,Emerson 109,Bar,43.25446,-79.92079
+hub_624,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_624,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_624,Phoenix Bar & Grill,Bar,43.262878,-79.921158
+hub_624,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_624,Emerson 109,Bar,43.25446,-79.92079
+hub_625,Phoenix Bar & Grill,Bar,43.262878,-79.921158
+hub_625,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_625,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_625,Emerson 109,Bar,43.25446,-79.92079
+hub_626,Phoenix Bar & Grill,Bar,43.262878,-79.921158
+hub_626,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_626,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_626,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_631,The Lionshead Pub,Pub,43.252287,-79.867845
+hub_631,The Judge,Bar,43.252249,-79.869786
+hub_631,The Ship,Pub,43.252066,-79.869987
+hub_631,Liquid Kitty,Night Club,43.253962,-79.867155
+hub_631,The Pheasant Plucker,Pub,43.251875,-79.870279
+hub_631,Mezcal TNT,Bar,43.252188,-79.871305
+hub_631,Zen Lounge,Lounge,43.253962,-79.867155
+hub_631,Tailgate Charlie's,Sports Bar,43.253962,-79.867155
+hub_631,Hamilton Club,Night Club,43.255183,-79.869448
+hub_631,Gallagher's Bar and Lounge 69 Augusta S,Arts and Entertainment,43.251655,-79.868063
+hub_707,Phoenix Bar & Grill,Bar,43.262878,-79.921158
+hub_707,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_707,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_707,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_707,Snooty Fox,Pub,43.261816,-79.905256
+hub_707,Emerson 109,Bar,43.25446,-79.92079
+hub_708,Happy Hourz Pub,Pub,43.259965,-79.869097
+hub_708,L'étranger on James,Arts and Entertainment,43.259535,-79.868144
+hub_708,B Me,Bar,43.259542,-79.868052
+hub_708,Merit Brewing,Bar,43.25949,-79.867997
+hub_708,K Point Karaoke & Bar,Arts and Entertainment,43.258247,-79.868158
+hub_708,Undefined,Bar,43.257392,-79.867642
+hub_708,LOFT Lounge,Night Club,43.257617,-79.871251
+hub_708,The French,Wine Bar,43.257347,-79.867496
+hub_708,Club Absinthe,Night Club,43.256943,-79.867659
+hub_708,Saint James Espresso Bar & Eatery,Bar,43.260862,-79.866884
+hub_709,M Bar,Night Club,43.251849,-79.871341
+hub_709,Odds Bar,Sports Bar,43.251849,-79.871341
+hub_709,Mezcal TNT,Bar,43.252188,-79.871305
+hub_709,The Pheasant Plucker,Pub,43.251875,-79.870279
+hub_709,The Ship,Pub,43.252066,-79.869987
+hub_709,The Judge,Bar,43.252249,-79.869786
+hub_709,Cat 'N' Fiddle,Pub,43.251502,-79.868593
+hub_709,The Lionshead Pub,Pub,43.252287,-79.867845
+hub_709,Gallagher's Bar and Lounge 69 Augusta S,Arts and Entertainment,43.251655,-79.868063
+hub_709,Hamilton Club,Night Club,43.255183,-79.869448
+hub_712,Fragoso Seafood Place,Bar,43.261057,-79.852728
+hub_712,Vavo John's Bar,Bar,43.260077,-79.850198
+hub_712,Black Forest Inn,Bar,43.254392,-79.861571
+hub_712,Rebel's Rock Irish Pub,Bar,43.252669,-79.852703
+hub_712,TJ King Karaoke,Amusement Park,43.254514,-79.86289
+hub_712,Niza Ent,Night Club,43.253717,-79.862338
+hub_712,E's Sports Bar,Sports Bar,43.252516,-79.851055
+hub_712,Ed's Sports Bar,Lounge,43.252523,-79.850963
+hub_712,Undergound,Night Club,43.256647,-79.864966
+hub_712,Hamilton Strip,Night Club,43.263017,-79.862148
+hub_778,Ray's Place,Pub,43.252556,-79.891906
+hub_779,Mezcal TNT,Bar,43.252188,-79.871305
+hub_779,Hamilton Club,Night Club,43.255183,-79.869448
+hub_779,M Bar,Night Club,43.251849,-79.871341
+hub_779,Odds Bar,Sports Bar,43.251849,-79.871341
+hub_779,The Pheasant Plucker,Pub,43.251875,-79.870279
+hub_779,The Judge,Bar,43.252249,-79.869786
+hub_779,Anchor Bar,Lounge,43.257946,-79.87279
+hub_779,LOFT Lounge,Night Club,43.257617,-79.871251
+hub_779,Yuk Yuk's Comedy Club,Comedy Club,43.258263,-79.873029
+hub_779,Yuk Yuk's Comedy Cabaret,Comedy Club,43.258263,-79.873029
+hub_780,Zen Lounge,Lounge,43.253962,-79.867155
+hub_780,Mighty Mikes Pub & Billiards,Pool Hall,43.254333,-79.865966
+hub_780,Tailgate Charlie's,Sports Bar,43.253962,-79.867155
+hub_780,33 Bowen,Music Venue,43.253973,-79.866276
+hub_780,Liquid Kitty,Night Club,43.253962,-79.867155
+hub_780,Tea Hut,Bar,43.254244,-79.865672
+hub_780,Hamilton Club,Night Club,43.255183,-79.869448
+hub_780,The Lionshead Pub,Pub,43.252287,-79.867845
+hub_780,Sous Bas,Lounge,43.254119,-79.863658
+hub_780,Undergound,Night Club,43.256647,-79.864966
+hub_802,The Masque Wine Jazz Bar,Jazz and Blues Venue,43.258432,-79.87737
+hub_802,Elixir Lounge & Nightclub,Night Club,43.258514,-79.877755
+hub_802,Lazy Flamingo,Bar,43.258432,-79.87737
+hub_802,Gown & Gavel,Bar,43.258338,-79.877864
+hub_802,The Strathcona,Wine Bar,43.25959,-79.878308
+hub_802,Sizzle Steak House & Lounge,Lounge,43.258263,-79.877388
+hub_802,The Standard Lounge,Night Club,43.258204,-79.877424
+hub_802,Side Bar,Lounge,43.258331,-79.877956
+hub_802,Vip Saturdays,Night Club,43.258051,-79.877955
+hub_802,Ten Decades,Bar,43.258051,-79.877955
+hub_830,Emerson 109,Bar,43.25446,-79.92079
+hub_830,The Wee Dram,Pub,43.252487,-79.939
+hub_830,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_830,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_866,Cat 'N' Fiddle,Pub,43.251502,-79.868593
+hub_866,Gallagher's Bar and Lounge 69 Augusta S,Arts and Entertainment,43.251655,-79.868063
+hub_866,The Judge,Bar,43.252249,-79.869786
+hub_866,The Lionshead Pub,Pub,43.252287,-79.867845
+hub_866,The Ship,Pub,43.252066,-79.869987
+hub_866,The Pheasant Plucker,Pub,43.251875,-79.870279
+hub_866,Mezcal TNT,Bar,43.252188,-79.871305
+hub_866,Odds Bar,Sports Bar,43.251849,-79.871341
+hub_866,M Bar,Night Club,43.251849,-79.871341
+hub_866,Liquid Kitty,Night Club,43.253962,-79.867155
+hub_867,Viva Night Club,Night Club,43.25826,-79.878871
+hub_867,Absinthe Lounge,Bar,43.258547,-79.87878
+hub_867,Moodys,Bar,43.258164,-79.878669
+hub_867,Arcade,Arcade,43.258171,-79.878578
+hub_867,Side Bar,Lounge,43.258331,-79.877956
+hub_867,Vip Saturdays,Night Club,43.258051,-79.877955
+hub_867,Ten Decades,Bar,43.258051,-79.877955
+hub_867,Bourbon & Brass Speakeasy,Music Venue,43.258051,-79.877955
+hub_867,Doors Pub & Pizzeria,Pub,43.257353,-79.8783
+hub_867,Gown & Gavel,Bar,43.258338,-79.877864
+hub_894,Phoenix Bar & Grill,Bar,43.262878,-79.921158
+hub_894,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_894,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_894,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_894,Snooty Fox,Pub,43.261816,-79.905256
+hub_903,Odds Bar,Sports Bar,43.251849,-79.871341
+hub_903,M Bar,Night Club,43.251849,-79.871341
+hub_903,Mezcal TNT,Bar,43.252188,-79.871305
+hub_903,The Pheasant Plucker,Pub,43.251875,-79.870279
+hub_903,The Ship,Pub,43.252066,-79.869987
+hub_903,The Judge,Bar,43.252249,-79.869786
+hub_903,Cat 'N' Fiddle,Pub,43.251502,-79.868593
+hub_903,The Lionshead Pub,Pub,43.252287,-79.867845
+hub_903,Gallagher's Bar and Lounge 69 Augusta S,Arts and Entertainment,43.251655,-79.868063
+hub_903,Liquid Kitty,Night Club,43.253962,-79.867155
+hub_904,The French,Wine Bar,43.257347,-79.867496
+hub_904,Undefined,Bar,43.257392,-79.867642
+hub_904,Club Absinthe,Night Club,43.256943,-79.867659
+hub_904,Undergound,Night Club,43.256647,-79.864966
+hub_904,K Point Karaoke & Bar,Arts and Entertainment,43.258247,-79.868158
+hub_904,Mighty Mikes Pub & Billiards,Pool Hall,43.254333,-79.865966
+hub_904,Merit Brewing,Bar,43.25949,-79.867997
+hub_904,Tea Hut,Bar,43.254244,-79.865672
+hub_904,Hamilton Club,Night Club,43.255183,-79.869448
+hub_904,B Me,Bar,43.259542,-79.868052
+hub_905,Rebel's Rock Irish Pub,Bar,43.252669,-79.852703
+hub_905,E's Sports Bar,Sports Bar,43.252516,-79.851055
+hub_905,Ed's Sports Bar,Lounge,43.252523,-79.850963
+hub_905,Carlton Tavern,Karaoke Bar,43.252253,-79.849388
+hub_905,Jax Bar & Grill,Dive Bar,43.249934,-79.848996
+hub_905,Black Forest Inn,Bar,43.254392,-79.861571
+hub_905,Niza Ent,Night Club,43.253717,-79.862338
+hub_905,TJ King Karaoke,Amusement Park,43.254514,-79.86289
+hub_905,Sous Bas,Lounge,43.254119,-79.863658
+hub_905,Corktown Tavern,Pub,43.249707,-79.864303
+hub_921,Ray's Place,Pub,43.252556,-79.891906
+hub_921,West Town Bar & Grill,Bar,43.254502,-79.886256
+hub_921,Mark's Chinese Food & Tavern,Bar,43.260901,-79.883074
+hub_924,Route 66 Diner,Bar,43.272393,-79.862434
+hub_945,The Capitol Bar,Bar,43.251372,-79.835377
+hub_945,Bottoms Up,Bar,43.255851,-79.833118
+hub_945,Wingporium | Prince Eddy Sports Bar,Bar,43.255851,-79.833118
+hub_945,Prince Edward Tavern,Dive Bar,43.255851,-79.833118
+hub_945,Barton Touchdown Pub,Night Club,43.25346,-79.824927
+hub_945,Zacks,Bar,43.256738,-79.838321
+hub_945,Sam's,Bar,43.256863,-79.838157
+hub_945,MaiPai Tiki Bar,Tiki Bar,43.257164,-79.837883
+hub_945,Osten Beerhall,Beer Bar,43.248569,-79.821601
+hub_959,This Ain't Hollywood,Arts and Entertainment,43.264986,-79.865634
+hub_959,Zyla's Music and Menu,Music Venue,43.264002,-79.86607
+hub_959,Bar Sazerac,Night Club,43.263456,-79.865886
+hub_959,Nobody's Perfect Bar and Grill,Karaoke Bar,43.263367,-79.863413
+hub_959,The Green Smoothie Bar,Bar,43.262589,-79.866249
+hub_959,Hamilton Strip,Night Club,43.263017,-79.862148
+hub_959,The Brain,Bar,43.261915,-79.867016
+hub_959,Saint James Espresso Bar & Eatery,Bar,43.260862,-79.866884
+hub_959,Route 66 Diner,Bar,43.272393,-79.862434
+hub_959,Happy Hourz Pub,Pub,43.259965,-79.869097
+hub_960,Route 66 Diner,Bar,43.272393,-79.862434
+hub_960,This Ain't Hollywood,Arts and Entertainment,43.264986,-79.865634
+hub_960,Zyla's Music and Menu,Music Venue,43.264002,-79.86607
+hub_1042,Baranga's on the Beach,Bar,43.255606,-79.761679
+hub_1063,Niza Ent,Night Club,43.253717,-79.862338
+hub_1063,Black Forest Inn,Bar,43.254392,-79.861571
+hub_1063,TJ King Karaoke,Amusement Park,43.254514,-79.86289
+hub_1063,Sous Bas,Lounge,43.254119,-79.863658
+hub_1063,Tea Hut,Bar,43.254244,-79.865672
+hub_1063,Corktown Tavern,Pub,43.249707,-79.864303
+hub_1063,33 Bowen,Music Venue,43.253973,-79.866276
+hub_1063,Mighty Mikes Pub & Billiards,Pool Hall,43.254333,-79.865966
+hub_1063,Undergound,Night Club,43.256647,-79.864966
+hub_1063,Tailgate Charlie's,Sports Bar,43.253962,-79.867155
+hub_1252,Your Neighbourhood Bar and Grill,Pub,43.238206,-79.842244
+hub_1252,The Capitol Bar,Bar,43.251372,-79.835377
+hub_1253,Jax Bar & Grill,Dive Bar,43.249934,-79.848996
+hub_1253,The Capitol Bar,Bar,43.251372,-79.835377
+hub_1253,Carlton Tavern,Karaoke Bar,43.252253,-79.849388
+hub_1253,Ed's Sports Bar,Lounge,43.252523,-79.850963
+hub_1253,E's Sports Bar,Sports Bar,43.252516,-79.851055
+hub_1287,Merk Snack Bar,Bar,43.247797,-79.817809
+hub_1287,Black Sheep Snack Bar,Cocktail Bar,43.247739,-79.817846
+hub_1287,Hambrgr,Bar,43.248363,-79.817719
+hub_1287,Knockouts Grill,Bar,43.24623,-79.817824
+hub_1287,Osten Beerhall,Beer Bar,43.248569,-79.821601
+hub_1287,Stop Bar,Lounge,43.251749,-79.818056
+hub_1287,Eastown Bar & Grill,Bar,43.250725,-79.813897
+hub_1287,Faces Cafe & Bar,Bar,43.243401,-79.822633
+hub_1287,The End Zone Bar & Grill,Bar,43.241479,-79.814152
+hub_1287,Buddys Roadhouse,Bar,43.240965,-79.822316
+hub_1397,Tea Hut,Bar,43.254244,-79.865672
+hub_1397,TJ King Karaoke,Amusement Park,43.254514,-79.86289
+hub_1397,Sous Bas,Lounge,43.254119,-79.863658
+hub_1397,Mighty Mikes Pub & Billiards,Pool Hall,43.254333,-79.865966
+hub_1397,Undergound,Night Club,43.256647,-79.864966
+hub_1397,33 Bowen,Music Venue,43.253973,-79.866276
+hub_1397,Niza Ent,Night Club,43.253717,-79.862338
+hub_1397,Black Forest Inn,Bar,43.254392,-79.861571
+hub_1397,Embassy Club,Night Club,43.25578,-79.867509
+hub_1397,Tailgate Charlie's,Sports Bar,43.253962,-79.867155
+hub_1468,Hamilton Specialty Bar,Lounge,43.261754,-79.835642
+hub_1468,Hamilton Specialty Bar,Lounge,43.263307,-79.833632
+hub_1468,MaiPai Tiki Bar,Tiki Bar,43.257164,-79.837883
+hub_1468,Sam's,Bar,43.256863,-79.838157
+hub_1468,Prince Edward Tavern,Dive Bar,43.255851,-79.833118
+hub_1468,Bottoms Up,Bar,43.255851,-79.833118
+hub_1468,Wingporium | Prince Eddy Sports Bar,Bar,43.255851,-79.833118
+hub_1468,Zacks,Bar,43.256738,-79.838321
+hub_1468,Galley Pump,Pub,43.262919,-79.84451
+hub_2570,Phoenix Bar & Grill,Bar,43.262878,-79.921158
+hub_2570,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_2570,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_2570,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_2570,Snooty Fox,Pub,43.261816,-79.905256
+hub_2868,Il Fiasco Cafe & Wine Bar,Whisky Bar,43.265793,-79.954212
+hub_2868,Collins Brewhouse,Pub,43.266392,-79.955149
+hub_2868,Side Lounge,Bar,43.266479,-79.954746
+hub_2868,Bar Or M,Bar,43.264645,-79.956751
+hub_2868,Shawn & Ed Brewing Co,Arts and Entertainment,43.265744,-79.957728
+hub_2868,Winchester Arms,Pub,43.266652,-79.958997
+hub_2869,Il Fiasco Cafe & Wine Bar,Whisky Bar,43.265793,-79.954212
+hub_2869,Collins Brewhouse,Pub,43.266392,-79.955149
+hub_2869,Side Lounge,Bar,43.266479,-79.954746
+hub_2869,Bar Or M,Bar,43.264645,-79.956751
+hub_2869,Shawn & Ed Brewing Co,Arts and Entertainment,43.265744,-79.957728
+hub_2869,Winchester Arms,Pub,43.266652,-79.958997
+hub_2915,Mosaic - Hamilton,Beer Bar,43.259543,-79.846955
+hub_2915,Hamilton Specialty Bar,Lounge,43.261754,-79.835642
+hub_2915,Vavo John's Bar,Bar,43.260077,-79.850198
+hub_2915,Hamilton Specialty Bar,Lounge,43.263307,-79.833632
+hub_2915,Fragoso Seafood Place,Bar,43.261057,-79.852728
+hub_2915,Galley Pump,Pub,43.262919,-79.84451
+hub_2916,Sam's,Bar,43.256863,-79.838157
+hub_2916,Zacks,Bar,43.256738,-79.838321
+hub_2916,MaiPai Tiki Bar,Tiki Bar,43.257164,-79.837883
+hub_2916,Prince Edward Tavern,Dive Bar,43.255851,-79.833118
+hub_2916,Bottoms Up,Bar,43.255851,-79.833118
+hub_2916,Wingporium | Prince Eddy Sports Bar,Bar,43.255851,-79.833118
+hub_2916,The Capitol Bar,Bar,43.251372,-79.835377
+hub_2916,Hamilton Specialty Bar,Lounge,43.261754,-79.835642
+hub_2916,Galley Pump,Pub,43.262919,-79.84451
+hub_2916,Hamilton Specialty Bar,Lounge,43.263307,-79.833632
+hub_2917,Bottoms Up,Bar,43.255851,-79.833118
+hub_2917,Wingporium | Prince Eddy Sports Bar,Bar,43.255851,-79.833118
+hub_2917,Prince Edward Tavern,Dive Bar,43.255851,-79.833118
+hub_2917,The Capitol Bar,Bar,43.251372,-79.835377
+hub_2917,Sam's,Bar,43.256863,-79.838157
+hub_2917,Barton Touchdown Pub,Night Club,43.25346,-79.824927
+hub_2917,MaiPai Tiki Bar,Tiki Bar,43.257164,-79.837883
+hub_2917,Zacks,Bar,43.256738,-79.838321
+hub_2917,Hamilton Specialty Bar,Lounge,43.261754,-79.835642
+hub_2917,R Place Tavern,Bar,43.256968,-79.820741
+hub_2918,Barton Touchdown Pub,Night Club,43.25346,-79.824927
+hub_2918,Stop Bar,Lounge,43.251749,-79.818056
+hub_2918,R Place Tavern,Bar,43.256968,-79.820741
+hub_2918,Osten Beerhall,Beer Bar,43.248569,-79.821601
+hub_2918,Hambrgr,Bar,43.248363,-79.817719
+hub_2918,Black Sheep Snack Bar,Cocktail Bar,43.247739,-79.817846
+hub_2918,Merk Snack Bar,Bar,43.247797,-79.817809
+hub_2918,Eastown Bar & Grill,Bar,43.250725,-79.813897
+hub_2918,Knockouts Grill,Bar,43.24623,-79.817824
+hub_2918,Bottoms Up,Bar,43.255851,-79.833118
+hub_2919,Eastown Bar & Grill,Bar,43.250725,-79.813897
+hub_2919,Stop Bar,Lounge,43.251749,-79.818056
+hub_2919,Hambrgr,Bar,43.248363,-79.817719
+hub_2919,Black Sheep Snack Bar,Cocktail Bar,43.247739,-79.817846
+hub_2919,Merk Snack Bar,Bar,43.247797,-79.817809
+hub_2919,Osten Beerhall,Beer Bar,43.248569,-79.821601
+hub_2919,Knockouts Grill,Bar,43.24623,-79.817824
+hub_2919,Sunset Grill,Bar,43.249832,-79.807304
+hub_2919,R Place Tavern,Bar,43.256968,-79.820741
+hub_2919,Barton Touchdown Pub,Night Club,43.25346,-79.824927
+hub_2920,Knockouts Grill,Bar,43.24623,-79.817824
+hub_2920,Faces Cafe & Bar,Bar,43.243401,-79.822633
+hub_2920,Merk Snack Bar,Bar,43.247797,-79.817809
+hub_2920,Black Sheep Snack Bar,Cocktail Bar,43.247739,-79.817846
+hub_2920,Hambrgr,Bar,43.248363,-79.817719
+hub_2920,Buddys Roadhouse,Bar,43.240965,-79.822316
+hub_2920,Osten Beerhall,Beer Bar,43.248569,-79.821601
+hub_2920,The End Zone Bar & Grill,Bar,43.241479,-79.814152
+hub_2920,Eastown Bar & Grill,Bar,43.250725,-79.813897
+hub_2920,Stop Bar,Lounge,43.251749,-79.818056
+hub_2921,Faces Cafe & Bar,Bar,43.243401,-79.822633
+hub_2921,Buddys Roadhouse,Bar,43.240965,-79.822316
+hub_2921,Knockouts Grill,Bar,43.24623,-79.817824
+hub_2921,Osten Beerhall,Beer Bar,43.248569,-79.821601
+hub_2921,Merk Snack Bar,Bar,43.247797,-79.817809
+hub_2921,Black Sheep Snack Bar,Cocktail Bar,43.247739,-79.817846
+hub_2921,The End Zone Bar & Grill,Bar,43.241479,-79.814152
+hub_2921,Hambrgr,Bar,43.248363,-79.817719
+hub_2922,Faces Cafe & Bar,Bar,43.243401,-79.822633
+hub_2922,Osten Beerhall,Beer Bar,43.248569,-79.821601
+hub_2922,Buddys Roadhouse,Bar,43.240965,-79.822316
+hub_2922,Knockouts Grill,Bar,43.24623,-79.817824
+hub_2922,Merk Snack Bar,Bar,43.247797,-79.817809
+hub_2922,Black Sheep Snack Bar,Cocktail Bar,43.247739,-79.817846
+hub_2922,Hambrgr,Bar,43.248363,-79.817719
+hub_2922,Barton Touchdown Pub,Night Club,43.25346,-79.824927
+hub_2922,The Capitol Bar,Bar,43.251372,-79.835377
+hub_2922,Stop Bar,Lounge,43.251749,-79.818056
+hub_2923,The Capitol Bar,Bar,43.251372,-79.835377
+hub_2923,Zacks,Bar,43.256738,-79.838321
+hub_2923,Sam's,Bar,43.256863,-79.838157
+hub_2923,Jax Bar & Grill,Dive Bar,43.249934,-79.848996
+hub_2923,Bottoms Up,Bar,43.255851,-79.833118
+hub_2923,Wingporium | Prince Eddy Sports Bar,Bar,43.255851,-79.833118
+hub_2923,MaiPai Tiki Bar,Tiki Bar,43.257164,-79.837883
+hub_2923,Prince Edward Tavern,Dive Bar,43.255851,-79.833118
+hub_2923,Carlton Tavern,Karaoke Bar,43.252253,-79.849388
+hub_2924,Barton Touchdown Pub,Night Club,43.25346,-79.824927
+hub_2924,Osten Beerhall,Beer Bar,43.248569,-79.821601
+hub_2924,The Capitol Bar,Bar,43.251372,-79.835377
+hub_2924,Bottoms Up,Bar,43.255851,-79.833118
+hub_2924,Wingporium | Prince Eddy Sports Bar,Bar,43.255851,-79.833118
+hub_2924,Prince Edward Tavern,Dive Bar,43.255851,-79.833118
+hub_2924,Stop Bar,Lounge,43.251749,-79.818056
+hub_2924,R Place Tavern,Bar,43.256968,-79.820741
+hub_2924,Hambrgr,Bar,43.248363,-79.817719
+hub_2924,Black Sheep Snack Bar,Cocktail Bar,43.247739,-79.817846
+hub_2925,Osten Beerhall,Beer Bar,43.248569,-79.821601
+hub_2925,Merk Snack Bar,Bar,43.247797,-79.817809
+hub_2925,Black Sheep Snack Bar,Cocktail Bar,43.247739,-79.817846
+hub_2925,Hambrgr,Bar,43.248363,-79.817719
+hub_2925,Barton Touchdown Pub,Night Club,43.25346,-79.824927
+hub_2925,Stop Bar,Lounge,43.251749,-79.818056
+hub_2925,Knockouts Grill,Bar,43.24623,-79.817824
+hub_2925,Faces Cafe & Bar,Bar,43.243401,-79.822633
+hub_2925,Eastown Bar & Grill,Bar,43.250725,-79.813897
+hub_2925,Buddys Roadhouse,Bar,43.240965,-79.822316
+hub_2926,MaiPai Tiki Bar,Tiki Bar,43.257164,-79.837883
+hub_2926,Zacks,Bar,43.256738,-79.838321
+hub_2926,Sam's,Bar,43.256863,-79.838157
+hub_2926,Mosaic - Hamilton,Beer Bar,43.259543,-79.846955
+hub_2926,Galley Pump,Pub,43.262919,-79.84451
+hub_2926,Hamilton Specialty Bar,Lounge,43.261754,-79.835642
+hub_2926,Vavo John's Bar,Bar,43.260077,-79.850198
+hub_2926,Prince Edward Tavern,Dive Bar,43.255851,-79.833118
+hub_2926,Bottoms Up,Bar,43.255851,-79.833118
+hub_2926,Wingporium | Prince Eddy Sports Bar,Bar,43.255851,-79.833118
+hub_3885,Absinthe Lounge,Bar,43.258547,-79.87878
+hub_3885,Viva Night Club,Night Club,43.25826,-79.878871
+hub_3885,Moodys,Bar,43.258164,-79.878669
+hub_3885,Arcade,Arcade,43.258171,-79.878578
+hub_3885,Side Bar,Lounge,43.258331,-79.877956
+hub_3885,Vip Saturdays,Night Club,43.258051,-79.877955
+hub_3885,Ten Decades,Bar,43.258051,-79.877955
+hub_3885,Bourbon & Brass Speakeasy,Music Venue,43.258051,-79.877955
+hub_3885,Gown & Gavel,Bar,43.258338,-79.877864
+hub_3885,Elixir Lounge & Nightclub,Night Club,43.258514,-79.877755
+hub_4093,Merit Brewing,Bar,43.25949,-79.867997
+hub_4093,B Me,Bar,43.259542,-79.868052
+hub_4093,L'étranger on James,Arts and Entertainment,43.259535,-79.868144
+hub_4093,Happy Hourz Pub,Pub,43.259965,-79.869097
+hub_4093,Saint James Espresso Bar & Eatery,Bar,43.260862,-79.866884
+hub_4093,K Point Karaoke & Bar,Arts and Entertainment,43.258247,-79.868158
+hub_4093,The Brain,Bar,43.261915,-79.867016
+hub_4093,Undefined,Bar,43.257392,-79.867642
+hub_4093,The French,Wine Bar,43.257347,-79.867496
+hub_4093,Club Absinthe,Night Club,43.256943,-79.867659
+hub_5333,Kookaburra Restaurant,Bar,43.258372,-79.910003
+hub_5333,Williams Coffee Pub,Bar,43.257365,-79.917947
+hub_5333,TwelvEighty Bar & Grill,Lounge,43.258546,-79.919307
+hub_5333,Emerson 109,Bar,43.25446,-79.92079
+hub_5333,Phoenix Bar & Grill,Bar,43.262878,-79.921158
+hub_5333,Snooty Fox,Pub,43.261816,-79.905256
+hub_5402,West Town Bar & Grill,Bar,43.254502,-79.886256
+hub_5402,Viva Night Club,Night Club,43.25826,-79.878871
+hub_5402,Absinthe Lounge,Bar,43.258547,-79.87878
+hub_5402,Doors Pub & Pizzeria,Pub,43.257353,-79.8783
+hub_5402,Moodys,Bar,43.258164,-79.878669
+hub_5402,Arcade,Arcade,43.258171,-79.878578
+hub_5402,Vip Saturdays,Night Club,43.258051,-79.877955
+hub_5402,Ten Decades,Bar,43.258051,-79.877955
+hub_5402,Bourbon & Brass Speakeasy,Music Venue,43.258051,-79.877955
+hub_5402,Side Bar,Lounge,43.258331,-79.877956
+hub_5426,West Town Bar & Grill,Bar,43.254502,-79.886256
+hub_5426,Ray's Place,Pub,43.252556,-79.891906
+hub_5426,Mark's Chinese Food & Tavern,Bar,43.260901,-79.883074
+hub_5426,Viva Night Club,Night Club,43.25826,-79.878871
+hub_5426,Absinthe Lounge,Bar,43.258547,-79.87878
+hub_5426,Moodys,Bar,43.258164,-79.878669
+hub_5426,Arcade,Arcade,43.258171,-79.878578
+hub_5426,Doors Pub & Pizzeria,Pub,43.257353,-79.8783
+hub_5426,Side Bar,Lounge,43.258331,-79.877956
+hub_5426,Vip Saturdays,Night Club,43.258051,-79.877955
+hub_5702,West Town Bar & Grill,Bar,43.254502,-79.886256
+hub_5702,Ray's Place,Pub,43.252556,-79.891906
+hub_5702,Doors Pub & Pizzeria,Pub,43.257353,-79.8783
+hub_5702,Viva Night Club,Night Club,43.25826,-79.878871
+hub_5702,Moodys,Bar,43.258164,-79.878669
+hub_5702,Arcade,Arcade,43.258171,-79.878578
+hub_5702,Absinthe Lounge,Bar,43.258547,-79.87878
+hub_5702,Vip Saturdays,Night Club,43.258051,-79.877955
+hub_5702,Ten Decades,Bar,43.258051,-79.877955
+hub_5702,Bourbon & Brass Speakeasy,Music Venue,43.258051,-79.877955
+hub_5790,Undergound,Night Club,43.256647,-79.864966
+hub_5790,Hamilton Strip,Night Club,43.263017,-79.862148
+hub_5790,TJ King Karaoke,Amusement Park,43.254514,-79.86289
+hub_5790,Black Forest Inn,Bar,43.254392,-79.861571
+hub_5790,Nobody's Perfect Bar and Grill,Karaoke Bar,43.263367,-79.863413
+hub_5790,Saint James Espresso Bar & Eatery,Bar,43.260862,-79.866884
+hub_5790,Undefined,Bar,43.257392,-79.867642
+hub_5790,Merit Brewing,Bar,43.25949,-79.867997
+hub_5790,The French,Wine Bar,43.257347,-79.867496
+hub_5790,Club Absinthe,Night Club,43.256943,-79.867659
+hub_5827,Undergound,Night Club,43.256647,-79.864966
+hub_5827,The French,Wine Bar,43.257347,-79.867496
+hub_5827,Club Absinthe,Night Club,43.256943,-79.867659
+hub_5827,Undefined,Bar,43.257392,-79.867642
+hub_5827,Mighty Mikes Pub & Billiards,Pool Hall,43.254333,-79.865966
+hub_5827,K Point Karaoke & Bar,Arts and Entertainment,43.258247,-79.868158
+hub_5827,Tea Hut,Bar,43.254244,-79.865672
+hub_5827,33 Bowen,Music Venue,43.253973,-79.866276
+hub_5827,Zen Lounge,Lounge,43.253962,-79.867155
+hub_5827,Hamilton Club,Night Club,43.255183,-79.869448
+hub_5836,The Capitol Bar,Bar,43.251372,-79.835377
+hub_5836,Bottoms Up,Bar,43.255851,-79.833118
+hub_5836,Wingporium | Prince Eddy Sports Bar,Bar,43.255851,-79.833118
+hub_5836,Prince Edward Tavern,Dive Bar,43.255851,-79.833118
+hub_5836,Zacks,Bar,43.256738,-79.838321
+hub_5836,Sam's,Bar,43.256863,-79.838157
+hub_5836,MaiPai Tiki Bar,Tiki Bar,43.257164,-79.837883
+hub_5836,Barton Touchdown Pub,Night Club,43.25346,-79.824927
+hub_5837,The Capitol Bar,Bar,43.251372,-79.835377
+hub_5837,Zacks,Bar,43.256738,-79.838321
+hub_5837,Sam's,Bar,43.256863,-79.838157
+hub_5837,MaiPai Tiki Bar,Tiki Bar,43.257164,-79.837883
+hub_5837,Bottoms Up,Bar,43.255851,-79.833118
+hub_5837,Wingporium | Prince Eddy Sports Bar,Bar,43.255851,-79.833118
+hub_5837,Prince Edward Tavern,Dive Bar,43.255851,-79.833118
+hub_5837,Carlton Tavern,Karaoke Bar,43.252253,-79.849388
+hub_5837,Jax Bar & Grill,Dive Bar,43.249934,-79.848996
+hub_5838,Carlton Tavern,Karaoke Bar,43.252253,-79.849388
+hub_5838,Jax Bar & Grill,Dive Bar,43.249934,-79.848996
+hub_5838,Ed's Sports Bar,Lounge,43.252523,-79.850963
+hub_5838,E's Sports Bar,Sports Bar,43.252516,-79.851055
+hub_5838,Rebel's Rock Irish Pub,Bar,43.252669,-79.852703
+hub_5838,Zacks,Bar,43.256738,-79.838321
+hub_5838,Mosaic - Hamilton,Beer Bar,43.259543,-79.846955
+hub_5838,Sam's,Bar,43.256863,-79.838157
+hub_5838,The Capitol Bar,Bar,43.251372,-79.835377
+hub_5838,MaiPai Tiki Bar,Tiki Bar,43.257164,-79.837883
+hub_5845,LOFT Lounge,Night Club,43.257617,-79.871251
+hub_5845,Club Absinthe,Night Club,43.256943,-79.867659
+hub_5845,The French,Wine Bar,43.257347,-79.867496
+hub_5845,Undefined,Bar,43.257392,-79.867642
+hub_5845,Hamilton Club,Night Club,43.255183,-79.869448
+hub_5845,K Point Karaoke & Bar,Arts and Entertainment,43.258247,-79.868158
+hub_5845,Anchor Bar,Lounge,43.257946,-79.87279
+hub_5845,Merit Brewing,Bar,43.25949,-79.867997
+hub_5845,B Me,Bar,43.259542,-79.868052
+hub_5845,Yuk Yuk's Comedy Club,Comedy Club,43.258263,-79.873029
+hub_5846,Mosaic - Hamilton,Beer Bar,43.259543,-79.846955
+hub_5846,Ed's Sports Bar,Lounge,43.252523,-79.850963
+hub_5846,E's Sports Bar,Sports Bar,43.252516,-79.851055
+hub_5846,Vavo John's Bar,Bar,43.260077,-79.850198
+hub_5846,Carlton Tavern,Karaoke Bar,43.252253,-79.849388
+hub_5846,Rebel's Rock Irish Pub,Bar,43.252669,-79.852703
+hub_5846,Fragoso Seafood Place,Bar,43.261057,-79.852728
+hub_5846,Galley Pump,Pub,43.262919,-79.84451
+hub_5846,Jax Bar & Grill,Dive Bar,43.249934,-79.848996
+hub_5846,Zacks,Bar,43.256738,-79.838321
+hub_5903,Route 66 Diner,Bar,43.272393,-79.862434
+hub_6148,Club Absinthe,Night Club,43.256943,-79.867659
+hub_6148,Undefined,Bar,43.257392,-79.867642
+hub_6148,The French,Wine Bar,43.257347,-79.867496
+hub_6148,K Point Karaoke & Bar,Arts and Entertainment,43.258247,-79.868158
+hub_6148,Merit Brewing,Bar,43.25949,-79.867997
+hub_6148,B Me,Bar,43.259542,-79.868052
+hub_6148,L'étranger on James,Arts and Entertainment,43.259535,-79.868144
+hub_6148,Undergound,Night Club,43.256647,-79.864966
+hub_6148,Hamilton Club,Night Club,43.255183,-79.869448
+hub_6148,LOFT Lounge,Night Club,43.257617,-79.871251
