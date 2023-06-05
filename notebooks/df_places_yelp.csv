@@ -1,31 +1,1441 @@
-Station ID,Name,Category,Latitude,Longitude
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
-hub_6148,Berkeley North,Bars,43.2574045478956,-79.8677145254958
+Station ID,Name,Category,LatitudeB,LongitudeB,Rating
+hub_435,Kenzo,['Ramen'],43.2565481,-79.86819685,4
+hub_435,Al Centro,['Italian'],43.25584,-79.8686,3.5
+hub_435,National Pizza & Wings,"['Pizza', 'Chicken Wings']",43.25682,-79.86881,3.5
+hub_435,Gino's Pizza,['Pizza'],43.25678,-79.86864,3.5
+hub_435,Hui Lau Shan,"['Desserts', 'Juice Bars & Smoothies']",43.2565164,-79.8680872,4.5
+hub_435,Anchor Bar,"['Bars', 'Chicken Wings', 'American (Traditional)']",43.25711,-79.86938,2
+hub_435,iPho,['Vietnamese'],43.2571106,-79.8693771,4
+hub_435,Laura Secord,"['Ice Cream & Frozen Yogurt', 'Chocolatiers & Shops']",43.2571529,-79.8692434,1
+hub_435,Freshii,"['Salad', 'Vegetarian', 'Fast Food']",43.25711,-79.86938,1
+hub_435,Earth to Table Bread Bar James,"['Salad', 'Pizza', 'Soup']",43.25734973,-79.86863941,4
+hub_436,Gate of India,"['Indian', 'Bangladeshi']",43.2618967,-79.866767,3.5
+hub_436,The Brain,['Bars'],43.26193,-79.86695,4
+hub_436,Mulberry Coffeehouse,"['Cafes', 'Sandwiches', 'Music Venues']",43.26183,-79.86699,4
+hub_436,Ola Bakery & Pastries,['Bakeries'],43.2623517,-79.86646316,4.5
+hub_436,Born and Raised,"['Seafood', 'American (Traditional)', 'Tapas Bars']",43.26235,-79.86626,3.5
+hub_436,Venturas Signatur Restaurant,['Restaurants'],43.26114,-79.8669,4
+hub_436,Caro on James,"['Pizza', 'Italian']",43.262537,-79.86675,4
+hub_436,Saint James Espresso Bar & Eatery,"['Cafes', 'Bakeries', 'Bars']",43.26098,-79.86693,4.5
+hub_436,Granny's Place,"['Delis', 'Sandwiches']",43.26243,-79.8659,3
+hub_436,Charred Chicken,['Barbeque'],43.2627364,-79.8663839,4
+hub_527,Pane Del Sole,['Bakeries'],43.26067,-79.8648599,3.5
+hub_527,8-Aug,"['Japanese', 'Dim Sum']",43.25943,-79.86708,4
+hub_527,NOODLE ME,['Noodles'],43.25943,-79.86708,4
+hub_527,French Confection Patisserie,['Bakeries'],43.25943,-79.86708,3
+hub_527,Nabil’s Grill,"['Middle Eastern', 'Fast Food']",43.25943,-79.86708,5
+hub_527,Dirty Dog Saloon,"['Bars', 'Dance Clubs']",43.2565632,-79.8648743,2.5
+hub_527,Pho Dui Bo,['Vietnamese'],43.2607974,-79.86656807,3.5
+hub_527,OKO Bagels ,"['Bagels', 'Coffee & Tea', 'Sandwiches']",43.259918,-79.867288,5
+hub_527,The Burnt Tongue,"['Burgers', 'Soup', 'Sandwiches']",43.2605786,-79.8669351,4
+hub_527,Smalls Coffee,['Coffee & Tea'],43.2605099,-79.86695,4.5
+hub_530,Tim Horton,"['Bakeries', 'Coffee & Tea']",43.26595425,-79.94944634,1
+hub_530,McDonald's,"['Fast Food', 'Burgers', 'Coffee & Tea']",43.26518805,-79.9497877,1
+hub_530,Pizza Pizza,"['Pizza', 'Italian', 'Chicken Wings']",43.265991,-79.950991,1
+hub_530,Little Asia,"['Vegetarian', 'Vegan', 'Thai']",43.26567,-79.95219,4.5
+hub_530,Dundas Shawarma,"['Lebanese', 'Mediterranean']",43.26572,-79.95234,3
+hub_530,Thirsty Cactus Cantina & Grill,"['Mexican', 'Bars', 'Music Venues']",43.26592,-79.95353,3.5
+hub_530,French Revolution Bakery & Crêperie,['Bakeries'],43.26608128,-79.9540855,4.5
+hub_530,Tim Horton,"['Coffee & Tea', 'Breakfast & Brunch', 'Sandwiches']",43.26274,-79.95276,1
+hub_530,Domino's Pizza,"['Pizza', 'Chicken Wings', 'Sandwiches']",43.26274,-79.95276,1
+hub_530,The Red Door Cucina,"['Italian', 'Pizza']",43.26690899,-79.9544512,5
+hub_535,Empress Wok,['Chinese'],43.25951,-79.9433823,2
+hub_535,Fat Bastard Burrito,['Mexican'],43.25951,-79.94338,2
+hub_535,The Great Canadian Bagel,['Bagels'],43.25951,-79.94338,3.5
+hub_535,Fionn MacCool's,['Irish Pub'],43.25849,-79.94142,2
+hub_535,KFC,"['Chicken Shop', 'Chicken Wings', 'Fast Food']",43.25849,-79.94142,1
+hub_535,East Side Mario's,"['Italian', 'American (Traditional)', 'Pizza']",43.258489,-79.94142,2
+hub_535,Osmow's,['Mediterranean'],43.25849,-79.94142,4
+hub_535,Popeyes Louisiana Chicken,"['Fast Food', 'Chicken Wings']",43.2564189,-79.9358334,1
+hub_535,Yukiguni Izakaya,"['Sushi Bars', 'Japanese']",43.25793,-79.93448,2
+hub_535,Hazel Tea & Dessert House,"['Desserts', 'Bubble Tea']",43.25793,-79.9344799,4
+hub_536,Right Wingers,['Chicken Wings'],43.2521846,-79.9398027,4
+hub_536,The Lighthouse Fish and Chips,['Fish & Chips'],43.2525237,-79.9392691,3.5
+hub_536,Lee's Take Out & Delivery Service,"['Chinese', 'Imported Food']",43.25267,-79.93885,2
+hub_536,West End Diner,['Diners'],43.25276,-79.93857,4
+hub_536,West Garden Chinese Food,['Chinese'],43.2479858,-79.9428787,1
+hub_536,Fionn MacCool's,['Irish Pub'],43.25849,-79.94142,2
+hub_536,KFC,"['Chicken Shop', 'Chicken Wings', 'Fast Food']",43.25849,-79.94142,1
+hub_536,East Side Mario's,"['Italian', 'American (Traditional)', 'Pizza']",43.258489,-79.94142,2
+hub_536,Osmow's,['Mediterranean'],43.25849,-79.94142,4
+hub_536,Fat Bastard Burrito,['Mexican'],43.25951,-79.94338,2
+hub_537,Yukiguni Izakaya,"['Sushi Bars', 'Japanese']",43.25793,-79.93448,2
+hub_537,Hazel Tea & Dessert House,"['Desserts', 'Bubble Tea']",43.25793,-79.9344799,4
+hub_537,Joya Sushi,"['Sushi Bars', 'Japanese', 'Korean']",43.25663138,-79.9345614,4
+hub_537,Popeyes Louisiana Chicken,"['Fast Food', 'Chicken Wings']",43.2564189,-79.9358334,1
+hub_537,Baskin Robbins,"['Ice Cream & Frozen Yogurt', 'Custom Cakes']",43.2565794,-79.93496301,3.5
+hub_537,Pane Fresco,['Cafes'],43.2554932,-79.92884887,2
+hub_537,Mr  Gao,['Chinese'],43.25740112,-79.92817005,3.5
+hub_537,Noodle Bar,"['Sushi Bars', 'Imported Food']",43.25544173,-79.92870029,2.5
+hub_537,Boston Pizza,"['Pizza', 'Italian', 'Chicken Wings']",43.25734918,-79.92774941,3.5
+hub_537,Fionn MacCool's,['Irish Pub'],43.25849,-79.94142,2
+hub_538,Lee's Take Out & Delivery Service,"['Chinese', 'Imported Food']",43.25267,-79.93885,2
+hub_538,West End Diner,['Diners'],43.25276,-79.93857,4
+hub_538,The Lighthouse Fish and Chips,['Fish & Chips'],43.2525237,-79.9392691,3.5
+hub_538,Right Wingers,['Chicken Wings'],43.2521846,-79.9398027,4
+hub_538,Baskin Robbins,"['Ice Cream & Frozen Yogurt', 'Custom Cakes']",43.2565794,-79.93496301,3.5
+hub_538,Joya Sushi,"['Sushi Bars', 'Japanese', 'Korean']",43.25663138,-79.9345614,4
+hub_538,Popeyes Louisiana Chicken,"['Fast Food', 'Chicken Wings']",43.2564189,-79.9358334,1
+hub_538,Pane Fresco,['Cafes'],43.2554932,-79.92884887,2
+hub_538,Yukiguni Izakaya,"['Sushi Bars', 'Japanese']",43.25793,-79.93448,2
+hub_538,Hazel Tea & Dessert House,"['Desserts', 'Bubble Tea']",43.25793,-79.9344799,4
+hub_539,Mr  Gao,['Chinese'],43.25740112,-79.92817005,3.5
+hub_539,Boston Pizza,"['Pizza', 'Italian', 'Chicken Wings']",43.25734918,-79.92774941,3.5
+hub_539,Maccheroni Cucina Alfresco,['Italian'],43.2578,-79.9264199,4
+hub_539,Tim Horton Donuts,['Coffee & Tea'],43.25782,-79.92567,2
+hub_539,Pane Fresco,['Cafes'],43.2554932,-79.92884887,2
+hub_539,Noodle Bar,"['Sushi Bars', 'Imported Food']",43.25544173,-79.92870029,2.5
+hub_539,CoCo Fresh Tea & Juice,"['Bubble Tea', 'Juice Bars & Smoothies']",43.257849,-79.9252604,5
+hub_539,Yukiguni Izakaya,"['Sushi Bars', 'Japanese']",43.25793,-79.93448,2
+hub_539,Hazel Tea & Dessert House,"['Desserts', 'Bubble Tea']",43.25793,-79.9344799,4
+hub_539,Joya Sushi,"['Sushi Bars', 'Japanese', 'Korean']",43.25663138,-79.9345614,4
+hub_540,Maccheroni Cucina Alfresco,['Italian'],43.2578,-79.9264199,4
+hub_540,Tim Horton Donuts,['Coffee & Tea'],43.25782,-79.92567,2
+hub_540,CoCo Fresh Tea & Juice,"['Bubble Tea', 'Juice Bars & Smoothies']",43.257849,-79.9252604,5
+hub_540,Boston Pizza,"['Pizza', 'Italian', 'Chicken Wings']",43.25734918,-79.92774941,3.5
+hub_540,Tally Ho,"['Burgers', 'Fast Food', 'Sandwiches']",43.2577726,-79.9240784,4
+hub_540,Mr  Gao,['Chinese'],43.25740112,-79.92817005,3.5
+hub_540,Maple Leaf Pancake House,['Breakfast & Brunch'],43.25788,-79.92354,2.5
+hub_540,Dough Box,"['Pizza', 'Italian']",43.2574167,-79.9239487,4
+hub_540,East Meets West Bistro,['Canadian (New)'],43.26248256,-79.92286111,2.5
+hub_540,Pane Fresco,['Cafes'],43.2554932,-79.92884887,2
+hub_541,Basilique,"['Pizza', 'Salad', 'Sandwiches']",43.2611,-79.90732,3.5
+hub_541,TCBY Hamilton,"['Ice Cream & Frozen Yogurt', 'Desserts']",43.2611,-79.90732,4
+hub_541,Pita Pit,['Sandwiches'],43.2614265,-79.9075946,5
+hub_541,Chung Chun Rice Hot Dog,"['Korean', 'Hot Dogs']",43.26130144,-79.90695808,5
+hub_541,OneZo Tapioca,['Bubble Tea'],43.26134456,-79.90691151,4
+hub_541,The Alley,['Bubble Tea'],43.26164,-79.90714,5
+hub_541,Cupcakes,['Bakeries'],43.26164,-79.90714,3.5
+hub_541,Sakura Tea,['Bubble Tea'],43.25847,-79.90874,3
+hub_541,Cuppa Tea,['Bubble Tea'],43.2617903,-79.9069099,4
+hub_541,Charlie’s Chopsticks,"['Bubble Tea', 'Sushi Bars', 'Dumplings']",43.26136,-79.90644,5
+hub_542,Bridges Cafe,"['Vegetarian', 'Cafes']",43.2628019,-79.9176086,4.5
+hub_542,Teriyaki Experience,"['Japanese', 'Food Court']",43.26336764,-79.91739526,3
+hub_542,Mr Sub,"['Caterers', 'Sandwiches']",43.2581599,-79.91173,5
+hub_542,Pita Pit,['Sandwiches'],43.2614265,-79.9075946,5
+hub_542,Porcelain Hotpot & Lounge,"['Chinese', 'Bubble Tea', 'Hot Pot']",43.25829833,-79.911011,5
+hub_542,Caribbean Flavah,"['Caribbean', 'Soul Food']",43.25829,-79.91107,3
+hub_542,Pho Excellent,"['Vietnamese', 'Thai', 'Noodles']",43.2582044,-79.9108457,5
+hub_542,Basilique,"['Pizza', 'Salad', 'Sandwiches']",43.2611,-79.90732,3.5
+hub_542,TCBY Hamilton,"['Ice Cream & Frozen Yogurt', 'Desserts']",43.2611,-79.90732,4
+hub_542,The Alley,['Bubble Tea'],43.26164,-79.90714,5
+hub_543,Pita Pit,['Sandwiches'],43.2614265,-79.9075946,5
+hub_543,TCBY Hamilton,"['Ice Cream & Frozen Yogurt', 'Desserts']",43.2611,-79.90732,4
+hub_543,Basilique,"['Pizza', 'Salad', 'Sandwiches']",43.2611,-79.90732,3.5
+hub_543,The Alley,['Bubble Tea'],43.26164,-79.90714,5
+hub_543,Cupcakes,['Bakeries'],43.26164,-79.90714,3.5
+hub_543,Cuppa Tea,['Bubble Tea'],43.2617903,-79.9069099,4
+hub_543,Chung Chun Rice Hot Dog,"['Korean', 'Hot Dogs']",43.26130144,-79.90695808,5
+hub_543,OneZo Tapioca,['Bubble Tea'],43.26134456,-79.90691151,4
+hub_543,Rawlicious,['Vegan'],43.26175839,-79.90667682,4
+hub_543,The Express Italian Eatery,['Italian'],43.2617268,-79.9065688,4
+hub_544,Weil's of Westdale Bakery,['Bakeries'],43.2623,-79.9042599,4
+hub_544,Dragon Court,['Chinese'],43.26264,-79.90469,2.5
+hub_544,Second Cup,['Coffee & Tea'],43.2624094,-79.9049837,4
+hub_544,Nannaa,['Persian/Iranian'],43.26236148,-79.90547653,3.5
+hub_544,Mikel Coffee,"['Cafes', 'Bakeries']",43.262429,-79.905462,5
+hub_544,Delirious Burger,"['Canadian (New)', 'Burgers']",43.26243,-79.90546,4.5
+hub_544,Pizzaiolo,['Pizza'],43.26181385,-79.90512133,4
+hub_544,The Snooty Fox,['Pubs'],43.2617199,-79.90518,3
+hub_544,Pizza Nova,['Pizza'],43.2622078,-79.9058477,2.5
+hub_544,Bean Bar,"['Comfort Food', 'Burgers', 'Sandwiches']",43.2622848,-79.90572986,3.5
+hub_545,West End Pub,['Pubs'],43.25308,-79.92149,3
+hub_545,Emerson Pub,['Pubs'],43.2542874,-79.921105,2.5
+hub_545,Dough Box,"['Pizza', 'Italian']",43.2574167,-79.9239487,4
+hub_545,Noodle Bar,"['Sushi Bars', 'Imported Food']",43.25544173,-79.92870029,2.5
+hub_545,Tally Ho,"['Burgers', 'Fast Food', 'Sandwiches']",43.2577726,-79.9240784,4
+hub_545,Maple Leaf Pancake House,['Breakfast & Brunch'],43.25788,-79.92354,2.5
+hub_545,Gino's Pizza,['Pizza'],43.25726697,-79.91831474,2.5
+hub_545,Pane Fresco,['Cafes'],43.2554932,-79.92884887,2
+hub_545,Pinks,['Burgers'],43.25750562,-79.91884597,4
+hub_545,Subway,"['Sandwiches', 'Fast Food']",43.25743,-79.91877,2.5
+hub_546,Emerson Pub,['Pubs'],43.2542874,-79.921105,2.5
+hub_546,West End Pub,['Pubs'],43.25308,-79.92149,3
+hub_546,Gino's Pizza,['Pizza'],43.25726697,-79.91831474,2.5
+hub_546,Pinks,['Burgers'],43.25750562,-79.91884597,4
+hub_546,Subway,"['Sandwiches', 'Fast Food']",43.25743,-79.91877,2.5
+hub_546,Taco Del Mar,"['Mexican', 'Tex-Mex', 'Fast Food']",43.25743,-79.91877,3.5
+hub_546,Quik Chik,"['Fast Food', 'Chicken Shop']",43.25743,-79.91877,1.5
+hub_546,Starbucks,['Coffee & Tea'],43.2574081,-79.9193726,3.5
+hub_546,Yogurty's Froyo,"['Ice Cream & Frozen Yogurt', 'Desserts']",43.25724978,-79.91808908,3.5
+hub_546,The Arch Noodle House,['Noodles'],43.25738,-79.9180499,3.5
+hub_547,Pizzaiolo,['Pizza'],43.26181385,-79.90512133,4
+hub_547,The Snooty Fox,['Pubs'],43.2617199,-79.90518,3
+hub_547,Nannaa,['Persian/Iranian'],43.26236148,-79.90547653,3.5
+hub_547,Second Cup,['Coffee & Tea'],43.2624094,-79.9049837,4
+hub_547,Pizza Nova,['Pizza'],43.2622078,-79.9058477,2.5
+hub_547,Bean Bar,"['Comfort Food', 'Burgers', 'Sandwiches']",43.2622848,-79.90572986,3.5
+hub_547,The Burnt Tongue,"['Soup', 'Sandwiches', 'Salad']",43.26163,-79.90551,4.5
+hub_547,Mikel Coffee,"['Cafes', 'Bakeries']",43.262429,-79.905462,5
+hub_547,Delirious Burger,"['Canadian (New)', 'Burgers']",43.26243,-79.90546,4.5
+hub_547,Paisley,['Coffee & Tea'],43.26225981,-79.90587037,3.5
+hub_548,Emerson Pub,['Pubs'],43.2542874,-79.921105,2.5
+hub_548,West End Pub,['Pubs'],43.25308,-79.92149,3
+hub_548,Prime Pita,"['Lebanese', 'Mediterranean']",43.25725548,-79.91791461,4.5
+hub_548,The Arch Noodle House,['Noodles'],43.25738,-79.9180499,3.5
+hub_548,Williams Fresh Cafe,"['Breakfast & Brunch', 'Cafes']",43.25738,-79.9180499,2.5
+hub_548,Yogurty's Froyo,"['Ice Cream & Frozen Yogurt', 'Desserts']",43.25724978,-79.91808908,3.5
+hub_548,Gino's Pizza,['Pizza'],43.25726697,-79.91831474,2.5
+hub_548,Quik Chik,"['Fast Food', 'Chicken Shop']",43.25743,-79.91877,1.5
+hub_548,Subway,"['Sandwiches', 'Fast Food']",43.25743,-79.91877,2.5
+hub_548,Taco Del Mar,"['Mexican', 'Tex-Mex', 'Fast Food']",43.25743,-79.91877,3.5
+hub_549,Sakura Tea,['Bubble Tea'],43.25847,-79.90874,3
+hub_549,Pho Excellent,"['Vietnamese', 'Thai', 'Noodles']",43.2582044,-79.9108457,5
+hub_549,Caribbean Flavah,"['Caribbean', 'Soul Food']",43.25829,-79.91107,3
+hub_549,Porcelain Hotpot & Lounge,"['Chinese', 'Bubble Tea', 'Hot Pot']",43.25829833,-79.911011,5
+hub_549,Basilique,"['Pizza', 'Salad', 'Sandwiches']",43.2611,-79.90732,3.5
+hub_549,TCBY Hamilton,"['Ice Cream & Frozen Yogurt', 'Desserts']",43.2611,-79.90732,4
+hub_549,Chung Chun Rice Hot Dog,"['Korean', 'Hot Dogs']",43.26130144,-79.90695808,5
+hub_549,OneZo Tapioca,['Bubble Tea'],43.26134456,-79.90691151,4
+hub_549,Pita Pit,['Sandwiches'],43.2614265,-79.9075946,5
+hub_549,Mr Sub,"['Caterers', 'Sandwiches']",43.2581599,-79.91173,5
+hub_550,Lava Pizza & Wings,"['Chicken Wings', 'Pizza']",43.2630097,-79.9006621,2.5
+hub_550,Valentino's Restaurant,"['Pizza', 'Italian']",43.2627398,-79.8993743,2.5
+hub_550,Phin Coffee Bar,['Coffee & Tea'],43.26262,-79.89786,5
+hub_550,Weil's of Westdale Bakery,['Bakeries'],43.2623,-79.9042599,4
+hub_550,Dragon Court,['Chinese'],43.26264,-79.90469,2.5
+hub_550,Second Cup,['Coffee & Tea'],43.2624094,-79.9049837,4
+hub_550,Pizzaiolo,['Pizza'],43.26181385,-79.90512133,4
+hub_550,Nannaa,['Persian/Iranian'],43.26236148,-79.90547653,3.5
+hub_550,Mikel Coffee,"['Cafes', 'Bakeries']",43.262429,-79.905462,5
+hub_550,Delirious Burger,"['Canadian (New)', 'Burgers']",43.26243,-79.90546,4.5
+hub_551,Lava Pizza & Wings,"['Chicken Wings', 'Pizza']",43.2630097,-79.9006621,2.5
+hub_551,Valentino's Restaurant,"['Pizza', 'Italian']",43.2627398,-79.8993743,2.5
+hub_551,Phin Coffee Bar,['Coffee & Tea'],43.26262,-79.89786,5
+hub_551,Weil's of Westdale Bakery,['Bakeries'],43.2623,-79.9042599,4
+hub_551,Dragon Court,['Chinese'],43.26264,-79.90469,2.5
+hub_551,Second Cup,['Coffee & Tea'],43.2624094,-79.9049837,4
+hub_551,Hungry Traveler,"['Caribbean', 'Asian Fusion', 'Modern European']",43.2604984,-79.8958809,1.5
+hub_551,Mikel Coffee,"['Cafes', 'Bakeries']",43.262429,-79.905462,5
+hub_551,Delirious Burger,"['Canadian (New)', 'Burgers']",43.26243,-79.90546,4.5
+hub_551,Nannaa,['Persian/Iranian'],43.26236148,-79.90547653,3.5
+hub_552,Chedoke Radial Trail,['Hiking'],43.246154,-79.911901,5
+hub_552,Chedoke Falls,['Local Flavor'],43.242222,-79.9141979,4.5
+hub_552,West End Pub,['Pubs'],43.25308,-79.92149,3
+hub_552,Aberdeen Tavern,"['Comfort Food', 'Bars']",43.2512808,-79.8933956,4
+hub_552,Gino's Pizza,['Pizza'],43.23365,-79.90982,1
+hub_552,Dundurn Market,"['Coffee & Tea', 'Bakeries', 'Fruits & Veggies']",43.25126,-79.89294,3
+hub_552,Pho Excellent,"['Vietnamese', 'Thai', 'Noodles']",43.2582044,-79.9108457,5
+hub_552,Mr Sub,"['Caterers', 'Sandwiches']",43.2581599,-79.91173,5
+hub_552,Caribbean Flavah,"['Caribbean', 'Soul Food']",43.25829,-79.91107,3
+hub_552,Sakura Tea,['Bubble Tea'],43.25847,-79.90874,3
+hub_553,Papa Johns Pizza,['Pizza'],43.259035,-79.9007475,2
+hub_553,Ye Olde Squire - Main Street,"['Pubs', 'British', 'Greek']",43.25895,-79.90118,2.5
+hub_553,Masala Corner,"['Indian', 'Himalayan/Nepalese']",43.25925,-79.89987,4.5
+hub_553,Pizzaiolo,['Pizza'],43.26181385,-79.90512133,4
+hub_553,The Burnt Tongue,"['Soup', 'Sandwiches', 'Salad']",43.26163,-79.90551,4.5
+hub_553,Weil's of Westdale Bakery,['Bakeries'],43.2623,-79.9042599,4
+hub_553,The Snooty Fox,['Pubs'],43.2617199,-79.90518,3
+hub_553,Lava Pizza & Wings,"['Chicken Wings', 'Pizza']",43.2630097,-79.9006621,2.5
+hub_553,Dragon Court,['Chinese'],43.26264,-79.90469,2.5
+hub_553,Second Cup,['Coffee & Tea'],43.2624094,-79.9049837,4
+hub_554,Phin Coffee Bar,['Coffee & Tea'],43.26262,-79.89786,5
+hub_554,Hungry Traveler,"['Caribbean', 'Asian Fusion', 'Modern European']",43.2604984,-79.8958809,1.5
+hub_554,Vip Restaurant,['Restaurants'],43.25985,-79.89674,2.5
+hub_554,Valentino's Restaurant,"['Pizza', 'Italian']",43.2627398,-79.8993743,2.5
+hub_554,Lava Pizza & Wings,"['Chicken Wings', 'Pizza']",43.2630097,-79.9006621,2.5
+hub_554,Masala Corner,"['Indian', 'Himalayan/Nepalese']",43.25925,-79.89987,4.5
+hub_554,Papa Johns Pizza,['Pizza'],43.259035,-79.9007475,2
+hub_554,Ye Olde Squire - Main Street,"['Pubs', 'British', 'Greek']",43.25895,-79.90118,2.5
+hub_554,McDonald's,"['Fast Food', 'Burgers', 'Coffee & Tea']",43.26026248,-79.89000948,2.5
+hub_554,Mr. Dumpling Express,"['Chinese', 'Fast Food']",43.26071746,-79.88966834,2.5
+hub_555,Papa Johns Pizza,['Pizza'],43.259035,-79.9007475,2
+hub_555,Ye Olde Squire - Main Street,"['Pubs', 'British', 'Greek']",43.25895,-79.90118,2.5
+hub_555,Masala Corner,"['Indian', 'Himalayan/Nepalese']",43.25925,-79.89987,4.5
+hub_555,Vip Restaurant,['Restaurants'],43.25985,-79.89674,2.5
+hub_555,Hungry Traveler,"['Caribbean', 'Asian Fusion', 'Modern European']",43.2604984,-79.8958809,1.5
+hub_555,Sakura Tea,['Bubble Tea'],43.25847,-79.90874,3
+hub_555,The Burnt Tongue,"['Soup', 'Sandwiches', 'Salad']",43.26163,-79.90551,4.5
+hub_555,Pizzaiolo,['Pizza'],43.26181385,-79.90512133,4
+hub_555,The Snooty Fox,['Pubs'],43.2617199,-79.90518,3
+hub_555,Weil's of Westdale Bakery,['Bakeries'],43.2623,-79.9042599,4
+hub_556,Aberdeen Tavern,"['Comfort Food', 'Bars']",43.2512808,-79.8933956,4
+hub_556,Dundurn Market,"['Coffee & Tea', 'Bakeries', 'Fruits & Veggies']",43.25126,-79.89294,3
+hub_556,Cake & Loaf Bakery,"['Bakeries', 'Vegan', 'Sandwiches']",43.2519312,-79.8921731,4
+hub_556,Zarky's Fine Foods On Dundurn,"['Delis', 'Sandwiches', 'Food']",43.25403,-79.89176,4
+hub_556,Earth To Table : Bread Bar,"['Pizza', 'Breakfast & Brunch', 'Salad']",43.25284,-79.88702,4
+hub_556,Peruviano,"['Italian', 'Cocktail Bars', 'Peruvian']",43.25299,-79.88692,4
+hub_556,Starbucks,['Coffee & Tea'],43.2391205,-79.8852081,4
+hub_556,My Dog's Cafe & Bar,['Coffee & Tea'],43.25383,-79.88605,4.5
+hub_556,The Cellar,"['Canadian (New)', 'American (Traditional)']",43.23851719,-79.88665078,2.5
+hub_556,Ye Old Squire,"['Pubs', 'Chicken Wings', 'Canadian (New)']",43.25415635,-79.88594719,3.5
+hub_557,Dundurn Market,"['Coffee & Tea', 'Bakeries', 'Fruits & Veggies']",43.25126,-79.89294,3
+hub_557,Aberdeen Tavern,"['Comfort Food', 'Bars']",43.2512808,-79.8933956,4
+hub_557,Cake & Loaf Bakery,"['Bakeries', 'Vegan', 'Sandwiches']",43.2519312,-79.8921731,4
+hub_557,Zarky's Fine Foods On Dundurn,"['Delis', 'Sandwiches', 'Food']",43.25403,-79.89176,4
+hub_557,Earth To Table : Bread Bar,"['Pizza', 'Breakfast & Brunch', 'Salad']",43.25284,-79.88702,4
+hub_557,Peruviano,"['Italian', 'Cocktail Bars', 'Peruvian']",43.25299,-79.88692,4
+hub_557,My Dog's Cafe & Bar,['Coffee & Tea'],43.25383,-79.88605,4.5
+hub_557,Ye Old Squire,"['Pubs', 'Chicken Wings', 'Canadian (New)']",43.25415635,-79.88594719,3.5
+hub_557,The West Town Bar & Grill,"['Breakfast & Brunch', 'Steakhouses', 'Burgers']",43.25456,-79.88633,3.5
+hub_557,Bitten On Locke,"['Bakeries', 'Patisserie/Cake Shop']",43.2542199,-79.88581,4
+hub_558,Zarky's Fine Foods On Dundurn,"['Delis', 'Sandwiches', 'Food']",43.25403,-79.89176,4
+hub_558,Hill Street Dog Park,['Dog Parks'],43.2564011,-79.8876495,3
+hub_558,Cake & Loaf Bakery,"['Bakeries', 'Vegan', 'Sandwiches']",43.2519312,-79.8921731,4
+hub_558,The West Town Bar & Grill,"['Breakfast & Brunch', 'Steakhouses', 'Burgers']",43.25456,-79.88633,3.5
+hub_558,Peruviano,"['Italian', 'Cocktail Bars', 'Peruvian']",43.25299,-79.88692,4
+hub_558,Earth To Table : Bread Bar,"['Pizza', 'Breakfast & Brunch', 'Salad']",43.25284,-79.88702,4
+hub_558,Democracy,"['Coffee & Tea', 'Bakeries']",43.2547913,-79.8862228,4
+hub_558,CIMA Enoteca,['Italian'],43.25512,-79.88608,3.5
+hub_558,My Dog's Cafe & Bar,['Coffee & Tea'],43.25383,-79.88605,4.5
+hub_558,Ye Old Squire,"['Pubs', 'Chicken Wings', 'Canadian (New)']",43.25415635,-79.88594719,3.5
+hub_559,McDonald's,"['Fast Food', 'Burgers', 'Coffee & Tea']",43.26026248,-79.89000948,2.5
+hub_559,Shehnai Restaurant Authentic Indian Cuisine,"['Indian', 'Buffets']",43.2593,-79.88792,3
+hub_559,Pizza Pizza,"['Pizza', 'Italian', 'Chicken Wings']",43.26067804,-79.88963479,2
+hub_559,Mr. Dumpling Express,"['Chinese', 'Fast Food']",43.26071746,-79.88966834,2.5
+hub_559,Tim Hortons,"['Coffee & Tea', 'Bakeries']",43.26227,-79.8871,1.5
+hub_559,Pizza Hut,"['Pizza', 'Italian']",43.2621609,-79.8862813,2.5
+hub_559,Hill Street Dog Park,['Dog Parks'],43.2564011,-79.8876495,3
+hub_559,The Beasley House Bistro,['Canadian (New)'],43.2582,-79.8847,2.5
+hub_559,People Under The Staircase,"['Desserts', 'Burgers', 'Sandwiches']",43.26329,-79.88786,5
+hub_559,Hammerheads Fresh On Locke,"['Seafood', 'Seafood Markets', 'Poke']",43.25661099,-79.8854628,5
+hub_560,Tim Hortons,"['Coffee & Tea', 'Bakeries']",43.26227,-79.8871,1.5
+hub_560,People Under The Staircase,"['Desserts', 'Burgers', 'Sandwiches']",43.26329,-79.88786,5
+hub_560,Pizza Hut,"['Pizza', 'Italian']",43.2621609,-79.8862813,2.5
+hub_560,Mr. Dumpling Express,"['Chinese', 'Fast Food']",43.26071746,-79.88966834,2.5
+hub_560,Pizza Pizza,"['Pizza', 'Italian', 'Chicken Wings']",43.26067804,-79.88963479,2
+hub_560,McDonald's,"['Fast Food', 'Burgers', 'Coffee & Tea']",43.26026248,-79.89000948,2.5
+hub_560,Shehnai Restaurant Authentic Indian Cuisine,"['Indian', 'Buffets']",43.2593,-79.88792,3
+hub_560,Victoria’s Restaurant,"['Seafood', 'Fish & Chips', 'Cocktail Bars']",43.26092689,-79.88324136,4
+hub_560,Hotopia,"['Chinese', 'Imported Food']",43.26089389,-79.88295395,3
+hub_560,The Beasley House Bistro,['Canadian (New)'],43.2582,-79.8847,2.5
+hub_562,Peruviano,"['Italian', 'Cocktail Bars', 'Peruvian']",43.25299,-79.88692,4
+hub_562,Earth To Table : Bread Bar,"['Pizza', 'Breakfast & Brunch', 'Salad']",43.25284,-79.88702,4
+hub_562,My Dog's Cafe & Bar,['Coffee & Tea'],43.25383,-79.88605,4.5
+hub_562,Ye Old Squire,"['Pubs', 'Chicken Wings', 'Canadian (New)']",43.25415635,-79.88594719,3.5
+hub_562,Bitten On Locke,"['Bakeries', 'Patisserie/Cake Shop']",43.2542199,-79.88581,4
+hub_562,The West Town Bar & Grill,"['Breakfast & Brunch', 'Steakhouses', 'Burgers']",43.25456,-79.88633,3.5
+hub_562,Democracy,"['Coffee & Tea', 'Bakeries']",43.2547913,-79.8862228,4
+hub_562,Pizzaiolo,['Pizza'],43.25481221,-79.88579884,2.5
+hub_562,Delirious Burger,['Burgers'],43.25497,-79.88563,5
+hub_562,CIMA Enoteca,['Italian'],43.25512,-79.88608,3.5
+hub_563,Hammerheads Fresh On Locke,"['Seafood', 'Seafood Markets', 'Poke']",43.25661099,-79.8854628,5
+hub_563,Starbucks,['Coffee & Tea'],43.2561607,-79.8857117,3.5
+hub_563,Pasta Mercato,"['Bakeries', 'Grocery', 'Organic Stores']",43.2558669,-79.88559774,5
+hub_563,Amo Gelato Cafe,"['Desserts', 'Ice Cream & Frozen Yogurt']",43.25565,-79.8853,4.5
+hub_563,The Burnt Tongue,"['Burgers', 'Soup', 'Sandwiches']",43.2555538,-79.8858002,4.5
+hub_563,Glow Juicery,"['Juice Bars & Smoothies', 'Live/Raw Food']",43.25521,-79.88558,4.5
+hub_563,Delirious Burger,['Burgers'],43.25497,-79.88563,5
+hub_563,CIMA Enoteca,['Italian'],43.25512,-79.88608,3.5
+hub_563,The Beasley House Bistro,['Canadian (New)'],43.2582,-79.8847,2.5
+hub_563,Pizzaiolo,['Pizza'],43.25481221,-79.88579884,2.5
+hub_564,Victoria’s Restaurant,"['Seafood', 'Fish & Chips', 'Cocktail Bars']",43.26092689,-79.88324136,4
+hub_564,Hotopia,"['Chinese', 'Imported Food']",43.26089389,-79.88295395,3
+hub_564,Pizza Hut,"['Pizza', 'Italian']",43.2621609,-79.8862813,2.5
+hub_564,Pho Lac Vien,['Vietnamese'],43.2653164,-79.8808978,4
+hub_564,Stonewalls Restaurant,"['American (Traditional)', 'Music Venues']",43.26307498,-79.87841622,2.5
+hub_564,Tim Hortons,"['Coffee & Tea', 'Bakeries']",43.26227,-79.8871,1.5
+hub_564,K.W. BBQ KITCHEN,"['Barbeque', 'Chinese']",43.26264348,-79.87782095,4
+hub_564,McQueen's Banh Mi Viet,['Vietnamese'],43.2628057,-79.87775669,4.5
+hub_564,People Under The Staircase,"['Desserts', 'Burgers', 'Sandwiches']",43.26329,-79.88786,5
+hub_564,Pho Nhung,['Vietnamese'],43.26239,-79.87797,4.5
+hub_565,Pho Lac Vien,['Vietnamese'],43.2653164,-79.8808978,4
+hub_565,Dundurn National Historic Site,['Museums'],43.26853,-79.88501,4
+hub_565,Stonewalls Restaurant,"['American (Traditional)', 'Music Venues']",43.26307498,-79.87841622,2.5
+hub_565,McQueen's Banh Mi Viet,['Vietnamese'],43.2628057,-79.87775669,4.5
+hub_565,K.W. BBQ KITCHEN,"['Barbeque', 'Chinese']",43.26264348,-79.87782095,4
+hub_565,Select Food Mart,['Pizza'],43.26277191,-79.87758592,5
+hub_565,Pizza Hut,"['Pizza', 'Italian']",43.2621609,-79.8862813,2.5
+hub_565,Pho Nhung,['Vietnamese'],43.26239,-79.87797,4.5
+hub_565,Adobo Queen,['Filipino'],43.26226663,-79.87728537,2.5
+hub_565,Buona Vita Pizza,"['Italian', 'Pizza']",43.262024,-79.8775857,4.5
+hub_566,Durand Coffee,['Coffee & Tea'],43.25142622,-79.87885863,4.5
+hub_566,Earth To Table : Bread Bar,"['Pizza', 'Breakfast & Brunch', 'Salad']",43.25284,-79.88702,4
+hub_566,Peruviano,"['Italian', 'Cocktail Bars', 'Peruvian']",43.25299,-79.88692,4
+hub_566,My Dog's Cafe & Bar,['Coffee & Tea'],43.25383,-79.88605,4.5
+hub_566,Queen's Pizza & Wings,"['Pizza', 'Chicken Wings']",43.25379,-79.88139,2.5
+hub_566,Ye Old Squire,"['Pubs', 'Chicken Wings', 'Canadian (New)']",43.25415635,-79.88594719,3.5
+hub_566,Bitten On Locke,"['Bakeries', 'Patisserie/Cake Shop']",43.2542199,-79.88581,4
+hub_566,The West Town Bar & Grill,"['Breakfast & Brunch', 'Steakhouses', 'Burgers']",43.25456,-79.88633,3.5
+hub_566,Democracy,"['Coffee & Tea', 'Bakeries']",43.2547913,-79.8862228,4
+hub_566,Pizzaiolo,['Pizza'],43.25481221,-79.88579884,2.5
+hub_567,Queen's Pizza & Wings,"['Pizza', 'Chicken Wings']",43.25379,-79.88139,2.5
+hub_567,Durand Coffee,['Coffee & Tea'],43.25142622,-79.87885863,4.5
+hub_567,Tomah,['Syrian'],43.25546,-79.88064,5
+hub_567,My Dog's Cafe & Bar,['Coffee & Tea'],43.25383,-79.88605,4.5
+hub_567,Ye Old Squire,"['Pubs', 'Chicken Wings', 'Canadian (New)']",43.25415635,-79.88594719,3.5
+hub_567,Bitten On Locke,"['Bakeries', 'Patisserie/Cake Shop']",43.2542199,-79.88581,4
+hub_567,Peruviano,"['Italian', 'Cocktail Bars', 'Peruvian']",43.25299,-79.88692,4
+hub_567,Earth To Table : Bread Bar,"['Pizza', 'Breakfast & Brunch', 'Salad']",43.25284,-79.88702,4
+hub_567,Pizzaiolo,['Pizza'],43.25481221,-79.88579884,2.5
+hub_567,The West Town Bar & Grill,"['Breakfast & Brunch', 'Steakhouses', 'Burgers']",43.25456,-79.88633,3.5
+hub_568,Queen's Pizza & Wings,"['Pizza', 'Chicken Wings']",43.25379,-79.88139,2.5
+hub_568,Tomah,['Syrian'],43.25546,-79.88064,5
+hub_568,Bitten On Locke,"['Bakeries', 'Patisserie/Cake Shop']",43.2542199,-79.88581,4
+hub_568,Delirious Burger,['Burgers'],43.25497,-79.88563,5
+hub_568,Glow Juicery,"['Juice Bars & Smoothies', 'Live/Raw Food']",43.25521,-79.88558,4.5
+hub_568,Pizzaiolo,['Pizza'],43.25481221,-79.88579884,2.5
+hub_568,Ye Old Squire,"['Pubs', 'Chicken Wings', 'Canadian (New)']",43.25415635,-79.88594719,3.5
+hub_568,Amo Gelato Cafe,"['Desserts', 'Ice Cream & Frozen Yogurt']",43.25565,-79.8853,4.5
+hub_568,My Dog's Cafe & Bar,['Coffee & Tea'],43.25383,-79.88605,4.5
+hub_568,Democracy,"['Coffee & Tea', 'Bakeries']",43.2547913,-79.8862228,4
+hub_569,Tomah,['Syrian'],43.25546,-79.88064,5
+hub_569,Doors: Taco Joint & Metal Bar,"['Dance Clubs', 'Bars', 'Tex-Mex']",43.2572195,-79.8783555,5
+hub_569,Queen's Pizza & Wings,"['Pizza', 'Chicken Wings']",43.25379,-79.88139,2.5
+hub_569,Firestone Pizza Wings & Shawarma,"['Chicken Wings', 'Pizza', 'Poutineries']",43.25804,-79.87967,2.5
+hub_569,Ceilidh House Irish Pub,"['Irish', 'Nightlife']",43.25821,-79.87853,1.5
+hub_569,Moodys,"['Pizza', 'Gluten-Free', 'Italian']",43.25821,-79.87853,4
+hub_569,Amigos,"['Mexican', 'Latin American', 'Cocktail Bars']",43.25825,-79.87868,4.5
+hub_569,Koi,['Japanese'],43.25821,-79.87743,3.5
+hub_569,Electric Diner,"['Diners', 'Burgers', 'Cocktail Bars']",43.25845,-79.878,3.5
+hub_569,The Gown & Gavel,"['Canadian (New)', 'Bars']",43.2584,-79.87785,2.5
+hub_570,Buona Vita Pizza,"['Italian', 'Pizza']",43.262024,-79.8775857,4.5
+hub_570,Pho Nhung,['Vietnamese'],43.26239,-79.87797,4.5
+hub_570,Adobo Queen,['Filipino'],43.26226663,-79.87728537,2.5
+hub_570,K.W. BBQ KITCHEN,"['Barbeque', 'Chinese']",43.26264348,-79.87782095,4
+hub_570,Select Food Mart,['Pizza'],43.26277191,-79.87758592,5
+hub_570,Indian Chinese Halal,"['Indian', 'Halal', 'Chinese']",43.2619095,-79.8762665,2.5
+hub_570,McQueen's Banh Mi Viet,['Vietnamese'],43.2628057,-79.87775669,4.5
+hub_570,Stonewalls Restaurant,"['American (Traditional)', 'Music Venues']",43.26307498,-79.87841622,2.5
+hub_570,Twist Breakfast,['Breakfast & Brunch'],43.25943,-79.87807,1
+hub_570,La Luna,['Middle Eastern'],43.25942165,-79.87848758,4
+hub_571,Stonewalls Restaurant,"['American (Traditional)', 'Music Venues']",43.26307498,-79.87841622,2.5
+hub_571,McQueen's Banh Mi Viet,['Vietnamese'],43.2628057,-79.87775669,4.5
+hub_571,Select Food Mart,['Pizza'],43.26277191,-79.87758592,5
+hub_571,K.W. BBQ KITCHEN,"['Barbeque', 'Chinese']",43.26264348,-79.87782095,4
+hub_571,Adobo Queen,['Filipino'],43.26226663,-79.87728537,2.5
+hub_571,Pho Lac Vien,['Vietnamese'],43.2653164,-79.8808978,4
+hub_571,Buona Vita Pizza,"['Italian', 'Pizza']",43.262024,-79.8775857,4.5
+hub_571,Pho Nhung,['Vietnamese'],43.26239,-79.87797,4.5
+hub_571,Indian Chinese Halal,"['Indian', 'Halal', 'Chinese']",43.2619095,-79.8762665,2.5
+hub_571,Tim Horton's,"['Coffee & Tea', 'Bakeries']",43.2622799,-79.87234,1.5
+hub_572,Durand Coffee,['Coffee & Tea'],43.25142622,-79.87885863,4.5
+hub_572,Red Crow Coffee,['Cafes'],43.2501907,-79.8717194,4.5
+hub_572,Bronzie's Place,"['Pizza', 'Italian', 'Salad']",43.2505499,-79.87143,4.5
+hub_572,La Piazza Allegra,['Italian'],43.25139,-79.8717,3.5
+hub_572,Cojonez Burritoz,['Mexican'],43.25139,-79.8717,1
+hub_572,Royal Pizza & Wings,"['Pizza', 'Chicken Wings']",43.25139,-79.8717,3.5
+hub_572,St. Joseph's Charlton Cafe,['Cafes'],43.24897,-79.86976,4
+hub_572,One Duke Restaurant,"['Seafood', 'Canadian (New)', 'Pizza']",43.25152,-79.87206,3.5
+hub_572,Rustic Reuben,"['Salad', 'Sandwiches', 'Burgers']",43.25160028,-79.87149367,5
+hub_572,Big Scoops,['Ice Cream & Frozen Yogurt'],43.25185797,-79.871468,3.5
+hub_573,Red Crow Coffee,['Cafes'],43.2501907,-79.8717194,4.5
+hub_573,St. Joseph's Charlton Cafe,['Cafes'],43.24897,-79.86976,4
+hub_573,Bronzie's Place,"['Pizza', 'Italian', 'Salad']",43.2505499,-79.87143,4.5
+hub_573,La Piazza Allegra,['Italian'],43.25139,-79.8717,3.5
+hub_573,Cojonez Burritoz,['Mexican'],43.25139,-79.8717,1
+hub_573,Royal Pizza & Wings,"['Pizza', 'Chicken Wings']",43.25139,-79.8717,3.5
+hub_573,Flora Hamilton,['Pizza'],43.25109,-79.87098,4.5
+hub_573,Rustic Reuben,"['Salad', 'Sandwiches', 'Burgers']",43.25160028,-79.87149367,5
+hub_573,One Duke Restaurant,"['Seafood', 'Canadian (New)', 'Pizza']",43.25152,-79.87206,3.5
+hub_573,Big Scoops,['Ice Cream & Frozen Yogurt'],43.25185797,-79.871468,3.5
+hub_574,Whitehern Historic House & Garden,['Museums'],43.2547799,-79.87195,5
+hub_574,Cozy Sushi,"['Japanese', 'Sushi Bars']",43.2527938,-79.8710431,5
+hub_574,One Duke Restaurant,"['Seafood', 'Canadian (New)', 'Pizza']",43.25152,-79.87206,3.5
+hub_574,Secco,"['Comfort Food', 'Breakfast & Brunch', 'Seafood']",43.252256,-79.87128,4
+hub_574,Boo's Bistro and Wine Bar,['Asian Fusion'],43.25192,-79.87138,2.5
+hub_574,Odds Bar,['Sports Bars'],43.25192,-79.87138,4.5
+hub_574,Big Scoops,['Ice Cream & Frozen Yogurt'],43.25185797,-79.871468,3.5
+hub_574,Durand Coffee,['Coffee & Tea'],43.25142622,-79.87885863,4.5
+hub_574,Rustic Reuben,"['Salad', 'Sandwiches', 'Burgers']",43.25160028,-79.87149367,5
+hub_574,Radius,"['Lounges', 'American (Traditional)', 'Venues & Event Spaces']",43.2523512,-79.8708333,3
+hub_575,Famous Recipe,['Caribbean'],43.2580694,-79.8740306,5
+hub_575,The George Hamilton,['Canadian (New)'],43.2582505,-79.8737136,3.5
+hub_575,Levity Comedy Club & Lounge,"['Comedy Clubs', 'Lounges']",43.25792333,-79.87273817,5
+hub_575,Frank & Teresa's Anchor Bar,"['Chicken Wings', 'Pizza', 'American (Traditional)']",43.2581416,-79.872937,2.5
+hub_575,Whitehern Historic House & Garden,['Museums'],43.2547799,-79.87195,5
+hub_575,Chagall's,['Canadian (New)'],43.25766,-79.87124,4
+hub_575,Starbucks,['Coffee & Tea'],43.25766,-79.87124,4
+hub_575,A&W,"['Burgers', 'Fast Food']",43.25859655,-79.87511481,1.5
+hub_575,Vida La Pita,"['Falafel', 'Middle Eastern']",43.2585425,-79.8758366,2.5
+hub_575,The Honest Lawyer,"['Pubs', 'Canadian (New)']",43.257557,-79.871411,1.5
+hub_576,Lemongrass To Go,['Thai'],43.2571106,-79.8693771,2.5
+hub_576,The George Hamilton,['Canadian (New)'],43.2582505,-79.8737136,3.5
+hub_576,Frank & Teresa's Anchor Bar,"['Chicken Wings', 'Pizza', 'American (Traditional)']",43.2581416,-79.872937,2.5
+hub_576,Famous Recipe,['Caribbean'],43.2580694,-79.8740306,5
+hub_576,Gibson's Finest Club Lounge & Restaurant,"['Canadian (New)', 'American (Traditional)', 'Buffets']",43.25974372,-79.87212816,1
+hub_576,Starbucks,['Coffee & Tea'],43.26020102,-79.87363241,3
+hub_576,Subway,"['Sandwiches', 'Fast Food']",43.2600808,-79.8724978,2.5
+hub_576,Levity Comedy Club & Lounge,"['Comedy Clubs', 'Lounges']",43.25792333,-79.87273817,5
+hub_576,A&W,"['Burgers', 'Fast Food']",43.25859655,-79.87511481,1.5
+hub_576,Chagall's,['Canadian (New)'],43.25766,-79.87124,4
+hub_577,Tim Horton's,"['Coffee & Tea', 'Bakeries']",43.2622799,-79.87234,1.5
+hub_577,D's Cafe Bubble Tea,"['Bubble Tea', 'Chicken Wings', 'Fish & Chips']",43.26193,-79.87164,4
+hub_577,Crystal Dynasty Chinese Restaurant,"['Chinese', 'Imported Food']",43.26193,-79.87164,3.5
+hub_577,Pho Hamilton,['Vietnamese'],43.261299,-79.8707656,4.5
+hub_577,Dear Grain Commissary,"['Bakeries', 'Patisserie/Cake Shop']",43.2607306,-79.8723885,5
+hub_577,Banh Mi Hue,"['Vietnamese', 'Sandwiches', 'Desserts']",43.26132,-79.86912,5
+hub_577,Supreme Chinese BBQ,['Chinese'],43.26125276,-79.86904979,2.5
+hub_577,A & J Sugar Bowl,"['Ice Cream & Frozen Yogurt', 'Bubble Tea', 'Creperies']",43.26097066,-79.86877811,4.5
+hub_577,Subway,"['Sandwiches', 'Fast Food']",43.2600808,-79.8724978,2.5
+hub_577,Starbucks,['Coffee & Tea'],43.26020102,-79.87363241,3
+hub_578,Hutch's Harbour Front,"['Fish & Chips', 'Ice Cream & Frozen Yogurt', 'Fast Food']",43.26768,-79.86827,3
+hub_578,Hamilton Harbour Waterfront Trail,['Hiking'],43.26925434,-79.87123679,3
+hub_578,Castelli Cucina,"['Italian', 'Pizza']",43.26492,-79.86576,3.5
+hub_578,Harbour Diner,['Diners'],43.2694,-79.86329,3.5
+hub_578,Synonym,"['Cafes', 'Wine Bars']",43.26459669,-79.86537248,4.5
+hub_578,Loaded Pierogi,"['Bars', 'Polish', 'Salad']",43.26373,-79.86645,5
+hub_578,Martello,"['Pizza', 'Italian']",43.26378,-79.86553,3
+hub_578,General Bread & Pastry,"['Bakeries', 'Breakfast & Brunch', 'Sandwiches']",43.263778,-79.865533,5
+hub_578,Bayfront Park,['Parks'],43.27103159,-79.8722576,4
+hub_578,Wild Orchid,"['Portuguese', 'Seafood']",43.26352,-79.86564,3
+hub_579,Hamilton Harbour Waterfront Trail,['Hiking'],43.26925434,-79.87123679,3
+hub_579,Bayfront Park,['Parks'],43.27103159,-79.8722576,4
+hub_579,Hutch's Harbour Front,"['Fish & Chips', 'Ice Cream & Frozen Yogurt', 'Fast Food']",43.26768,-79.86827,3
+hub_579,Pier 4 Park,"['Parks', 'Playgrounds', 'Beaches']",43.27379677,-79.86721112,3.5
+hub_579,Harbour Diner,['Diners'],43.2694,-79.86329,3.5
+hub_579,Castelli Cucina,"['Italian', 'Pizza']",43.26492,-79.86576,3.5
+hub_579,Synonym,"['Cafes', 'Wine Bars']",43.26459669,-79.86537248,4.5
+hub_579,Loaded Pierogi,"['Bars', 'Polish', 'Salad']",43.26373,-79.86645,5
+hub_579,Martello,"['Pizza', 'Italian']",43.26378,-79.86553,3
+hub_579,General Bread & Pastry,"['Bakeries', 'Breakfast & Brunch', 'Sandwiches']",43.263778,-79.865533,5
+hub_580,West End Pub,['Pubs'],43.25308,-79.92149,3
+hub_580,Emerson Pub,['Pubs'],43.2542874,-79.921105,2.5
+hub_580,Noodle Bar,"['Sushi Bars', 'Imported Food']",43.25544173,-79.92870029,2.5
+hub_580,Pane Fresco,['Cafes'],43.2554932,-79.92884887,2
+hub_580,Dough Box,"['Pizza', 'Italian']",43.2574167,-79.9239487,4
+hub_580,Tally Ho,"['Burgers', 'Fast Food', 'Sandwiches']",43.2577726,-79.9240784,4
+hub_580,Maple Leaf Pancake House,['Breakfast & Brunch'],43.25788,-79.92354,2.5
+hub_580,Tim Horton Donuts,['Coffee & Tea'],43.25782,-79.92567,2
+hub_580,CoCo Fresh Tea & Juice,"['Bubble Tea', 'Juice Bars & Smoothies']",43.257849,-79.9252604,5
+hub_580,Boston Pizza,"['Pizza', 'Italian', 'Chicken Wings']",43.25734918,-79.92774941,3.5
+hub_581,Bonanza Bakery,['Bakeries'],43.2642466,-79.8610767,4.5
+hub_581,Mother's Vietnamese Kitchen,['Vietnamese'],43.26412548,-79.85954035,2.5
+hub_581,Pho My-Tam,"['Vietnamese', 'Asian Fusion']",43.26289,-79.85973,3.5
+hub_581,The Little Grasshopper Cafe,"['Breakfast & Brunch', 'Portuguese', 'Canadian (New)']",43.26381,-79.86412,3.5
+hub_581,Debbie's Fish and Chips,['Fish & Chips'],43.2622709,-79.85940222,4
+hub_581,Synonym,"['Cafes', 'Wine Bars']",43.26459669,-79.86537248,4.5
+hub_581,Castelli Cucina,"['Italian', 'Pizza']",43.26492,-79.86576,3.5
+hub_581,All Seasoned Jamaican Cuisine,['Caribbean'],43.26363174,-79.8648695,4
+hub_581,Harbour Diner,['Diners'],43.2694,-79.86329,3.5
+hub_581,A&W,"['Burgers', 'Fast Food']",43.26202463,-79.85794144,2.5
+hub_582,Harbour Diner,['Diners'],43.2694,-79.86329,3.5
+hub_582,Fisher's Pier 4 Pub & Grub,['Pubs'],43.27143,-79.86229,4
+hub_582,Weston Pizza and Wings,['Pizza'],43.2721,-79.86212,2.5
+hub_582,North End Pita,['International'],43.27247437,-79.86180863,5
+hub_582,GrandDads,['Coffee & Tea'],43.27248178,-79.86172079,4
+hub_582,Hutch's Harbour Front,"['Fish & Chips', 'Ice Cream & Frozen Yogurt', 'Fast Food']",43.26768,-79.86827,3
+hub_582,Pier 4 Park,"['Parks', 'Playgrounds', 'Beaches']",43.27379677,-79.86721112,3.5
+hub_582,Bonanza Bakery,['Bakeries'],43.2642466,-79.8610767,4.5
+hub_582,Castelli Cucina,"['Italian', 'Pizza']",43.26492,-79.86576,3.5
+hub_582,Synonym,"['Cafes', 'Wine Bars']",43.26459669,-79.86537248,4.5
+hub_583,William's Cafe,['Cafes'],43.27638125,-79.86094952,2.5
+hub_583,Williams Fresh Cafe,"['Cafes', 'Breakfast & Brunch']",43.2764873,-79.860838,3
+hub_583,Hamilton Waterfront Scoops,['Ice Cream & Frozen Yogurt'],43.27646,-79.86082,4
+hub_583,HMCS Haida,['Landmarks & Historical Buildings'],43.27531,-79.85604,5
+hub_583,GrandDads,['Coffee & Tea'],43.27248178,-79.86172079,4
+hub_583,North End Pita,['International'],43.27247437,-79.86180863,5
+hub_583,Weston Pizza and Wings,['Pizza'],43.2721,-79.86212,2.5
+hub_583,Fisher's Pier 4 Pub & Grub,['Pubs'],43.27143,-79.86229,4
+hub_583,Pier 4 Park,"['Parks', 'Playgrounds', 'Beaches']",43.27379677,-79.86721112,3.5
+hub_583,Harbour Diner,['Diners'],43.2694,-79.86329,3.5
+hub_585,HMCS Haida,['Landmarks & Historical Buildings'],43.27531,-79.85604,5
+hub_585,GrandDads,['Coffee & Tea'],43.27248178,-79.86172079,4
+hub_585,North End Pita,['International'],43.27247437,-79.86180863,5
+hub_585,Weston Pizza and Wings,['Pizza'],43.2721,-79.86212,2.5
+hub_585,Fisher's Pier 4 Pub & Grub,['Pubs'],43.27143,-79.86229,4
+hub_585,Harbour Diner,['Diners'],43.2694,-79.86329,3.5
+hub_585,William's Cafe,['Cafes'],43.27638125,-79.86094952,2.5
+hub_585,Williams Fresh Cafe,"['Cafes', 'Breakfast & Brunch']",43.2764873,-79.860838,3
+hub_585,Hamilton Waterfront Scoops,['Ice Cream & Frozen Yogurt'],43.27646,-79.86082,4
+hub_585,Mother's Vietnamese Kitchen,['Vietnamese'],43.26412548,-79.85954035,2.5
+hub_586,Planted in Hamilton,"['Vegan', 'Gluten-Free', 'Vegetarian']",43.25033528,-79.86796202,4.5
+hub_586,Atlantic Submarines,['Sandwiches'],43.25051,-79.8689799,1
+hub_586,Konoba,['Canadian (New)'],43.2580299,-79.8780365,3
+hub_586,Karma Chamealeon,"['Food Trucks', 'Vegan']",43.2500208,-79.8660914,4.5
+hub_586,Southern Smoke Truck,['Street Vendors'],43.26199,-79.88799,5
+hub_586,Bon Temps,['Canadian (New)'],43.25088,-79.86872,5
+hub_586,The Cat 'N' Fiddle,"['Pubs', 'British']",43.25145,-79.86857,3.5
+hub_586,Gallagher's Bar & Lounge,"['Music Venues', 'Bars', 'Diners']",43.2515424,-79.8682555,2.5
+hub_586,Paper Crane Sushi,['Sushi Bars'],43.25178,-79.86802,4.5
+hub_586,St. Joseph's Charlton Cafe,['Cafes'],43.24897,-79.86976,4
+hub_587,Whitehern Historic House & Garden,['Museums'],43.2547799,-79.87195,5
+hub_587,The Works,"['Burgers', 'Wine Bars', 'Beer Bar']",43.25749616,-79.87122567,4
+hub_587,The Honest Lawyer,"['Pubs', 'Canadian (New)']",43.257557,-79.871411,1.5
+hub_587,Country Style Donuts,['Coffee & Tea'],43.25711,-79.86938,4
+hub_587,Aichi Japan,['Japanese'],43.25734947,-79.87005158,1
+hub_587,Anchor Bar,"['Bars', 'Chicken Wings', 'American (Traditional)']",43.25711,-79.86938,2
+hub_587,Toby's Goodeats,['Breakfast & Brunch'],43.2573264,-79.8708778,2.5
+hub_587,Laura Secord,"['Ice Cream & Frozen Yogurt', 'Chocolatiers & Shops']",43.2571529,-79.8692434,1
+hub_587,Al Centro,['Italian'],43.25584,-79.8686,3.5
+hub_587,National Pizza & Wings,"['Pizza', 'Chicken Wings']",43.25682,-79.86881,3.5
+hub_588,A&W,"['Burgers', 'Fast Food']",43.26202463,-79.85794144,2.5
+hub_588,Debbie's Fish and Chips,['Fish & Chips'],43.2622709,-79.85940222,4
+hub_588,Tim Horton,['Coffee & Tea'],43.26153,-79.85653,1.5
+hub_588,Pho My-Tam,"['Vietnamese', 'Asian Fusion']",43.26289,-79.85973,3.5
+hub_588,Mother's Vietnamese Kitchen,['Vietnamese'],43.26412548,-79.85954035,2.5
+hub_588,Bonanza Bakery,['Bakeries'],43.2642466,-79.8610767,4.5
+hub_588,General Pizza & Wings,"['Chicken Wings', 'Pizza', 'Chinese']",43.26105816,-79.85392716,4
+hub_588,La Luna Express,['Lebanese'],43.261053,-79.853078,3
+hub_588,Fragoso Seafood Place,['Seafood'],43.2610567,-79.8529129,1
+hub_588,Churrasqueira & Cafe Cantinho,['Portuguese'],43.26064,-79.85274,4
+hub_589,Mother's Vietnamese Kitchen,['Vietnamese'],43.26412548,-79.85954035,2.5
+hub_589,Pho My-Tam,"['Vietnamese', 'Asian Fusion']",43.26289,-79.85973,3.5
+hub_589,Bonanza Bakery,['Bakeries'],43.2642466,-79.8610767,4.5
+hub_589,A&W,"['Burgers', 'Fast Food']",43.26202463,-79.85794144,2.5
+hub_589,Tim Horton,['Coffee & Tea'],43.26153,-79.85653,1.5
+hub_589,Debbie's Fish and Chips,['Fish & Chips'],43.2622709,-79.85940222,4
+hub_589,General Pizza & Wings,"['Chicken Wings', 'Pizza', 'Chinese']",43.26105816,-79.85392716,4
+hub_589,La Luna Express,['Lebanese'],43.261053,-79.853078,3
+hub_589,Fragoso Seafood Place,['Seafood'],43.2610567,-79.8529129,1
+hub_589,Fisticuffs,"['Chinese', 'Malaysian']",43.26095,-79.85251,5
+hub_590,Plaza Pizza & Wings,"['Pizza', 'Chicken Wings']",43.25597,-79.8578262,4.5
+hub_590,Double Star Pizza & Wings,['Pizza'],43.2558478,-79.8580871,4
+hub_590,Azal Restaurant,['Arabic'],43.25593813,-79.85772651,5
+hub_590,Debbie's Fish and Chips,['Fish & Chips'],43.2622709,-79.85940222,4
+hub_590,A&W,"['Burgers', 'Fast Food']",43.26202463,-79.85794144,2.5
+hub_590,Korea House,['Korean'],43.2579156,-79.854948,4
+hub_590,Tim Horton,['Coffee & Tea'],43.26153,-79.85653,1.5
+hub_590,Seasoned,"['Pizza', 'Italian', 'Cocktail Bars']",43.2553874,-79.8624521,5
+hub_590,Pane Del Sole,['Bakeries'],43.26067,-79.8648599,3.5
+hub_590,Dirty Dog Saloon,"['Bars', 'Dance Clubs']",43.2565632,-79.8648743,2.5
+hub_591,Seasoned,"['Pizza', 'Italian', 'Cocktail Bars']",43.2553874,-79.8624521,5
+hub_591,Black Forest Inn European Cuisine,['German'],43.25435582,-79.86158927,3.5
+hub_591,Tony's Corner,['Restaurants'],43.25481,-79.8626,3
+hub_591,The North Fork,"['Burgers', 'Fish & Chips', 'Bars']",43.2547752,-79.8626131,1.5
+hub_591,Forbidden City Chinese Restaurant,"['Chinese', 'Imported Food']",43.2541764,-79.86118215,3
+hub_591,Noodle and Dumpling,"['Noodles', 'Chinese']",43.2546276,-79.8626316,4
+hub_591,Staxx Burger Chicken & Waffle House,['Waffles'],43.25426,-79.86095,2.5
+hub_591,193 Bench Kitchen,"['Sandwiches', 'Bakeries', 'Breakfast & Brunch']",43.25505273,-79.86337557,5
+hub_591,Denninger's Foods of the World,"['Delis', 'Specialty Food', 'Bistros']",43.25381,-79.8609,4
+hub_591,Shakespeare's Steak and Seafood,"['Seafood', 'Steakhouses']",43.25372,-79.86234,4
+hub_593,La Luna Express,['Lebanese'],43.261053,-79.853078,3
+hub_593,Fragoso Seafood Place,['Seafood'],43.2610567,-79.8529129,1
+hub_593,General Pizza & Wings,"['Chicken Wings', 'Pizza', 'Chinese']",43.26105816,-79.85392716,4
+hub_593,Fisticuffs,"['Chinese', 'Malaysian']",43.26095,-79.85251,5
+hub_593,Hargitai's,['Desserts'],43.2609482,-79.8525085,5
+hub_593,Churrasqueira & Cafe Cantinho,['Portuguese'],43.26064,-79.85274,4
+hub_593,Crumbled,['Desserts'],43.26078,-79.85106,4
+hub_593,Diamantino's Pizza,"['Pizza', 'Sandwiches', 'Fast Food']",43.26063,-79.85098,2.5
+hub_593,Emerald Coffee,['Coffee & Tea'],43.26029,-79.85115,5
+hub_593,Tim Horton,['Coffee & Tea'],43.26153,-79.85653,1.5
+hub_594,KFC,"['Chicken Wings', 'Fast Food', 'Chicken Shop']",43.25761,-79.85359,1
+hub_594,Korea House,['Korean'],43.2579156,-79.854948,4
+hub_594,Churrasqueira & Cafe Cantinho,['Portuguese'],43.26064,-79.85274,4
+hub_594,Emerald Coffee,['Coffee & Tea'],43.26029,-79.85115,5
+hub_594,Double Star Pizza & Wings,['Pizza'],43.2558478,-79.8580871,4
+hub_594,Azal Restaurant,['Arabic'],43.25593813,-79.85772651,5
+hub_594,Hargitai's,['Desserts'],43.2609482,-79.8525085,5
+hub_594,Plaza Pizza & Wings,"['Pizza', 'Chicken Wings']",43.25597,-79.8578262,4.5
+hub_594,Crumbled,['Desserts'],43.26078,-79.85106,4
+hub_594,Diamantino's Pizza,"['Pizza', 'Sandwiches', 'Fast Food']",43.26063,-79.85098,2.5
+hub_596,Stoneroads Bar & Grill,['American (Traditional)'],43.24113726,-79.85251905,1.5
+hub_596,Fishing Sushi,"['Japanese', 'Sushi Bars']",43.24097,-79.85299,5
+hub_596,Speedy Subs,"['Hot Dogs', 'Sandwiches']",43.2409503,-79.8520207,4.5
+hub_596,Caribbean & Canadian Restaurant,"['Caribbean', 'Canadian (New)']",43.24079474,-79.8516661,4.5
+hub_596,Heal,"['Juice Bars & Smoothies', 'Themed Cafes', 'Health Markets']",43.24064346,-79.85116249,4.5
+hub_596,The Dirty South,"['Food Trucks', 'American (Traditional)', 'Poutineries']",43.2404,-79.85076,5
+hub_596,HFC,"['Halal', 'Chicken Shop']",43.2403199,-79.85039,2.5
+hub_596,Cadillac Jax Bar & Grill,"['Bars', 'Canadian (New)']",43.24988,-79.84917,5
+hub_596,Culantro Peruvian Cookery,['Peruvian'],43.2501405,-79.8487616,3.5
+hub_596,La Luna On the Mountain Restaurant,['Middle Eastern'],43.23973,-79.84792,3
+hub_597,Pizza World,['Pizza'],43.2512742,-79.8519943,4
+hub_597,Mr Sub,"['Caterers', 'Sandwiches']",43.2526,-79.85474,1
+hub_597,Cadillac Jax Bar & Grill,"['Bars', 'Canadian (New)']",43.24988,-79.84917,5
+hub_597,The Famous Owl Of Minerva,['Korean'],43.25249,-79.85759,4
+hub_597,Narulas Express,['Indian'],43.25266333,-79.85289752,3
+hub_597,Ellis Kitchen,"['Soul Food', 'Caribbean']",43.25317,-79.85522,4
+hub_597,Culantro Peruvian Cookery,['Peruvian'],43.2501405,-79.8487616,3.5
+hub_597,Miss Lyn's Wings,['Chicken Wings'],43.2523,-79.8491,1
+hub_597,Red Rockets,['Chicken Wings'],43.25407,-79.85929,3
+hub_597,Cafe Oranje,"['Cafes', 'Bistros']",43.2537566,-79.8600414,4
+hub_598,La Cantina Ristorante Italiano,['Italian'],43.25321,-79.86404,3
+hub_598,Shakespeare's Steak and Seafood,"['Seafood', 'Steakhouses']",43.25372,-79.86234,4
+hub_598,The Corktown Pub,"['Irish', 'Pubs']",43.2498,-79.86433,4.5
+hub_598,Liu Liu Hot Pot,"['Chinese', 'Hot Pot']",43.2543,-79.8631,3.5
+hub_598,Denninger's Foods of the World,"['Delis', 'Specialty Food', 'Bistros']",43.25381,-79.8609,4
+hub_598,Konoba,['Canadian (New)'],43.2580299,-79.8780365,3
+hub_598,Karma Chamealeon,"['Food Trucks', 'Vegan']",43.2500208,-79.8660914,4.5
+hub_598,Southern Smoke Truck,['Street Vendors'],43.26199,-79.88799,5
+hub_598,Forbidden City Chinese Restaurant,"['Chinese', 'Imported Food']",43.2541764,-79.86118215,3
+hub_598,Black Forest Inn European Cuisine,['German'],43.25435582,-79.86158927,3.5
+hub_599,The Corktown Pub,"['Irish', 'Pubs']",43.2498,-79.86433,4.5
+hub_599,Konoba,['Canadian (New)'],43.2580299,-79.8780365,3
+hub_599,Karma Chamealeon,"['Food Trucks', 'Vegan']",43.2500208,-79.8660914,4.5
+hub_599,Southern Smoke Truck,['Street Vendors'],43.26199,-79.88799,5
+hub_599,Planted in Hamilton,"['Vegan', 'Gluten-Free', 'Vegetarian']",43.25033528,-79.86796202,4.5
+hub_599,Bon Temps,['Canadian (New)'],43.25088,-79.86872,5
+hub_599,Gallagher's Bar & Lounge,"['Music Venues', 'Bars', 'Diners']",43.2515424,-79.8682555,2.5
+hub_599,Atlantic Submarines,['Sandwiches'],43.25051,-79.8689799,1
+hub_599,Paper Crane Sushi,['Sushi Bars'],43.25178,-79.86802,4.5
+hub_599,The Cat 'N' Fiddle,"['Pubs', 'British']",43.25145,-79.86857,3.5
+hub_601,The Corktown Pub,"['Irish', 'Pubs']",43.2498,-79.86433,4.5
+hub_601,The Famous Owl Of Minerva,['Korean'],43.25249,-79.85759,4
+hub_601,Cafe Oranje,"['Cafes', 'Bistros']",43.2537566,-79.8600414,4
+hub_601,Denninger's Foods of the World,"['Delis', 'Specialty Food', 'Bistros']",43.25381,-79.8609,4
+hub_601,Red Rockets,['Chicken Wings'],43.25407,-79.85929,3
+hub_601,Konoba,['Canadian (New)'],43.2580299,-79.8780365,3
+hub_601,Karma Chamealeon,"['Food Trucks', 'Vegan']",43.2500208,-79.8660914,4.5
+hub_601,Southern Smoke Truck,['Street Vendors'],43.26199,-79.88799,5
+hub_601,Shakespeare's Steak and Seafood,"['Seafood', 'Steakhouses']",43.25372,-79.86234,4
+hub_601,Mr Sub,"['Caterers', 'Sandwiches']",43.2526,-79.85474,1
+hub_602,Ellis Kitchen,"['Soul Food', 'Caribbean']",43.25317,-79.85522,4
+hub_602,Mr Sub,"['Caterers', 'Sandwiches']",43.2526,-79.85474,1
+hub_602,The Famous Owl Of Minerva,['Korean'],43.25249,-79.85759,4
+hub_602,Double Star Pizza & Wings,['Pizza'],43.2558478,-79.8580871,4
+hub_602,Azal Restaurant,['Arabic'],43.25593813,-79.85772651,5
+hub_602,Red Rockets,['Chicken Wings'],43.25407,-79.85929,3
+hub_602,Narulas Express,['Indian'],43.25266333,-79.85289752,3
+hub_602,Plaza Pizza & Wings,"['Pizza', 'Chicken Wings']",43.25597,-79.8578262,4.5
+hub_602,Cafe Oranje,"['Cafes', 'Bistros']",43.2537566,-79.8600414,4
+hub_602,Staxx Burger Chicken & Waffle House,['Waffles'],43.25426,-79.86095,2.5
+hub_603,Bellair Pizza,['Pizza'],43.25941,-79.84612,3
+hub_603,Mosaic Beer Bar,['Beer Bar'],43.2595287,-79.8469408,4
+hub_603,Conversate Steak & Seafood,"['Seafood', 'Steakhouses']",43.2603736,-79.8461232,2
+hub_603,541 Eatery & Exchange,['Cafes'],43.25824804,-79.84235436,4.5
+hub_603,Pho Asparagus,"['Vietnamese', 'Japanese']",43.25973926,-79.84888759,4
+hub_603,BAB Korean Food & BBQ,"['Hot Pot', 'Korean', 'Barbeque']",43.26012,-79.84875,5
+hub_603,Burger Bus Hamilton,"['Burgers', 'Food Trucks']",43.2555265,-79.8445116,5
+hub_603,Motel Restaurant,"['Breakfast & Brunch', 'Coffee & Tea', 'Cocktail Bars']",43.26045,-79.85008,4.5
+hub_603,Diamantino's Pizza,"['Pizza', 'Sandwiches', 'Fast Food']",43.26063,-79.85098,2.5
+hub_603,Emerald Coffee,['Coffee & Tea'],43.26029,-79.85115,5
+hub_604,Burger Bus Hamilton,"['Burgers', 'Food Trucks']",43.2555265,-79.8445116,5
+hub_604,Bellair Pizza,['Pizza'],43.25941,-79.84612,3
+hub_604,Mosaic Beer Bar,['Beer Bar'],43.2595287,-79.8469408,4
+hub_604,Miss Lyn's Wings,['Chicken Wings'],43.2523,-79.8491,1
+hub_604,Pho Asparagus,"['Vietnamese', 'Japanese']",43.25973926,-79.84888759,4
+hub_604,BAB Korean Food & BBQ,"['Hot Pot', 'Korean', 'Barbeque']",43.26012,-79.84875,5
+hub_604,541 Eatery & Exchange,['Cafes'],43.25824804,-79.84235436,4.5
+hub_604,Conversate Steak & Seafood,"['Seafood', 'Steakhouses']",43.2603736,-79.8461232,2
+hub_604,KFC,"['Chicken Wings', 'Fast Food', 'Chicken Shop']",43.25761,-79.85359,1
+hub_604,Motel Restaurant,"['Breakfast & Brunch', 'Coffee & Tea', 'Cocktail Bars']",43.26045,-79.85008,4.5
+hub_605,Miss Lyn's Wings,['Chicken Wings'],43.2523,-79.8491,1
+hub_605,Culantro Peruvian Cookery,['Peruvian'],43.2501405,-79.8487616,3.5
+hub_605,Cadillac Jax Bar & Grill,"['Bars', 'Canadian (New)']",43.24988,-79.84917,5
+hub_605,Pizza World,['Pizza'],43.2512742,-79.8519943,4
+hub_605,Narulas Express,['Indian'],43.25266333,-79.85289752,3
+hub_605,Giuseppe's Italian Cuisine & Pizza,"['Italian', 'Pizza']",43.25134027,-79.84467454,4
+hub_605,Mr Sub,"['Caterers', 'Sandwiches']",43.2526,-79.85474,1
+hub_605,Ellis Kitchen,"['Soul Food', 'Caribbean']",43.25317,-79.85522,4
+hub_605,Burger Bus Hamilton,"['Burgers', 'Food Trucks']",43.2555265,-79.8445116,5
+hub_605,Queen's Pizza & Wings,['Pizza'],43.25113,-79.84123,1
+hub_606,Pier 4 Park,"['Parks', 'Playgrounds', 'Beaches']",43.27379677,-79.86721112,3.5
+hub_606,Fisher's Pier 4 Pub & Grub,['Pubs'],43.27143,-79.86229,4
+hub_606,Weston Pizza and Wings,['Pizza'],43.2721,-79.86212,2.5
+hub_606,North End Pita,['International'],43.27247437,-79.86180863,5
+hub_606,GrandDads,['Coffee & Tea'],43.27248178,-79.86172079,4
+hub_606,Harbour Diner,['Diners'],43.2694,-79.86329,3.5
+hub_606,Bayfront Park,['Parks'],43.27103159,-79.8722576,4
+hub_606,Hamilton Harbour Waterfront Trail,['Hiking'],43.26925434,-79.87123679,3
+hub_606,Hutch's Harbour Front,"['Fish & Chips', 'Ice Cream & Frozen Yogurt', 'Fast Food']",43.26768,-79.86827,3
+hub_606,Hamilton Waterfront Scoops,['Ice Cream & Frozen Yogurt'],43.27646,-79.86082,4
+hub_607,Paper Crane Sushi,['Sushi Bars'],43.25178,-79.86802,4.5
+hub_607,The Ship,"['Seafood', 'Pubs', 'Burgers']",43.25215,-79.87,4
+hub_607,Gallagher's Bar & Lounge,"['Music Venues', 'Bars', 'Diners']",43.2515424,-79.8682555,2.5
+hub_607,Aout'n About,['Pubs'],43.25217,-79.87009,2
+hub_607,The Cat 'N' Fiddle,"['Pubs', 'British']",43.25145,-79.86857,3.5
+hub_607,The Augusta House,['Gastropubs'],43.2520548,-79.8704391,2.5
+hub_607,The Pheasant Plucker,"['Pubs', 'British']",43.2517799,-79.8703,3
+hub_607,Steve's Open Kitchen,['Breakfast & Brunch'],43.25238,-79.87062,2.5
+hub_607,Bad & Boujee,"['Cocktail Bars', 'Salad']",43.25332,-79.86739,3
+hub_607,Incognito Restaurant,['Restaurants'],43.25332,-79.86739,4
+hub_608,Martello,"['Pizza', 'Italian']",43.26378,-79.86553,3
+hub_608,General Bread & Pastry,"['Bakeries', 'Breakfast & Brunch', 'Sandwiches']",43.263778,-79.865533,5
+hub_608,Loaded Pierogi,"['Bars', 'Polish', 'Salad']",43.26373,-79.86645,5
+hub_608,Wild Orchid,"['Portuguese', 'Seafood']",43.26352,-79.86564,3
+hub_608,Bar Sazerac,['Cocktail Bars'],43.2634296,-79.865925,3.5
+hub_608,Rise Above Pizza & Wings,"['Pizza', 'Chicken Wings', 'Sandwiches']",43.263368,-79.8659742,3.5
+hub_608,Mesa,['Mexican'],43.26306,-79.86645,4
+hub_608,Dunas Verdes Cafe,['Cafes'],43.26303,-79.86658,3.5
+hub_608,All Seasoned Jamaican Cuisine,['Caribbean'],43.26363174,-79.8648695,4
+hub_608,Synonym,"['Cafes', 'Wine Bars']",43.26459669,-79.86537248,4.5
+hub_609,Shakespeare's Steak and Seafood,"['Seafood', 'Steakhouses']",43.25372,-79.86234,4
+hub_609,Black Forest Inn European Cuisine,['German'],43.25435582,-79.86158927,3.5
+hub_609,Noodle and Dumpling,"['Noodles', 'Chinese']",43.2546276,-79.8626316,4
+hub_609,Liu Liu Hot Pot,"['Chinese', 'Hot Pot']",43.2543,-79.8631,3.5
+hub_609,Forbidden City Chinese Restaurant,"['Chinese', 'Imported Food']",43.2541764,-79.86118215,3
+hub_609,The North Fork,"['Burgers', 'Fish & Chips', 'Bars']",43.2547752,-79.8626131,1.5
+hub_609,Tony's Corner,['Restaurants'],43.25481,-79.8626,3
+hub_609,Staxx Burger Chicken & Waffle House,['Waffles'],43.25426,-79.86095,2.5
+hub_609,Denninger's Foods of the World,"['Delis', 'Specialty Food', 'Bistros']",43.25381,-79.8609,4
+hub_609,Jet Cafe,['Cafes'],43.25471,-79.86374,3.5
+hub_610,Burger Bus Hamilton,"['Burgers', 'Food Trucks']",43.2555265,-79.8445116,5
+hub_610,Zak's,['Dive Bars'],43.2568,-79.83819,2.5
+hub_610,sams tavern,['Canadian (New)'],43.2568016,-79.8381882,1
+hub_610,Maipai,"['Tiki Bars', 'Pizza']",43.25726,-79.83817,4.5
+hub_610,541 Eatery & Exchange,['Cafes'],43.25824804,-79.84235436,4.5
+hub_610,Frank's Sicilia Bakery,['Bakeries'],43.25677,-79.8366,5
+hub_610,Queen's Pizza & Wings,['Pizza'],43.25113,-79.84123,1
+hub_610,Atlantic Submarines,['Sandwiches'],43.25154,-79.8379999,4
+hub_610,Giuseppe's Italian Cuisine & Pizza,"['Italian', 'Pizza']",43.25134027,-79.84467454,4
+hub_610,The Capitol Bar,['Bars'],43.25244986,-79.83552901,4.5
+hub_611,The Capitol Bar,['Bars'],43.25244986,-79.83552901,4.5
+hub_611,Atlantic Submarines,['Sandwiches'],43.25154,-79.8379999,4
+hub_611,Mimi’s Asian Gourmet,"['Pan Asian', 'Thai', 'Malaysian']",43.2514005,-79.8356242,4
+hub_611,Vintage Coffee Roasters,['Coffee Roasteries'],43.25136296,-79.83546569,5
+hub_611,Frank's Sicilia Bakery,['Bakeries'],43.25677,-79.8366,5
+hub_611,sams tavern,['Canadian (New)'],43.2568016,-79.8381882,1
+hub_611,Zak's,['Dive Bars'],43.2568,-79.83819,2.5
+hub_611,Queen's Pizza & Wings,['Pizza'],43.25113,-79.84123,1
+hub_611,Maipai,"['Tiki Bars', 'Pizza']",43.25726,-79.83817,4.5
+hub_611,Tall Tree Sandwich Company,"['Sandwiches', 'Juice Bars & Smoothies']",43.25049929,-79.83348899,5
+hub_612,Cadillac Jax Bar & Grill,"['Bars', 'Canadian (New)']",43.24988,-79.84917,5
+hub_612,Culantro Peruvian Cookery,['Peruvian'],43.2501405,-79.8487616,3.5
+hub_612,Pizza World,['Pizza'],43.2512742,-79.8519943,4
+hub_612,Miss Lyn's Wings,['Chicken Wings'],43.2523,-79.8491,1
+hub_612,Giuseppe's Italian Cuisine & Pizza,"['Italian', 'Pizza']",43.25134027,-79.84467454,4
+hub_612,Saha,"['Middle Eastern', 'Pop-Up Restaurants']",43.2475,-79.84265,5
+hub_612,Narulas Express,['Indian'],43.25266333,-79.85289752,3
+hub_612,Mr Sub,"['Caterers', 'Sandwiches']",43.2526,-79.85474,1
+hub_612,Bruno's Pizza & Wings,"['Pizza', 'Chicken Wings']",43.24774234,-79.84079221,3
+hub_612,Ellis Kitchen,"['Soul Food', 'Caribbean']",43.25317,-79.85522,4
+hub_613,Tim Hortons,"['Coffee & Tea', 'Bakeries']",43.24583,-79.83414,3
+hub_613,Big Top Family Restaurant,['Diners'],43.24745,-79.83983,3
+hub_613,Bruno's Pizza & Wings,"['Pizza', 'Chicken Wings']",43.24774234,-79.84079221,3
+hub_613,Willard’s Ice Cream,"['Desserts', 'Ice Cream & Frozen Yogurt']",43.24521,-79.83155,4.5
+hub_613,Saha,"['Middle Eastern', 'Pop-Up Restaurants']",43.2475,-79.84265,5
+hub_613,Connaught Fish & Chips,['Seafood'],43.24497,-79.83023,3.5
+hub_613,Gage Park Diner,"['Diners', 'Breakfast & Brunch', 'American (Traditional)']",43.24506,-79.82929,4
+hub_613,Mario's 2 For 1 Pizza,['Pizza'],43.25033802,-79.83320962,1
+hub_613,Tall Tree Sandwich Company,"['Sandwiches', 'Juice Bars & Smoothies']",43.25049929,-79.83348899,5
+hub_613,The Taco Station,"['Mexican', 'Food Trucks']",43.24752,-79.82975,3.5
+hub_614,Connaught Fish & Chips,['Seafood'],43.24497,-79.83023,3.5
+hub_614,Gage Park,['Parks'],43.24407196,-79.82659149,5
+hub_614,Gage Park Diner,"['Diners', 'Breakfast & Brunch', 'American (Traditional)']",43.24506,-79.82929,4
+hub_614,Willard’s Ice Cream,"['Desserts', 'Ice Cream & Frozen Yogurt']",43.24521,-79.83155,4.5
+hub_614,Hamilton Children's Museum,"[""Children's Museums""]",43.2438511,-79.8256512,3
+hub_614,Tim Hortons,"['Coffee & Tea', 'Bakeries']",43.24583,-79.83414,3
+hub_614,McDonald's,"['Fast Food', 'Burgers', 'Coffee & Tea']",43.2445288,-79.82553353,1
+hub_614,Pizza Pizza,"['Pizza', 'Italian', 'Chicken Wings']",43.2438922,-79.8247115,4
+hub_614,The Taco Station,"['Mexican', 'Food Trucks']",43.24752,-79.82975,3.5
+hub_614,Golden Tenders,"['Fast Food', 'Southern']",43.247855,-79.829075,5
+hub_622,Starbucks,['Coffee & Tea'],43.2574081,-79.9193726,3.5
+hub_622,Pinks,['Burgers'],43.25750562,-79.91884597,4
+hub_622,Subway,"['Sandwiches', 'Fast Food']",43.25743,-79.91877,2.5
+hub_622,Taco Del Mar,"['Mexican', 'Tex-Mex', 'Fast Food']",43.25743,-79.91877,3.5
+hub_622,Quik Chik,"['Fast Food', 'Chicken Shop']",43.25743,-79.91877,1.5
+hub_622,Gino's Pizza,['Pizza'],43.25726697,-79.91831474,2.5
+hub_622,Yogurty's Froyo,"['Ice Cream & Frozen Yogurt', 'Desserts']",43.25724978,-79.91808908,3.5
+hub_622,The Arch Noodle House,['Noodles'],43.25738,-79.9180499,3.5
+hub_622,Williams Fresh Cafe,"['Breakfast & Brunch', 'Cafes']",43.25738,-79.9180499,2.5
+hub_622,Prime Pita,"['Lebanese', 'Mediterranean']",43.25725548,-79.91791461,4.5
+hub_623,Maple Leaf Pancake House,['Breakfast & Brunch'],43.25788,-79.92354,2.5
+hub_623,Tally Ho,"['Burgers', 'Fast Food', 'Sandwiches']",43.2577726,-79.9240784,4
+hub_623,East Meets West Bistro,['Canadian (New)'],43.26248256,-79.92286111,2.5
+hub_623,La Piazza,"['Salad', 'Pizza', 'Bakeries']",43.2580348,-79.9194055,3.5
+hub_623,Tim Horton's,['Coffee & Tea'],43.2580338,-79.9194031,4
+hub_623,Dough Box,"['Pizza', 'Italian']",43.2574167,-79.9239487,4
+hub_623,TwelvEighty Bar & Grill,['Bars'],43.26277412,-79.92113753,4
+hub_623,The Phoenix Bar & Grill,"['Pubs', 'Barbeque']",43.26277412,-79.92113753,4
+hub_623,CoCo Fresh Tea & Juice,"['Bubble Tea', 'Juice Bars & Smoothies']",43.257849,-79.9252604,5
+hub_623,Starbucks,['Coffee & Tea'],43.2574081,-79.9193726,3.5
+hub_624,La Piazza,"['Salad', 'Pizza', 'Bakeries']",43.2580348,-79.9194055,3.5
+hub_624,Tim Horton's,['Coffee & Tea'],43.2580338,-79.9194031,4
+hub_624,Bridges Cafe,"['Vegetarian', 'Cafes']",43.2628019,-79.9176086,4.5
+hub_624,Teriyaki Experience,"['Japanese', 'Food Court']",43.26336764,-79.91739526,3
+hub_624,Starbucks,['Coffee & Tea'],43.2574081,-79.9193726,3.5
+hub_624,Subway,"['Sandwiches', 'Fast Food']",43.25743,-79.91877,2.5
+hub_624,Taco Del Mar,"['Mexican', 'Tex-Mex', 'Fast Food']",43.25743,-79.91877,3.5
+hub_624,Quik Chik,"['Fast Food', 'Chicken Shop']",43.25743,-79.91877,1.5
+hub_624,Pinks,['Burgers'],43.25750562,-79.91884597,4
+hub_624,TwelvEighty Bar & Grill,['Bars'],43.26277412,-79.92113753,4
+hub_625,East Meets West Bistro,['Canadian (New)'],43.26248256,-79.92286111,2.5
+hub_625,TwelvEighty Bar & Grill,['Bars'],43.26277412,-79.92113753,4
+hub_625,The Phoenix Bar & Grill,"['Pubs', 'Barbeque']",43.26277412,-79.92113753,4
+hub_625,La Piazza,"['Salad', 'Pizza', 'Bakeries']",43.2580348,-79.9194055,3.5
+hub_625,Tim Horton's,['Coffee & Tea'],43.2580338,-79.9194031,4
+hub_625,Bridges Cafe,"['Vegetarian', 'Cafes']",43.2628019,-79.9176086,4.5
+hub_625,Teriyaki Experience,"['Japanese', 'Food Court']",43.26336764,-79.91739526,3
+hub_625,Centro,['Food Court'],43.26560374,-79.91920107,3.5
+hub_625,Maple Leaf Pancake House,['Breakfast & Brunch'],43.25788,-79.92354,2.5
+hub_625,Tally Ho,"['Burgers', 'Fast Food', 'Sandwiches']",43.2577726,-79.9240784,4
+hub_626,Centro,['Food Court'],43.26560374,-79.91920107,3.5
+hub_626,Teriyaki Experience,"['Japanese', 'Food Court']",43.26336764,-79.91739526,3
+hub_626,Bridges Cafe,"['Vegetarian', 'Cafes']",43.2628019,-79.9176086,4.5
+hub_626,TwelvEighty Bar & Grill,['Bars'],43.26277412,-79.92113753,4
+hub_626,The Phoenix Bar & Grill,"['Pubs', 'Barbeque']",43.26277412,-79.92113753,4
+hub_626,La Piazza,"['Salad', 'Pizza', 'Bakeries']",43.2580348,-79.9194055,3.5
+hub_626,Tim Horton's,['Coffee & Tea'],43.2580338,-79.9194031,4
+hub_626,East Meets West Bistro,['Canadian (New)'],43.26248256,-79.92286111,2.5
+hub_626,Starbucks,['Coffee & Tea'],43.2574081,-79.9193726,3.5
+hub_626,Subway,"['Sandwiches', 'Fast Food']",43.25743,-79.91877,2.5
+hub_631,Cozy Sushi,"['Japanese', 'Sushi Bars']",43.2527938,-79.8710431,5
+hub_631,The Ship,"['Seafood', 'Pubs', 'Burgers']",43.25215,-79.87,4
+hub_631,Aout'n About,['Pubs'],43.25217,-79.87009,2
+hub_631,Steve's Open Kitchen,['Breakfast & Brunch'],43.25238,-79.87062,2.5
+hub_631,Radius,"['Lounges', 'American (Traditional)', 'Venues & Event Spaces']",43.2523512,-79.8708333,3
+hub_631,The Augusta House,['Gastropubs'],43.2520548,-79.8704391,2.5
+hub_631,Bad & Boujee,"['Cocktail Bars', 'Salad']",43.25332,-79.86739,3
+hub_631,Incognito Restaurant,['Restaurants'],43.25332,-79.86739,4
+hub_631,The Pheasant Plucker,"['Pubs', 'British']",43.2517799,-79.8703,3
+hub_631,Tailgate Charlie's,['Sports Bars'],43.2539299,-79.86715,3
+hub_707,Bridges Cafe,"['Vegetarian', 'Cafes']",43.2628019,-79.9176086,4.5
+hub_707,Teriyaki Experience,"['Japanese', 'Food Court']",43.26336764,-79.91739526,3
+hub_707,La Piazza,"['Salad', 'Pizza', 'Bakeries']",43.2580348,-79.9194055,3.5
+hub_707,Tim Horton's,['Coffee & Tea'],43.2580338,-79.9194031,4
+hub_707,TwelvEighty Bar & Grill,['Bars'],43.26277412,-79.92113753,4
+hub_707,The Phoenix Bar & Grill,"['Pubs', 'Barbeque']",43.26277412,-79.92113753,4
+hub_707,Centro,['Food Court'],43.26560374,-79.91920107,3.5
+hub_707,East Meets West Bistro,['Canadian (New)'],43.26248256,-79.92286111,2.5
+hub_707,Starbucks,['Coffee & Tea'],43.2574081,-79.9193726,3.5
+hub_707,Quik Chik,"['Fast Food', 'Chicken Shop']",43.25743,-79.91877,1.5
+hub_708,Henry Brown's Small Batch Ice Cream Company,"['Desserts', 'Ice Cream & Frozen Yogurt']",43.2589679,-79.8693481,4.5
+hub_708,James North General Store,['Coffee & Tea'],43.25954,-79.86819,4
+hub_708,Ercilia's Fine Foods,"['Specialty Food', 'Bakeries']",43.25897,-79.8702799,5
+hub_708,British Baked Goods,['Bakeries'],43.25897,-79.8702799,4
+hub_708,Rita's Italian Ice And Custard,['Ice Cream & Frozen Yogurt'],43.25897,-79.8702799,4.5
+hub_708,BATL Axe Throwing,"['Axe Throwing', 'Sports Bars', 'Team Building Activities']",43.25887,-79.86771,5
+hub_708,Ben Thanh,"['Vietnamese', 'Thai']",43.25970271,-79.86795776,2.5
+hub_708,Cupcake Diner General Store,['Bakeries'],43.2589836,-79.8694458,4
+hub_708,Bring Me Some,['Vegan'],43.25897,-79.86946,5
+hub_708,Latin Food & Products,"['Mexican', 'International Grocery']",43.2589679,-79.8693481,4.5
+hub_709,One Duke Restaurant,"['Seafood', 'Canadian (New)', 'Pizza']",43.25152,-79.87206,3.5
+hub_709,La Piazza Allegra,['Italian'],43.25139,-79.8717,3.5
+hub_709,Cojonez Burritoz,['Mexican'],43.25139,-79.8717,1
+hub_709,Royal Pizza & Wings,"['Pizza', 'Chicken Wings']",43.25139,-79.8717,3.5
+hub_709,Rustic Reuben,"['Salad', 'Sandwiches', 'Burgers']",43.25160028,-79.87149367,5
+hub_709,Big Scoops,['Ice Cream & Frozen Yogurt'],43.25185797,-79.871468,3.5
+hub_709,Boo's Bistro and Wine Bar,['Asian Fusion'],43.25192,-79.87138,2.5
+hub_709,Odds Bar,['Sports Bars'],43.25192,-79.87138,4.5
+hub_709,Bronzie's Place,"['Pizza', 'Italian', 'Salad']",43.2505499,-79.87143,4.5
+hub_709,Secco,"['Comfort Food', 'Breakfast & Brunch', 'Seafood']",43.252256,-79.87128,4
+hub_712,Korea House,['Korean'],43.2579156,-79.854948,4
+hub_712,KFC,"['Chicken Wings', 'Fast Food', 'Chicken Shop']",43.25761,-79.85359,1
+hub_712,Plaza Pizza & Wings,"['Pizza', 'Chicken Wings']",43.25597,-79.8578262,4.5
+hub_712,Double Star Pizza & Wings,['Pizza'],43.2558478,-79.8580871,4
+hub_712,Azal Restaurant,['Arabic'],43.25593813,-79.85772651,5
+hub_712,Tim Horton,['Coffee & Tea'],43.26153,-79.85653,1.5
+hub_712,General Pizza & Wings,"['Chicken Wings', 'Pizza', 'Chinese']",43.26105816,-79.85392716,4
+hub_712,Churrasqueira & Cafe Cantinho,['Portuguese'],43.26064,-79.85274,4
+hub_712,La Luna Express,['Lebanese'],43.261053,-79.853078,3
+hub_712,Fragoso Seafood Place,['Seafood'],43.2610567,-79.8529129,1
+hub_765,Botanical Gardens,['Botanical Gardens'],43.27115,-79.88713,5
+hub_765,Dundurn National Historic Site,['Museums'],43.26853,-79.88501,4
+hub_765,Phin Coffee Bar,['Coffee & Tea'],43.26262,-79.89786,5
+hub_765,Valentino's Restaurant,"['Pizza', 'Italian']",43.2627398,-79.8993743,2.5
+hub_765,Lava Pizza & Wings,"['Chicken Wings', 'Pizza']",43.2630097,-79.9006621,2.5
+hub_765,People Under The Staircase,"['Desserts', 'Burgers', 'Sandwiches']",43.26329,-79.88786,5
+hub_765,Tim Hortons,"['Coffee & Tea', 'Bakeries']",43.26227,-79.8871,1.5
+hub_765,Hungry Traveler,"['Caribbean', 'Asian Fusion', 'Modern European']",43.2604984,-79.8958809,1.5
+hub_765,Pizza Hut,"['Pizza', 'Italian']",43.2621609,-79.8862813,2.5
+hub_765,Pho Lac Vien,['Vietnamese'],43.2653164,-79.8808978,4
+hub_778,Aberdeen Tavern,"['Comfort Food', 'Bars']",43.2512808,-79.8933956,4
+hub_778,Dundurn Market,"['Coffee & Tea', 'Bakeries', 'Fruits & Veggies']",43.25126,-79.89294,3
+hub_778,Cake & Loaf Bakery,"['Bakeries', 'Vegan', 'Sandwiches']",43.2519312,-79.8921731,4
+hub_778,Zarky's Fine Foods On Dundurn,"['Delis', 'Sandwiches', 'Food']",43.25403,-79.89176,4
+hub_778,Papa Johns Pizza,['Pizza'],43.259035,-79.9007475,2
+hub_778,Ye Olde Squire - Main Street,"['Pubs', 'British', 'Greek']",43.25895,-79.90118,2.5
+hub_778,Masala Corner,"['Indian', 'Himalayan/Nepalese']",43.25925,-79.89987,4.5
+hub_778,Vip Restaurant,['Restaurants'],43.25985,-79.89674,2.5
+hub_778,Hungry Traveler,"['Caribbean', 'Asian Fusion', 'Modern European']",43.2604984,-79.8958809,1.5
+hub_778,Sakura Tea,['Bubble Tea'],43.25847,-79.90874,3
+hub_779,Whitehern Historic House & Garden,['Museums'],43.2547799,-79.87195,5
+hub_779,Cozy Sushi,"['Japanese', 'Sushi Bars']",43.2527938,-79.8710431,5
+hub_779,Secco,"['Comfort Food', 'Breakfast & Brunch', 'Seafood']",43.252256,-79.87128,4
+hub_779,Radius,"['Lounges', 'American (Traditional)', 'Venues & Event Spaces']",43.2523512,-79.8708333,3
+hub_779,Steve's Open Kitchen,['Breakfast & Brunch'],43.25238,-79.87062,2.5
+hub_779,Boo's Bistro and Wine Bar,['Asian Fusion'],43.25192,-79.87138,2.5
+hub_779,Odds Bar,['Sports Bars'],43.25192,-79.87138,4.5
+hub_779,Big Scoops,['Ice Cream & Frozen Yogurt'],43.25185797,-79.871468,3.5
+hub_779,One Duke Restaurant,"['Seafood', 'Canadian (New)', 'Pizza']",43.25152,-79.87206,3.5
+hub_779,Rustic Reuben,"['Salad', 'Sandwiches', 'Burgers']",43.25160028,-79.87149367,5
+hub_780,London Taphouse,['Pubs'],43.25478731,-79.86679469,2
+hub_780,Saigon House Restaurant,"['Vietnamese', 'Korean', 'Thai']",43.2549095,-79.8666306,4
+hub_780,Tailgate Charlie's,['Sports Bars'],43.2539299,-79.86715,3
+hub_780,Industria Pizzeria,"['Italian', 'Pizza', 'Cocktail Bars']",43.2539231,-79.8670024,5
+hub_780,U Shao BBQ,"['Korean', 'Vietnamese', 'Thai']",43.2550697,-79.8666382,3
+hub_780,Sapporo Japanese Restaurant,['Japanese'],43.25429,-79.866,3.5
+hub_780,CoCo Fresh Tea & Juice,"['Bubble Tea', 'Juice Bars & Smoothies']",43.25429,-79.866,3.5
+hub_780,Domino's Pizza,['Pizza'],43.25429,-79.866,1.5
+hub_780,Mighty Mikes Pub & Billiards,"['Pool Halls', 'Pubs']",43.25429,-79.866,2
+hub_780,33 Bowen,['Pubs'],43.25399,-79.8664299,3.5
+hub_802,The Coop,"['Sandwiches', 'Chicken Shop', 'Poutineries']",43.2591337,-79.8774391,4
+hub_802,For Real Dough,"['Ice Cream & Frozen Yogurt', 'Desserts']",43.25911,-79.87676,3.5
+hub_802,Papagayo Restaurant,['Mexican'],43.25902,-79.87646,4
+hub_802,Twist Breakfast,['Breakfast & Brunch'],43.25943,-79.87807,1
+hub_802,Meltwich,"['Burgers', 'Sandwiches', 'Cheesesteaks']",43.25894,-79.87629,3
+hub_802,Rokbar,['Pubs'],43.25842,-79.87725,4
+hub_802,Ark and Anchor,"['Coffee & Tea', 'Bakeries', 'Cafes']",43.2595,-79.87812,4.5
+hub_802,Bastoni's Shawarma & Grill,['Middle Eastern'],43.25896,-79.87622,4
+hub_802,Lazy Flamingo,['Gastropubs'],43.2583399,-79.87729,2
+hub_802,The Gown & Gavel,"['Canadian (New)', 'Bars']",43.2584,-79.87785,2.5
+hub_830,Pane Fresco,['Cafes'],43.2554932,-79.92884887,2
+hub_830,Noodle Bar,"['Sushi Bars', 'Imported Food']",43.25544173,-79.92870029,2.5
+hub_830,Mr  Gao,['Chinese'],43.25740112,-79.92817005,3.5
+hub_830,Boston Pizza,"['Pizza', 'Italian', 'Chicken Wings']",43.25734918,-79.92774941,3.5
+hub_830,Maccheroni Cucina Alfresco,['Italian'],43.2578,-79.9264199,4
+hub_830,Joya Sushi,"['Sushi Bars', 'Japanese', 'Korean']",43.25663138,-79.9345614,4
+hub_830,Tim Horton Donuts,['Coffee & Tea'],43.25782,-79.92567,2
+hub_830,Baskin Robbins,"['Ice Cream & Frozen Yogurt', 'Custom Cakes']",43.2565794,-79.93496301,3.5
+hub_830,Popeyes Louisiana Chicken,"['Fast Food', 'Chicken Wings']",43.2564189,-79.9358334,1
+hub_830,CoCo Fresh Tea & Juice,"['Bubble Tea', 'Juice Bars & Smoothies']",43.257849,-79.9252604,5
+hub_866,The Cat 'N' Fiddle,"['Pubs', 'British']",43.25145,-79.86857,3.5
+hub_866,Gallagher's Bar & Lounge,"['Music Venues', 'Bars', 'Diners']",43.2515424,-79.8682555,2.5
+hub_866,Paper Crane Sushi,['Sushi Bars'],43.25178,-79.86802,4.5
+hub_866,Bon Temps,['Canadian (New)'],43.25088,-79.86872,5
+hub_866,The Ship,"['Seafood', 'Pubs', 'Burgers']",43.25215,-79.87,4
+hub_866,Aout'n About,['Pubs'],43.25217,-79.87009,2
+hub_866,The Pheasant Plucker,"['Pubs', 'British']",43.2517799,-79.8703,3
+hub_866,Atlantic Submarines,['Sandwiches'],43.25051,-79.8689799,1
+hub_866,The Augusta House,['Gastropubs'],43.2520548,-79.8704391,2.5
+hub_866,Flora Hamilton,['Pizza'],43.25109,-79.87098,4.5
+hub_867,Firestone Pizza Wings & Shawarma,"['Chicken Wings', 'Pizza', 'Poutineries']",43.25804,-79.87967,2.5
+hub_867,Amigos,"['Mexican', 'Latin American', 'Cocktail Bars']",43.25825,-79.87868,4.5
+hub_867,Lucky’s BBQ,"['Southern', 'Barbeque', 'Cocktail Bars']",43.2585369,-79.87879954,5
+hub_867,Ceilidh House Irish Pub,"['Irish', 'Nightlife']",43.25821,-79.87853,1.5
+hub_867,Moodys,"['Pizza', 'Gluten-Free', 'Italian']",43.25821,-79.87853,4
+hub_867,Smoke's Poutinerie,"['Fast Food', 'Poutineries']",43.25854,-79.87863,3.5
+hub_867,Electric Diner,"['Diners', 'Burgers', 'Cocktail Bars']",43.25845,-79.878,3.5
+hub_867,Doors: Taco Joint & Metal Bar,"['Dance Clubs', 'Bars', 'Tex-Mex']",43.2572195,-79.8783555,5
+hub_867,The Gown & Gavel,"['Canadian (New)', 'Bars']",43.2584,-79.87785,2.5
+hub_867,Koi,['Japanese'],43.25821,-79.87743,3.5
+hub_894,Bridges Cafe,"['Vegetarian', 'Cafes']",43.2628019,-79.9176086,4.5
+hub_894,Teriyaki Experience,"['Japanese', 'Food Court']",43.26336764,-79.91739526,3
+hub_894,La Piazza,"['Salad', 'Pizza', 'Bakeries']",43.2580348,-79.9194055,3.5
+hub_894,Tim Horton's,['Coffee & Tea'],43.2580338,-79.9194031,4
+hub_894,Centro,['Food Court'],43.26560374,-79.91920107,3.5
+hub_894,TwelvEighty Bar & Grill,['Bars'],43.26277412,-79.92113753,4
+hub_894,The Phoenix Bar & Grill,"['Pubs', 'Barbeque']",43.26277412,-79.92113753,4
+hub_894,East Meets West Bistro,['Canadian (New)'],43.26248256,-79.92286111,2.5
+hub_894,Mr Sub,"['Caterers', 'Sandwiches']",43.2581599,-79.91173,5
+hub_894,Starbucks,['Coffee & Tea'],43.2574081,-79.9193726,3.5
+hub_903,Rustic Reuben,"['Salad', 'Sandwiches', 'Burgers']",43.25160028,-79.87149367,5
+hub_903,Big Scoops,['Ice Cream & Frozen Yogurt'],43.25185797,-79.871468,3.5
+hub_903,Boo's Bistro and Wine Bar,['Asian Fusion'],43.25192,-79.87138,2.5
+hub_903,Odds Bar,['Sports Bars'],43.25192,-79.87138,4.5
+hub_903,Flora Hamilton,['Pizza'],43.25109,-79.87098,4.5
+hub_903,One Duke Restaurant,"['Seafood', 'Canadian (New)', 'Pizza']",43.25152,-79.87206,3.5
+hub_903,La Piazza Allegra,['Italian'],43.25139,-79.8717,3.5
+hub_903,Cojonez Burritoz,['Mexican'],43.25139,-79.8717,1
+hub_903,Royal Pizza & Wings,"['Pizza', 'Chicken Wings']",43.25139,-79.8717,3.5
+hub_903,Secco,"['Comfort Food', 'Breakfast & Brunch', 'Seafood']",43.252256,-79.87128,4
+hub_904,John Street Diner,"['Breakfast & Brunch', 'Comfort Food']",43.25675907,-79.86628175,4
+hub_904,PinToh,['Thai'],43.2566,-79.8665,4
+hub_904,My-Thai Restaurant,['Thai'],43.2566,-79.8665,3.5
+hub_904,Capri Family Restaurant,"['Pizza', 'Italian']",43.25659,-79.866228,2
+hub_904,Mystic Ramen,['Ramen'],43.2571529,-79.8669049,5
+hub_904,Hambrgr,"['Burgers', 'Beer Bar']",43.25721,-79.8669,4.5
+hub_904,Diplomat,"['Venues & Event Spaces', 'Canadian (New)']",43.257244,-79.86708205,4
+hub_904,Sagarmatha Curry Palace  Authentic Indian & Nepalese Cuisine,"['Indian', 'Himalayan/Nepalese']",43.25725,-79.86708,4
+hub_904,The Mule,['Mexican'],43.25726,-79.86713,4
+hub_904,Sugar Marmalade,['Desserts'],43.25634,-79.86697,2.5
+hub_905,Narulas Express,['Indian'],43.25266333,-79.85289752,3
+hub_905,Pizza World,['Pizza'],43.2512742,-79.8519943,4
+hub_905,Mr Sub,"['Caterers', 'Sandwiches']",43.2526,-79.85474,1
+hub_905,Ellis Kitchen,"['Soul Food', 'Caribbean']",43.25317,-79.85522,4
+hub_905,Miss Lyn's Wings,['Chicken Wings'],43.2523,-79.8491,1
+hub_905,The Famous Owl Of Minerva,['Korean'],43.25249,-79.85759,4
+hub_905,Cadillac Jax Bar & Grill,"['Bars', 'Canadian (New)']",43.24988,-79.84917,5
+hub_905,Culantro Peruvian Cookery,['Peruvian'],43.2501405,-79.8487616,3.5
+hub_905,Red Rockets,['Chicken Wings'],43.25407,-79.85929,3
+hub_905,Double Star Pizza & Wings,['Pizza'],43.2558478,-79.8580871,4
+hub_921,McDonald's,"['Fast Food', 'Burgers', 'Coffee & Tea']",43.26026248,-79.89000948,2.5
+hub_921,Mr. Dumpling Express,"['Chinese', 'Fast Food']",43.26071746,-79.88966834,2.5
+hub_921,Pizza Pizza,"['Pizza', 'Italian', 'Chicken Wings']",43.26067804,-79.88963479,2
+hub_921,Vip Restaurant,['Restaurants'],43.25985,-79.89674,2.5
+hub_921,Hungry Traveler,"['Caribbean', 'Asian Fusion', 'Modern European']",43.2604984,-79.8958809,1.5
+hub_921,Shehnai Restaurant Authentic Indian Cuisine,"['Indian', 'Buffets']",43.2593,-79.88792,3
+hub_921,Hill Street Dog Park,['Dog Parks'],43.2564011,-79.8876495,3
+hub_921,Tim Hortons,"['Coffee & Tea', 'Bakeries']",43.26227,-79.8871,1.5
+hub_921,Phin Coffee Bar,['Coffee & Tea'],43.26262,-79.89786,5
+hub_921,Masala Corner,"['Indian', 'Himalayan/Nepalese']",43.25925,-79.89987,4.5
+hub_924,GrandDads,['Coffee & Tea'],43.27248178,-79.86172079,4
+hub_924,North End Pita,['International'],43.27247437,-79.86180863,5
+hub_924,Weston Pizza and Wings,['Pizza'],43.2721,-79.86212,2.5
+hub_924,Fisher's Pier 4 Pub & Grub,['Pubs'],43.27143,-79.86229,4
+hub_924,William's Cafe,['Cafes'],43.27638125,-79.86094952,2.5
+hub_924,Williams Fresh Cafe,"['Cafes', 'Breakfast & Brunch']",43.2764873,-79.860838,3
+hub_924,Hamilton Waterfront Scoops,['Ice Cream & Frozen Yogurt'],43.27646,-79.86082,4
+hub_924,Pier 4 Park,"['Parks', 'Playgrounds', 'Beaches']",43.27379677,-79.86721112,3.5
+hub_924,HMCS Haida,['Landmarks & Historical Buildings'],43.27531,-79.85604,5
+hub_924,Harbour Diner,['Diners'],43.2694,-79.86329,3.5
+hub_945,Canadian Football Hall of Fame,['Museums'],43.25225528,-79.83126383,4
+hub_945,Festival Café,"['Southern', 'Chicken Shop', 'Burgers']",43.25064,-79.83303,4.5
+hub_945,Mario's 2 For 1 Pizza,['Pizza'],43.25033802,-79.83320962,1
+hub_945,Tall Tree Sandwich Company,"['Sandwiches', 'Juice Bars & Smoothies']",43.25049929,-79.83348899,5
+hub_945,Vintage Coffee Roasters,['Coffee Roasteries'],43.25136296,-79.83546569,5
+hub_945,Mimi’s Asian Gourmet,"['Pan Asian', 'Thai', 'Malaysian']",43.2514005,-79.8356242,4
+hub_945,The Capitol Bar,['Bars'],43.25244986,-79.83552901,4.5
+hub_945,Karlik Pastry,['Bakeries'],43.25524,-79.83214,4.5
+hub_945,KFC,"['Chicken Wings', 'Fast Food', 'Chicken Shop']",43.2539912,-79.8274841,1
+hub_945,Taste of Poland,['Polish'],43.24837,-79.82871,5
+hub_959,Castelli Cucina,"['Italian', 'Pizza']",43.26492,-79.86576,3.5
+hub_959,Synonym,"['Cafes', 'Wine Bars']",43.26459669,-79.86537248,4.5
+hub_959,Hutch's Harbour Front,"['Fish & Chips', 'Ice Cream & Frozen Yogurt', 'Fast Food']",43.26768,-79.86827,3
+hub_959,Martello,"['Pizza', 'Italian']",43.26378,-79.86553,3
+hub_959,General Bread & Pastry,"['Bakeries', 'Breakfast & Brunch', 'Sandwiches']",43.263778,-79.865533,5
+hub_959,Loaded Pierogi,"['Bars', 'Polish', 'Salad']",43.26373,-79.86645,5
+hub_959,Wild Orchid,"['Portuguese', 'Seafood']",43.26352,-79.86564,3
+hub_959,All Seasoned Jamaican Cuisine,['Caribbean'],43.26363174,-79.8648695,4
+hub_959,The Little Grasshopper Cafe,"['Breakfast & Brunch', 'Portuguese', 'Canadian (New)']",43.26381,-79.86412,3.5
+hub_959,Bar Sazerac,['Cocktail Bars'],43.2634296,-79.865925,3.5
+hub_960,Pier 4 Park,"['Parks', 'Playgrounds', 'Beaches']",43.27379677,-79.86721112,3.5
+hub_960,Fisher's Pier 4 Pub & Grub,['Pubs'],43.27143,-79.86229,4
+hub_960,Weston Pizza and Wings,['Pizza'],43.2721,-79.86212,2.5
+hub_960,North End Pita,['International'],43.27247437,-79.86180863,5
+hub_960,GrandDads,['Coffee & Tea'],43.27248178,-79.86172079,4
+hub_960,Harbour Diner,['Diners'],43.2694,-79.86329,3.5
+hub_960,Bayfront Park,['Parks'],43.27103159,-79.8722576,4
+hub_960,Hamilton Harbour Waterfront Trail,['Hiking'],43.26925434,-79.87123679,3
+hub_960,Hutch's Harbour Front,"['Fish & Chips', 'Ice Cream & Frozen Yogurt', 'Fast Food']",43.26768,-79.86827,3
+hub_960,Hamilton Waterfront Scoops,['Ice Cream & Frozen Yogurt'],43.27646,-79.86082,4
+hub_1042,Van Wagners Beach,['Beaches'],43.2591878,-79.7655304,4
+hub_1042,Hutch's On The Beach,"['Fish & Chips', 'Fast Food']",43.25902763,-79.76550088,3.5
+hub_1042,Barangas on the Beach,"['Greek', 'Venues & Event Spaces', 'Mediterranean']",43.25557,-79.76154,3.5
+hub_1042,Confederation Park,['Parks'],43.25279,-79.76082,4
+hub_1042,Adventure Village,"['Party & Event Planning', 'Amusement Parks', 'Mini Golf']",43.2520848,-79.7591419,3.5
+hub_1042,Woodward Restaurant,['Breakfast & Brunch'],43.24461,-79.77774,3.5
+hub_1042,Denny's,"['Diners', 'Breakfast & Brunch', 'American (Traditional)']",43.2441089,-79.75619279,2.5
+hub_1042,Moxies,"['Lounges', 'Steakhouses', 'Canadian (New)']",43.24413466,-79.75436892,4
+hub_1042,Buffalo Wild Wings,"['American (Traditional)', 'Chicken Wings', 'Sports Bars']",43.24276871,-79.75737565,3.5
+hub_1042,Wild Waterworks,['Amusement Parks'],43.25057,-79.75937,2
+hub_1063,Cafe Oranje,"['Cafes', 'Bistros']",43.2537566,-79.8600414,4
+hub_1063,Denninger's Foods of the World,"['Delis', 'Specialty Food', 'Bistros']",43.25381,-79.8609,4
+hub_1063,Red Rockets,['Chicken Wings'],43.25407,-79.85929,3
+hub_1063,Staxx Burger Chicken & Waffle House,['Waffles'],43.25426,-79.86095,2.5
+hub_1063,Forbidden City Chinese Restaurant,"['Chinese', 'Imported Food']",43.2541764,-79.86118215,3
+hub_1063,The Famous Owl Of Minerva,['Korean'],43.25249,-79.85759,4
+hub_1063,Shakespeare's Steak and Seafood,"['Seafood', 'Steakhouses']",43.25372,-79.86234,4
+hub_1063,Black Forest Inn European Cuisine,['German'],43.25435582,-79.86158927,3.5
+hub_1063,Noodle and Dumpling,"['Noodles', 'Chinese']",43.2546276,-79.8626316,4
+hub_1063,Liu Liu Hot Pot,"['Chinese', 'Hot Pot']",43.2543,-79.8631,3.5
+hub_1252,Big Top Family Restaurant,['Diners'],43.24745,-79.83983,3
+hub_1252,Bruno's Pizza & Wings,"['Pizza', 'Chicken Wings']",43.24774234,-79.84079221,3
+hub_1252,Saha,"['Middle Eastern', 'Pop-Up Restaurants']",43.2475,-79.84265,5
+hub_1252,Jerusalem Pita,['Middle Eastern'],43.23870821,-79.84352176,3.5
+hub_1252,Pagoda Chop Suey House,['Chinese'],43.23806,-79.84213,2.5
+hub_1252,My Neighbourhood Bar And Grill,['Pubs'],43.23825,-79.84214,1
+hub_1252,Pita Pit,['Sandwiches'],43.23816,-79.84224,1
+hub_1252,Gina's Place,['Pizza'],43.23816,-79.84224,4
+hub_1252,Mr Sub,"['Caterers', 'Sandwiches']",43.23861,-79.8437299,4
+hub_1252,Tim Hortons,"['Coffee & Tea', 'Bakeries']",43.24583,-79.83414,3
+hub_1253,Saha,"['Middle Eastern', 'Pop-Up Restaurants']",43.2475,-79.84265,5
+hub_1253,Bruno's Pizza & Wings,"['Pizza', 'Chicken Wings']",43.24774234,-79.84079221,3
+hub_1253,Big Top Family Restaurant,['Diners'],43.24745,-79.83983,3
+hub_1253,Queen's Pizza & Wings,['Pizza'],43.25113,-79.84123,1
+hub_1253,Giuseppe's Italian Cuisine & Pizza,"['Italian', 'Pizza']",43.25134027,-79.84467454,4
+hub_1253,Atlantic Submarines,['Sandwiches'],43.25154,-79.8379999,4
+hub_1253,Culantro Peruvian Cookery,['Peruvian'],43.2501405,-79.8487616,3.5
+hub_1253,Cadillac Jax Bar & Grill,"['Bars', 'Canadian (New)']",43.24988,-79.84917,5
+hub_1253,Mimi’s Asian Gourmet,"['Pan Asian', 'Thai', 'Malaysian']",43.2514005,-79.8356242,4
+hub_1253,Vintage Coffee Roasters,['Coffee Roasteries'],43.25136296,-79.83546569,5
+hub_1287,Cannon Coffee,"['Coffee & Tea', 'Breakfast & Brunch']",43.24768,-79.81792,4.5
+hub_1287,MERK,['Tapas Bars'],43.24788,-79.81788,4.5
+hub_1287,Ottawa Market,"['Florists', 'Cafes', 'Grocery']",43.24803,-79.81718,5
+hub_1287,Hambrgr Ottawa Street,"['Burgers', 'American (Traditional)']",43.24838,-79.81775,4
+hub_1287,Quality Bakery,['Bakeries'],43.24671,-79.81773,1
+hub_1287,Mancala Monk Board Game Cafe,"['Cafes', 'Coffee & Tea', 'Hobby Shops']",43.2475,-79.81656,5
+hub_1287,Simply Italian Bakery,['Bakeries'],43.24844752,-79.81728221,4
+hub_1287,Das Schnitzel,"['Soup', 'Burgers', 'Sandwiches']",43.2462118,-79.8184547,5
+hub_1287,Boardwalk Cheesesteaks,"['Cheesesteaks', 'Sandwiches']",43.24631,-79.81847,4.5
+hub_1287,Power Pizza,"['Pizza', 'Chicken Wings', 'Salad']",43.24632,-79.81782,3
+hub_1397,Ajio Sushi,"['Japanese', 'Korean']",43.21798,-79.74587,4
+hub_1397,Sana Grill,"['Mediterranean', 'Greek']",43.25532,-79.8641899,3
+hub_1397,Social Lounge 8090,"['Chinese', 'Japanese', 'Coffee & Tea']",43.2552358,-79.8646434,3.5
+hub_1397,Chinese Dumplings,['Chinese'],43.255132,-79.8639284,4.5
+hub_1397,Sparkle Northern Chinese Cuisine,['Chinese'],43.255132,-79.8639284,3.5
+hub_1397,Dim Sum House,['Dim Sum'],43.255177,-79.86387,4
+hub_1397,Tatemono Sushi Bar & Restaurant,"['Japanese', 'Sushi Bars']",43.25542533,-79.86481981,3
+hub_1397,Mamey Tamale,['Pop-Up Restaurants'],43.25549,-79.86485,5
+hub_1397,Teafun - Hamilton,"['Bubble Tea', 'Food Delivery Services', 'Internet Cafes']",43.255586,-79.864701,2
+hub_1397,Homemade Noodles,"['Noodles', 'Chinese']",43.25548371,-79.86490812,4.5
+hub_1468,Frank's Sicilia Bakery,['Bakeries'],43.25677,-79.8366,5
+hub_1468,Maipai,"['Tiki Bars', 'Pizza']",43.25726,-79.83817,4.5
+hub_1468,sams tavern,['Canadian (New)'],43.2568016,-79.8381882,1
+hub_1468,Zak's,['Dive Bars'],43.2568,-79.83819,2.5
+hub_1468,Mikey's Cream Pies,['Bakeries'],43.25544666,-79.83158759,5
+hub_1468,Karlik Pastry,['Bakeries'],43.25524,-79.83214,4.5
+hub_1468,McDonald's,"['Fast Food', 'Burgers', 'Coffee & Tea']",43.25543684,-79.8306591,2
+hub_1468,541 Eatery & Exchange,['Cafes'],43.25824804,-79.84235436,4.5
+hub_1468,Tim Horton's,"['Delis', 'Sandwiches']",43.25498,-79.82937,1
+hub_1468,Two Cougars & A Cafe,['Cafes'],43.26729,-79.83713,4
+hub_2570,Teriyaki Experience,"['Japanese', 'Food Court']",43.26336764,-79.91739526,3
+hub_2570,Bridges Cafe,"['Vegetarian', 'Cafes']",43.2628019,-79.9176086,4.5
+hub_2570,Centro,['Food Court'],43.26560374,-79.91920107,3.5
+hub_2570,La Piazza,"['Salad', 'Pizza', 'Bakeries']",43.2580348,-79.9194055,3.5
+hub_2570,Tim Horton's,['Coffee & Tea'],43.2580338,-79.9194031,4
+hub_2570,TwelvEighty Bar & Grill,['Bars'],43.26277412,-79.92113753,4
+hub_2570,The Phoenix Bar & Grill,"['Pubs', 'Barbeque']",43.26277412,-79.92113753,4
+hub_2570,East Meets West Bistro,['Canadian (New)'],43.26248256,-79.92286111,2.5
+hub_2570,Pita Pit,['Sandwiches'],43.2614265,-79.9075946,5
+hub_2570,The Alley,['Bubble Tea'],43.26164,-79.90714,5
+hub_2868,Thirsty Cactus Cantina & Grill,"['Mexican', 'Bars', 'Music Venues']",43.26592,-79.95353,3.5
+hub_2868,French Revolution Bakery & Crêperie,['Bakeries'],43.26608128,-79.9540855,4.5
+hub_2868,B. Love,"['Live/Raw Food', 'Breakfast & Brunch']",43.2663727,-79.9550171,4.5
+hub_2868,Collins Brewhouse,"['Pubs', 'American (Traditional)']",43.26639085,-79.95500335,3.5
+hub_2868,The Red Door Cucina,"['Italian', 'Pizza']",43.26690899,-79.9544512,5
+hub_2868,Jax,"['Cafes', 'Breakfast & Brunch', 'Desserts']",43.26655003,-79.95502016,4
+hub_2868,Dundas Shawarma,"['Lebanese', 'Mediterranean']",43.26572,-79.95234,3
+hub_2868,Little Asia,"['Vegetarian', 'Vegan', 'Thai']",43.26567,-79.95219,4.5
+hub_2868,Detour Cafe,"['Coffee & Tea', 'Breakfast & Brunch', 'Cafes']",43.26653,-79.95534,4
+hub_2868,The Valley Charcoal,"['Breakfast & Brunch', 'Steakhouses', 'Sandwiches']",43.2661884,-79.95570586,3
+hub_2869,Tim Horton,"['Bakeries', 'Coffee & Tea']",43.26595425,-79.94944634,1
+hub_2869,McDonald's,"['Fast Food', 'Burgers', 'Coffee & Tea']",43.26518805,-79.9497877,1
+hub_2869,Pizza Pizza,"['Pizza', 'Italian', 'Chicken Wings']",43.265991,-79.950991,1
+hub_2869,Centennial Park Dundas,['Parks'],43.2661135,-79.94389213,5
+hub_2869,Little Asia,"['Vegetarian', 'Vegan', 'Thai']",43.26567,-79.95219,4.5
+hub_2869,Dundas Shawarma,"['Lebanese', 'Mediterranean']",43.26572,-79.95234,3
+hub_2869,Tim Horton,"['Coffee & Tea', 'Breakfast & Brunch', 'Sandwiches']",43.26274,-79.95276,1
+hub_2869,Thirsty Cactus Cantina & Grill,"['Mexican', 'Bars', 'Music Venues']",43.26592,-79.95353,3.5
+hub_2869,Domino's Pizza,"['Pizza', 'Chicken Wings', 'Sandwiches']",43.26274,-79.95276,1
+hub_2869,French Revolution Bakery & Crêperie,['Bakeries'],43.26608128,-79.9540855,4.5
+hub_2915,Two Cougars & A Cafe,['Cafes'],43.26729,-79.83713,4
+hub_2915,Conversate Steak & Seafood,"['Seafood', 'Steakhouses']",43.2603736,-79.8461232,2
+hub_2915,Bellair Pizza,['Pizza'],43.25941,-79.84612,3
+hub_2915,Mosaic Beer Bar,['Beer Bar'],43.2595287,-79.8469408,4
+hub_2915,BAB Korean Food & BBQ,"['Hot Pot', 'Korean', 'Barbeque']",43.26012,-79.84875,5
+hub_2915,Pho Asparagus,"['Vietnamese', 'Japanese']",43.25973926,-79.84888759,4
+hub_2915,Motel Restaurant,"['Breakfast & Brunch', 'Coffee & Tea', 'Cocktail Bars']",43.26045,-79.85008,4.5
+hub_2915,541 Eatery & Exchange,['Cafes'],43.25824804,-79.84235436,4.5
+hub_2915,Diamantino's Pizza,"['Pizza', 'Sandwiches', 'Fast Food']",43.26063,-79.85098,2.5
+hub_2915,Crumbled,['Desserts'],43.26078,-79.85106,4
+hub_2916,Frank's Sicilia Bakery,['Bakeries'],43.25677,-79.8366,5
+hub_2916,sams tavern,['Canadian (New)'],43.2568016,-79.8381882,1
+hub_2916,Zak's,['Dive Bars'],43.2568,-79.83819,2.5
+hub_2916,Maipai,"['Tiki Bars', 'Pizza']",43.25726,-79.83817,4.5
+hub_2916,Karlik Pastry,['Bakeries'],43.25524,-79.83214,4.5
+hub_2916,Mikey's Cream Pies,['Bakeries'],43.25544666,-79.83158759,5
+hub_2916,The Capitol Bar,['Bars'],43.25244986,-79.83552901,4.5
+hub_2916,McDonald's,"['Fast Food', 'Burgers', 'Coffee & Tea']",43.25543684,-79.8306591,2
+hub_2916,541 Eatery & Exchange,['Cafes'],43.25824804,-79.84235436,4.5
+hub_2916,Atlantic Submarines,['Sandwiches'],43.25154,-79.8379999,4
+hub_2917,Mikey's Cream Pies,['Bakeries'],43.25544666,-79.83158759,5
+hub_2917,Karlik Pastry,['Bakeries'],43.25524,-79.83214,4.5
+hub_2917,McDonald's,"['Fast Food', 'Burgers', 'Coffee & Tea']",43.25543684,-79.8306591,2
+hub_2917,Tim Horton's,"['Delis', 'Sandwiches']",43.25498,-79.82937,1
+hub_2917,Canadian Football Hall of Fame,['Museums'],43.25225528,-79.83126383,4
+hub_2917,KFC,"['Chicken Wings', 'Fast Food', 'Chicken Shop']",43.2539912,-79.8274841,1
+hub_2917,Frank's Sicilia Bakery,['Bakeries'],43.25677,-79.8366,5
+hub_2917,The Capitol Bar,['Bars'],43.25244986,-79.83552901,4.5
+hub_2917,Festival Café,"['Southern', 'Chicken Shop', 'Burgers']",43.25064,-79.83303,4.5
+hub_2917,Vintage Coffee Roasters,['Coffee Roasteries'],43.25136296,-79.83546569,5
+hub_2918,Purple Pear,"['Seafood', 'Steakhouses']",43.2530719,-79.8232905,4.5
+hub_2918,Hamilton Indoor Go Karts,['Amusement Parks'],43.25428,-79.824,3.5
+hub_2918,Lazio Pizza & Wings,"['Pizza', 'Chicken Wings']",43.2521509,-79.8190612,2
+hub_2918,KFC,"['Chicken Wings', 'Fast Food', 'Chicken Shop']",43.2539912,-79.8274841,1
+hub_2918,Shorty's Pizza,['Pizza'],43.2485677,-79.8215868,4
+hub_2918,Osten Beerhall,"['Modern European', 'Beer Bar']",43.248537,-79.821387,5
+hub_2918,The Hearty Hooligan,"['Cafes', 'Bakeries']",43.25024136,-79.81646609,5
+hub_2918,Papa Johns Pizza,['Pizza'],43.2508272,-79.8155463,1.5
+hub_2918,East Kiwanis Place,['Parks'],43.24892703,-79.81701728,3
+hub_2918,Hambrgr Ottawa Street,"['Burgers', 'American (Traditional)']",43.24838,-79.81775,4
+hub_2919,Papa Johns Pizza,['Pizza'],43.2508272,-79.8155463,1.5
+hub_2919,The Hearty Hooligan,"['Cafes', 'Bakeries']",43.25024136,-79.81646609,5
+hub_2919,Gino's Pizza,['Pizza'],43.2507,-79.81404,1
+hub_2919,Lazio Pizza & Wings,"['Pizza', 'Chicken Wings']",43.2521509,-79.8190612,2
+hub_2919,East Kiwanis Place,['Parks'],43.24892703,-79.81701728,3
+hub_2919,Cafe Limoncello,['Italian'],43.248745,-79.816929,2.5
+hub_2919,The Parlour Dairy Bar,['Ice Cream & Frozen Yogurt'],43.24866,-79.81698,5
+hub_2919,Mr Beast Burger,"['Burgers', 'Fast Food']",43.248686,-79.817039,4
+hub_2919,Starbucks,['Coffee & Tea'],43.2508425,-79.8128252,4
+hub_2919,Simply Italian Bakery,['Bakeries'],43.24844752,-79.81728221,4
+hub_2920,Tim Hortons,"['Coffee & Tea', 'Bakeries']",43.24459059,-79.81917364,4
+hub_2920,JoyInn Restaurant,"['Chinese', 'Seafood', 'Soup']",43.24463277,-79.81867474,2
+hub_2920,Hammerhead's On Ottawa,['Fish & Chips'],43.24474,-79.81852,4.5
+hub_2920,Mike's Subs,['Sandwiches'],43.24584,-79.81808,4
+hub_2920,Caro Restaurant and Bar,"['Italian', 'Bars']",43.242741,-79.819429,4.5
+hub_2920,Das Schnitzel,"['Soup', 'Burgers', 'Sandwiches']",43.2462118,-79.8184547,5
+hub_2920,Boardwalk Cheesesteaks,"['Cheesesteaks', 'Sandwiches']",43.24631,-79.81847,4.5
+hub_2920,Power Pizza,"['Pizza', 'Chicken Wings', 'Salad']",43.24632,-79.81782,3
+hub_2920,Breezy Corners Hamilton,['Canadian (New)'],43.24315315,-79.82165415,4.5
+hub_2920,Quality Bakery,['Bakeries'],43.24671,-79.81773,1
+hub_2921,Hamilton Children's Museum,"[""Children's Museums""]",43.2438511,-79.8256512,3
+hub_2921,Pizza Pizza,"['Pizza', 'Italian', 'Chicken Wings']",43.2438922,-79.8247115,4
+hub_2921,Cafe Baffico,['Cafes'],43.24172,-79.82224,4.5
+hub_2921,Buddys Roadhouse,['Canadian (New)'],43.2411302,-79.8223127,2.5
+hub_2921,McDonald's,"['Fast Food', 'Burgers', 'Coffee & Tea']",43.2445288,-79.82553353,1
+hub_2921,Gage Park,['Parks'],43.24407196,-79.82659149,5
+hub_2921,Breezy Corners Hamilton,['Canadian (New)'],43.24315315,-79.82165415,4.5
+hub_2921,Caro Restaurant and Bar,"['Italian', 'Bars']",43.242741,-79.819429,4.5
+hub_2921,Gage Park Diner,"['Diners', 'Breakfast & Brunch', 'American (Traditional)']",43.24506,-79.82929,4
+hub_2921,Connaught Fish & Chips,['Seafood'],43.24497,-79.83023,3.5
+hub_2922,McDonald's,"['Fast Food', 'Burgers', 'Coffee & Tea']",43.2445288,-79.82553353,1
+hub_2922,Golden Tenders,"['Fast Food', 'Southern']",43.247855,-79.829075,5
+hub_2922,Hi-Line Centre Pizza & Wings,['Pizza'],43.24771,-79.82858,2.5
+hub_2922,Gage Park Diner,"['Diners', 'Breakfast & Brunch', 'American (Traditional)']",43.24506,-79.82929,4
+hub_2922,The Taco Station,"['Mexican', 'Food Trucks']",43.24752,-79.82975,3.5
+hub_2922,Taste of Poland,['Polish'],43.24837,-79.82871,5
+hub_2922,Connaught Fish & Chips,['Seafood'],43.24497,-79.83023,3.5
+hub_2922,Pizza Pizza,"['Pizza', 'Italian', 'Chicken Wings']",43.2438922,-79.8247115,4
+hub_2922,Hamilton Children's Museum,"[""Children's Museums""]",43.2438511,-79.8256512,3
+hub_2922,Gage Park,['Parks'],43.24407196,-79.82659149,5
+hub_2923,Big Top Family Restaurant,['Diners'],43.24745,-79.83983,3
+hub_2923,Bruno's Pizza & Wings,"['Pizza', 'Chicken Wings']",43.24774234,-79.84079221,3
+hub_2923,Atlantic Submarines,['Sandwiches'],43.25154,-79.8379999,4
+hub_2923,Queen's Pizza & Wings,['Pizza'],43.25113,-79.84123,1
+hub_2923,Mimi’s Asian Gourmet,"['Pan Asian', 'Thai', 'Malaysian']",43.2514005,-79.8356242,4
+hub_2923,Vintage Coffee Roasters,['Coffee Roasteries'],43.25136296,-79.83546569,5
+hub_2923,Saha,"['Middle Eastern', 'Pop-Up Restaurants']",43.2475,-79.84265,5
+hub_2923,The Capitol Bar,['Bars'],43.25244986,-79.83552901,4.5
+hub_2923,Tall Tree Sandwich Company,"['Sandwiches', 'Juice Bars & Smoothies']",43.25049929,-79.83348899,5
+hub_2923,Mario's 2 For 1 Pizza,['Pizza'],43.25033802,-79.83320962,1
+hub_2924,KFC,"['Chicken Wings', 'Fast Food', 'Chicken Shop']",43.2539912,-79.8274841,1
+hub_2924,Taste of Poland,['Polish'],43.24837,-79.82871,5
+hub_2924,Canadian Football Hall of Fame,['Museums'],43.25225528,-79.83126383,4
+hub_2924,Golden Tenders,"['Fast Food', 'Southern']",43.247855,-79.829075,5
+hub_2924,Hi-Line Centre Pizza & Wings,['Pizza'],43.24771,-79.82858,2.5
+hub_2924,Purple Pear,"['Seafood', 'Steakhouses']",43.2530719,-79.8232905,4.5
+hub_2924,The Taco Station,"['Mexican', 'Food Trucks']",43.24752,-79.82975,3.5
+hub_2924,Festival Café,"['Southern', 'Chicken Shop', 'Burgers']",43.25064,-79.83303,4.5
+hub_2924,Hamilton Indoor Go Karts,['Amusement Parks'],43.25428,-79.824,3.5
+hub_2924,Mario's 2 For 1 Pizza,['Pizza'],43.25033802,-79.83320962,1
+hub_2925,Shorty's Pizza,['Pizza'],43.2485677,-79.8215868,4
+hub_2925,Osten Beerhall,"['Modern European', 'Beer Bar']",43.248537,-79.821387,5
+hub_2925,Taste of Poland,['Polish'],43.24837,-79.82871,5
+hub_2925,Purple Pear,"['Seafood', 'Steakhouses']",43.2530719,-79.8232905,4.5
+hub_2925,Hambrgr Ottawa Street,"['Burgers', 'American (Traditional)']",43.24838,-79.81775,4
+hub_2925,Golden Tenders,"['Fast Food', 'Southern']",43.247855,-79.829075,5
+hub_2925,Hi-Line Centre Pizza & Wings,['Pizza'],43.24771,-79.82858,2.5
+hub_2925,MERK,['Tapas Bars'],43.24788,-79.81788,4.5
+hub_2925,Cannon Coffee,"['Coffee & Tea', 'Breakfast & Brunch']",43.24768,-79.81792,4.5
+hub_2925,Simply Italian Bakery,['Bakeries'],43.24844752,-79.81728221,4
+hub_2926,541 Eatery & Exchange,['Cafes'],43.25824804,-79.84235436,4.5
+hub_2926,Bellair Pizza,['Pizza'],43.25941,-79.84612,3
+hub_2926,Burger Bus Hamilton,"['Burgers', 'Food Trucks']",43.2555265,-79.8445116,5
+hub_2926,Maipai,"['Tiki Bars', 'Pizza']",43.25726,-79.83817,4.5
+hub_2926,Conversate Steak & Seafood,"['Seafood', 'Steakhouses']",43.2603736,-79.8461232,2
+hub_2926,Zak's,['Dive Bars'],43.2568,-79.83819,2.5
+hub_2926,sams tavern,['Canadian (New)'],43.2568016,-79.8381882,1
+hub_2926,Mosaic Beer Bar,['Beer Bar'],43.2595287,-79.8469408,4
+hub_2926,Frank's Sicilia Bakery,['Bakeries'],43.25677,-79.8366,5
+hub_2926,Pho Asparagus,"['Vietnamese', 'Japanese']",43.25973926,-79.84888759,4
+hub_3885,Lucky’s BBQ,"['Southern', 'Barbeque', 'Cocktail Bars']",43.2585369,-79.87879954,5
+hub_3885,Smoke's Poutinerie,"['Fast Food', 'Poutineries']",43.25854,-79.87863,3.5
+hub_3885,Amigos,"['Mexican', 'Latin American', 'Cocktail Bars']",43.25825,-79.87868,4.5
+hub_3885,Ceilidh House Irish Pub,"['Irish', 'Nightlife']",43.25821,-79.87853,1.5
+hub_3885,Moodys,"['Pizza', 'Gluten-Free', 'Italian']",43.25821,-79.87853,4
+hub_3885,Electric Diner,"['Diners', 'Burgers', 'Cocktail Bars']",43.25845,-79.878,3.5
+hub_3885,Firestone Pizza Wings & Shawarma,"['Chicken Wings', 'Pizza', 'Poutineries']",43.25804,-79.87967,2.5
+hub_3885,The Gown & Gavel,"['Canadian (New)', 'Bars']",43.2584,-79.87785,2.5
+hub_3885,La Luna,['Middle Eastern'],43.25942165,-79.87848758,4
+hub_3885,Ark and Anchor,"['Coffee & Tea', 'Bakeries', 'Cafes']",43.2595,-79.87812,4.5
+hub_4093,Chocolat On James,"['Desserts', 'Coffee & Tea', 'Chocolatiers & Shops']",43.26019,-79.8678599,4
+hub_4093,Ben Thanh,"['Vietnamese', 'Thai']",43.25970271,-79.86795776,2.5
+hub_4093,OKO Bagels ,"['Bagels', 'Coffee & Tea', 'Sandwiches']",43.259918,-79.867288,5
+hub_4093,James North General Store,['Coffee & Tea'],43.25954,-79.86819,4
+hub_4093,Nabil’s Grill,"['Middle Eastern', 'Fast Food']",43.25943,-79.86708,5
+hub_4093,8-Aug,"['Japanese', 'Dim Sum']",43.25943,-79.86708,4
+hub_4093,NOODLE ME,['Noodles'],43.25943,-79.86708,4
+hub_4093,French Confection Patisserie,['Bakeries'],43.25943,-79.86708,3
+hub_4093,Hotti Biscotti,['Bakeries'],43.260378,-79.8672601,4.5
+hub_4093,BATL Axe Throwing,"['Axe Throwing', 'Sports Bars', 'Team Building Activities']",43.25887,-79.86771,5
+hub_5333,Mr Sub,"['Caterers', 'Sandwiches']",43.2581599,-79.91173,5
+hub_5333,Porcelain Hotpot & Lounge,"['Chinese', 'Bubble Tea', 'Hot Pot']",43.25829833,-79.911011,5
+hub_5333,Caribbean Flavah,"['Caribbean', 'Soul Food']",43.25829,-79.91107,3
+hub_5333,Pho Excellent,"['Vietnamese', 'Thai', 'Noodles']",43.2582044,-79.9108457,5
+hub_5333,Prime Pita,"['Lebanese', 'Mediterranean']",43.25725548,-79.91791461,4.5
+hub_5333,The Arch Noodle House,['Noodles'],43.25738,-79.9180499,3.5
+hub_5333,Williams Fresh Cafe,"['Breakfast & Brunch', 'Cafes']",43.25738,-79.9180499,2.5
+hub_5333,Yogurty's Froyo,"['Ice Cream & Frozen Yogurt', 'Desserts']",43.25724978,-79.91808908,3.5
+hub_5333,Gino's Pizza,['Pizza'],43.25726697,-79.91831474,2.5
+hub_5333,Quik Chik,"['Fast Food', 'Chicken Shop']",43.25743,-79.91877,1.5
+hub_5402,Hammerheads Fresh On Locke,"['Seafood', 'Seafood Markets', 'Poke']",43.25661099,-79.8854628,5
+hub_5402,Starbucks,['Coffee & Tea'],43.2561607,-79.8857117,3.5
+hub_5402,Amo Gelato Cafe,"['Desserts', 'Ice Cream & Frozen Yogurt']",43.25565,-79.8853,4.5
+hub_5402,Pasta Mercato,"['Bakeries', 'Grocery', 'Organic Stores']",43.2558669,-79.88559774,5
+hub_5402,Mysweetooth Bakery Cafe,"['Bakeries', 'Coffee & Tea', 'Desserts']",43.25802,-79.88216,4.5
+hub_5402,The Burnt Tongue,"['Burgers', 'Soup', 'Sandwiches']",43.2555538,-79.8858002,4.5
+hub_5402,The Beasley House Bistro,['Canadian (New)'],43.2582,-79.8847,2.5
+hub_5402,Glow Juicery,"['Juice Bars & Smoothies', 'Live/Raw Food']",43.25521,-79.88558,4.5
+hub_5402,Delirious Burger,['Burgers'],43.25497,-79.88563,5
+hub_5402,Tomah,['Syrian'],43.25546,-79.88064,5
+hub_5426,Hill Street Dog Park,['Dog Parks'],43.2564011,-79.8876495,3
+hub_5426,Hammerheads Fresh On Locke,"['Seafood', 'Seafood Markets', 'Poke']",43.25661099,-79.8854628,5
+hub_5426,Starbucks,['Coffee & Tea'],43.2561607,-79.8857117,3.5
+hub_5426,Pasta Mercato,"['Bakeries', 'Grocery', 'Organic Stores']",43.2558669,-79.88559774,5
+hub_5426,The Burnt Tongue,"['Burgers', 'Soup', 'Sandwiches']",43.2555538,-79.8858002,4.5
+hub_5426,CIMA Enoteca,['Italian'],43.25512,-79.88608,3.5
+hub_5426,Amo Gelato Cafe,"['Desserts', 'Ice Cream & Frozen Yogurt']",43.25565,-79.8853,4.5
+hub_5426,Glow Juicery,"['Juice Bars & Smoothies', 'Live/Raw Food']",43.25521,-79.88558,4.5
+hub_5426,Democracy,"['Coffee & Tea', 'Bakeries']",43.2547913,-79.8862228,4
+hub_5426,Delirious Burger,['Burgers'],43.25497,-79.88563,5
+hub_5702,Earth To Table : Bread Bar,"['Pizza', 'Breakfast & Brunch', 'Salad']",43.25284,-79.88702,4
+hub_5702,Peruviano,"['Italian', 'Cocktail Bars', 'Peruvian']",43.25299,-79.88692,4
+hub_5702,My Dog's Cafe & Bar,['Coffee & Tea'],43.25383,-79.88605,4.5
+hub_5702,Ye Old Squire,"['Pubs', 'Chicken Wings', 'Canadian (New)']",43.25415635,-79.88594719,3.5
+hub_5702,Bitten On Locke,"['Bakeries', 'Patisserie/Cake Shop']",43.2542199,-79.88581,4
+hub_5702,The West Town Bar & Grill,"['Breakfast & Brunch', 'Steakhouses', 'Burgers']",43.25456,-79.88633,3.5
+hub_5702,Democracy,"['Coffee & Tea', 'Bakeries']",43.2547913,-79.8862228,4
+hub_5702,Pizzaiolo,['Pizza'],43.25481221,-79.88579884,2.5
+hub_5702,Delirious Burger,['Burgers'],43.25497,-79.88563,5
+hub_5702,CIMA Enoteca,['Italian'],43.25512,-79.88608,3.5
+hub_5790,Pane Del Sole,['Bakeries'],43.26067,-79.8648599,3.5
+hub_5790,Plaza Pizza & Wings,"['Pizza', 'Chicken Wings']",43.25597,-79.8578262,4.5
+hub_5790,Debbie's Fish and Chips,['Fish & Chips'],43.2622709,-79.85940222,4
+hub_5790,Dirty Dog Saloon,"['Bars', 'Dance Clubs']",43.2565632,-79.8648743,2.5
+hub_5790,Seasoned,"['Pizza', 'Italian', 'Cocktail Bars']",43.2553874,-79.8624521,5
+hub_5790,Double Star Pizza & Wings,['Pizza'],43.2558478,-79.8580871,4
+hub_5790,Azal Restaurant,['Arabic'],43.25593813,-79.85772651,5
+hub_5790,A&W,"['Burgers', 'Fast Food']",43.26202463,-79.85794144,2.5
+hub_5790,193 Bench Kitchen,"['Sandwiches', 'Bakeries', 'Breakfast & Brunch']",43.25505273,-79.86337557,5
+hub_5790,Tim Horton,['Coffee & Tea'],43.26153,-79.85653,1.5
+hub_5827,Capri Family Restaurant,"['Pizza', 'Italian']",43.25659,-79.866228,2
+hub_5827,PinToh,['Thai'],43.2566,-79.8665,4
+hub_5827,My-Thai Restaurant,['Thai'],43.2566,-79.8665,3.5
+hub_5827,John Street Diner,"['Breakfast & Brunch', 'Comfort Food']",43.25675907,-79.86628175,4
+hub_5827,Christophers Fast Food,['Fast Food'],43.2560891,-79.8668066,1
+hub_5827,Pizza Pizza,"['Pizza', 'Italian', 'Chicken Wings']",43.25595,-79.86635,2
+hub_5827,Pagoda Downtown Restaurant,"['Chinese', 'Imported Food']",43.25595,-79.86635,1
+hub_5827,Sugar Marmalade,['Desserts'],43.25634,-79.86697,2.5
+hub_5827,Mystic Ramen,['Ramen'],43.2571529,-79.8669049,5
+hub_5827,Hambrgr,"['Burgers', 'Beer Bar']",43.25721,-79.8669,4.5
+hub_5836,Vintage Coffee Roasters,['Coffee Roasteries'],43.25136296,-79.83546569,5
+hub_5836,Mimi’s Asian Gourmet,"['Pan Asian', 'Thai', 'Malaysian']",43.2514005,-79.8356242,4
+hub_5836,The Capitol Bar,['Bars'],43.25244986,-79.83552901,4.5
+hub_5836,Tall Tree Sandwich Company,"['Sandwiches', 'Juice Bars & Smoothies']",43.25049929,-79.83348899,5
+hub_5836,Atlantic Submarines,['Sandwiches'],43.25154,-79.8379999,4
+hub_5836,Festival Café,"['Southern', 'Chicken Shop', 'Burgers']",43.25064,-79.83303,4.5
+hub_5836,Mario's 2 For 1 Pizza,['Pizza'],43.25033802,-79.83320962,1
+hub_5836,Canadian Football Hall of Fame,['Museums'],43.25225528,-79.83126383,4
+hub_5836,Queen's Pizza & Wings,['Pizza'],43.25113,-79.84123,1
+hub_5836,Karlik Pastry,['Bakeries'],43.25524,-79.83214,4.5
+hub_5837,Atlantic Submarines,['Sandwiches'],43.25154,-79.8379999,4
+hub_5837,Mimi’s Asian Gourmet,"['Pan Asian', 'Thai', 'Malaysian']",43.2514005,-79.8356242,4
+hub_5837,Vintage Coffee Roasters,['Coffee Roasteries'],43.25136296,-79.83546569,5
+hub_5837,Queen's Pizza & Wings,['Pizza'],43.25113,-79.84123,1
+hub_5837,The Capitol Bar,['Bars'],43.25244986,-79.83552901,4.5
+hub_5837,Tall Tree Sandwich Company,"['Sandwiches', 'Juice Bars & Smoothies']",43.25049929,-79.83348899,5
+hub_5837,Mario's 2 For 1 Pizza,['Pizza'],43.25033802,-79.83320962,1
+hub_5837,Festival Café,"['Southern', 'Chicken Shop', 'Burgers']",43.25064,-79.83303,4.5
+hub_5837,Big Top Family Restaurant,['Diners'],43.24745,-79.83983,3
+hub_5837,Bruno's Pizza & Wings,"['Pizza', 'Chicken Wings']",43.24774234,-79.84079221,3
+hub_5838,Giuseppe's Italian Cuisine & Pizza,"['Italian', 'Pizza']",43.25134027,-79.84467454,4
+hub_5838,Miss Lyn's Wings,['Chicken Wings'],43.2523,-79.8491,1
+hub_5838,Culantro Peruvian Cookery,['Peruvian'],43.2501405,-79.8487616,3.5
+hub_5838,Cadillac Jax Bar & Grill,"['Bars', 'Canadian (New)']",43.24988,-79.84917,5
+hub_5838,Queen's Pizza & Wings,['Pizza'],43.25113,-79.84123,1
+hub_5838,Burger Bus Hamilton,"['Burgers', 'Food Trucks']",43.2555265,-79.8445116,5
+hub_5838,Pizza World,['Pizza'],43.2512742,-79.8519943,4
+hub_5838,Narulas Express,['Indian'],43.25266333,-79.85289752,3
+hub_5838,Saha,"['Middle Eastern', 'Pop-Up Restaurants']",43.2475,-79.84265,5
+hub_5838,Bruno's Pizza & Wings,"['Pizza', 'Chicken Wings']",43.24774234,-79.84079221,3
+hub_5845,Anchor Bar,"['Bars', 'Chicken Wings', 'American (Traditional)']",43.25711,-79.86938,2
+hub_5845,Laura Secord,"['Ice Cream & Frozen Yogurt', 'Chocolatiers & Shops']",43.2571529,-79.8692434,1
+hub_5845,iPho,['Vietnamese'],43.2571106,-79.8693771,4
+hub_5845,Freshii,"['Salad', 'Vegetarian', 'Fast Food']",43.25711,-79.86938,1
+hub_5845,Aichi Japan,['Japanese'],43.25734947,-79.87005158,1
+hub_5845,National Pizza & Wings,"['Pizza', 'Chicken Wings']",43.25682,-79.86881,3.5
+hub_5845,Pita Pit,['Sandwiches'],43.257393,-79.868967,2
+hub_5845,Country Style Donuts,['Coffee & Tea'],43.25711,-79.86938,4
+hub_5845,Gino's Pizza,['Pizza'],43.25678,-79.86864,3.5
+hub_5845,Earth to Table Bread Bar James,"['Salad', 'Pizza', 'Soup']",43.25734973,-79.86863941,4
+hub_5846,KFC,"['Chicken Wings', 'Fast Food', 'Chicken Shop']",43.25761,-79.85359,1
+hub_5846,Pho Asparagus,"['Vietnamese', 'Japanese']",43.25973926,-79.84888759,4
+hub_5846,Mosaic Beer Bar,['Beer Bar'],43.2595287,-79.8469408,4
+hub_5846,BAB Korean Food & BBQ,"['Hot Pot', 'Korean', 'Barbeque']",43.26012,-79.84875,5
+hub_5846,Motel Restaurant,"['Breakfast & Brunch', 'Coffee & Tea', 'Cocktail Bars']",43.26045,-79.85008,4.5
+hub_5846,Korea House,['Korean'],43.2579156,-79.854948,4
+hub_5846,Emerald Coffee,['Coffee & Tea'],43.26029,-79.85115,5
+hub_5846,Bellair Pizza,['Pizza'],43.25941,-79.84612,3
+hub_5846,Burger Bus Hamilton,"['Burgers', 'Food Trucks']",43.2555265,-79.8445116,5
+hub_5846,Diamantino's Pizza,"['Pizza', 'Sandwiches', 'Fast Food']",43.26063,-79.85098,2.5
+hub_5883,Rose Garden Family Restaurant,"['American (Traditional)', 'Breakfast & Brunch', 'Comfort Food']",43.2912471,-79.8802508,4
+hub_5883,Wedgewood Golf Centre,"['Golf', 'Mini Golf']",43.29914,-79.8970499,3.5
+hub_5883,Greenhouse Cafe,['Canadian (New)'],43.29029,-79.87538,2
+hub_5883,Royal Botanical Gardens,"['Botanical Gardens', 'Parks']",43.29138,-79.876002,3.5
+hub_5883,Easterbrook Hotdog Stand,"['Burgers', 'Hot Dogs', 'Ice Cream & Frozen Yogurt']",43.289047,-79.874739,4
+hub_5883,Botanical Gardens,['Botanical Gardens'],43.27115,-79.88713,5
+hub_5883,Dundurn National Historic Site,['Museums'],43.26853,-79.88501,4
+hub_5883,Bayfront Park,['Parks'],43.27103159,-79.8722576,4
+hub_5883,Pier 4 Park,"['Parks', 'Playgrounds', 'Beaches']",43.27379677,-79.86721112,3.5
+hub_5883,Hamilton Harbour Waterfront Trail,['Hiking'],43.26925434,-79.87123679,3
+hub_5903,HMCS Haida,['Landmarks & Historical Buildings'],43.27531,-79.85604,5
+hub_5903,Williams Fresh Cafe,"['Cafes', 'Breakfast & Brunch']",43.2764873,-79.860838,3
+hub_5903,William's Cafe,['Cafes'],43.27638125,-79.86094952,2.5
+hub_5903,Hamilton Waterfront Scoops,['Ice Cream & Frozen Yogurt'],43.27646,-79.86082,4
+hub_5903,GrandDads,['Coffee & Tea'],43.27248178,-79.86172079,4
+hub_5903,North End Pita,['International'],43.27247437,-79.86180863,5
+hub_5903,Weston Pizza and Wings,['Pizza'],43.2721,-79.86212,2.5
+hub_5903,Fisher's Pier 4 Pub & Grub,['Pubs'],43.27143,-79.86229,4
+hub_5903,Harbour Diner,['Diners'],43.2694,-79.86329,3.5
+hub_5903,Pier 4 Park,"['Parks', 'Playgrounds', 'Beaches']",43.27379677,-79.86721112,3.5
+hub_6148,Berkeley North,"['Bars', 'Canadian (New)']",43.25740455,-79.86771453,4.5
+hub_6148,Relay Coffee Roasters,['Coffee Roasteries'],43.257503,-79.867776,4
+hub_6148,Mezza Caffe,['Coffee & Tea'],43.25751965,-79.86807877,3.5
+hub_6148,Undefined,"['Beer Bar', 'Cocktail Bars']",43.25743,-79.86754,5
+hub_6148,The French,"['Bistros', 'French']",43.25741,-79.86748,4
+hub_6148,Electric Diner,"['Breakfast & Brunch', 'Diners', 'Desserts']",43.2578,-79.86829,3.5
+hub_6148,The Mule,['Mexican'],43.25726,-79.86713,4
+hub_6148,28 Lister,['Steakhouses'],43.25762142,-79.86854653,1
+hub_6148,Earth to Table Bread Bar James,"['Salad', 'Pizza', 'Soup']",43.25734973,-79.86863941,4
+hub_6148,Diplomat,"['Venues & Event Spaces', 'Canadian (New)']",43.257244,-79.86708205,4
