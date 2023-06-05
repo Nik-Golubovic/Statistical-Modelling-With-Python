@@ -26,3 +26,7 @@ Below is a list of some of the challenges that were faced in this project.
 If we had more time, I would have liked to sort through the results of both queries a little better. I would have liked to try and add additional restrictions to the API calls to limit things like: POIs classified incorrectly, or POIs with a small sample size of reviews.
 
 In the future I will be using this database and checking the accuracy of the generated results by physically going to these bike locations and testing out thew nearby restaurants. Seems to me like I've managed to create a good "date-night" application.
+
+
+## WARNING
+Remove the CSV files from the folder and add them to the main directory before attempting to run any of the code. 
